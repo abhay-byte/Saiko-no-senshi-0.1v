@@ -1,0 +1,4388 @@
+fileFormatVersion: 2
+guid: 85b77a2bb76190e4bb301ef75a5b8452
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8676783920853047234
+    second: Orc_Male_Warrior_NoWeapon_Hero_0
+  - first:
+      213: 7379815954497310614
+    second: Orc_Male_Warrior_NoWeapon_Hero_1
+  - first:
+      213: 3625340777544820227
+    second: Orc_Male_Warrior_NoWeapon_Hero_2
+  - first:
+      213: 6928952917752893625
+    second: Orc_Male_Warrior_NoWeapon_Hero_3
+  - first:
+      213: -925583867387852347
+    second: Orc_Male_Warrior_NoWeapon_Hero_4
+  - first:
+      213: 6417366041749431764
+    second: Orc_Male_Warrior_NoWeapon_Hero_5
+  - first:
+      213: -2028238833675924939
+    second: Orc_Male_Warrior_NoWeapon_Hero_6
+  - first:
+      213: 304020019787699760
+    second: Orc_Male_Warrior_NoWeapon_Hero_7
+  - first:
+      213: -7666965715786390947
+    second: Orc_Male_Warrior_NoWeapon_Hero_8
+  - first:
+      213: 7644011533797908438
+    second: Orc_Male_Warrior_NoWeapon_Hero_9
+  - first:
+      213: 5476409765310992376
+    second: Orc_Male_Warrior_NoWeapon_Hero_10
+  - first:
+      213: 1832848555716140843
+    second: Orc_Male_Warrior_NoWeapon_Hero_11
+  - first:
+      213: 7291677891362092066
+    second: Orc_Male_Warrior_NoWeapon_Hero_12
+  - first:
+      213: 3964231977876826539
+    second: Orc_Male_Warrior_NoWeapon_Hero_13
+  - first:
+      213: 2391172860512169711
+    second: Orc_Male_Warrior_NoWeapon_Hero_14
+  - first:
+      213: -2641715002307651645
+    second: Orc_Male_Warrior_NoWeapon_Hero_15
+  - first:
+      213: -5443988305573974624
+    second: Orc_Male_Warrior_NoWeapon_Hero_16
+  - first:
+      213: 8133351252477304528
+    second: Orc_Male_Warrior_NoWeapon_Hero_17
+  - first:
+      213: -2961428325253846406
+    second: Orc_Male_Warrior_NoWeapon_Hero_18
+  - first:
+      213: 5219251577009896132
+    second: Orc_Male_Warrior_NoWeapon_Hero_19
+  - first:
+      213: 5160440137594992425
+    second: Orc_Male_Warrior_NoWeapon_Hero_20
+  - first:
+      213: 8612625731456624448
+    second: Orc_Male_Warrior_NoWeapon_Hero_21
+  - first:
+      213: -7590732383578206986
+    second: Orc_Male_Warrior_NoWeapon_Hero_22
+  - first:
+      213: -267519515461022499
+    second: Orc_Male_Warrior_NoWeapon_Hero_23
+  - first:
+      213: -6252452790933118613
+    second: Orc_Male_Warrior_NoWeapon_Hero_24
+  - first:
+      213: 1784485532103066491
+    second: Orc_Male_Warrior_NoWeapon_Hero_25
+  - first:
+      213: -6310460135893858828
+    second: Orc_Male_Warrior_NoWeapon_Hero_26
+  - first:
+      213: -6142369533531293268
+    second: Orc_Male_Warrior_NoWeapon_Hero_27
+  - first:
+      213: 4265767792550289376
+    second: Orc_Male_Warrior_NoWeapon_Hero_28
+  - first:
+      213: 5007474777950885137
+    second: Orc_Male_Warrior_NoWeapon_Hero_29
+  - first:
+      213: -3294449230346946925
+    second: Orc_Male_Warrior_NoWeapon_Hero_30
+  - first:
+      213: -3621097795615997127
+    second: Orc_Male_Warrior_NoWeapon_Hero_31
+  - first:
+      213: 1000854905537486343
+    second: Orc_Male_Warrior_NoWeapon_Hero_32
+  - first:
+      213: -5794550797919043384
+    second: Orc_Male_Warrior_NoWeapon_Hero_33
+  - first:
+      213: 5953363391239264132
+    second: Orc_Male_Warrior_NoWeapon_Hero_34
+  - first:
+      213: 3923807961015114072
+    second: Orc_Male_Warrior_NoWeapon_Hero_35
+  - first:
+      213: 1967782794643083073
+    second: Orc_Male_Warrior_NoWeapon_Hero_36
+  - first:
+      213: 5525627264351413711
+    second: Orc_Male_Warrior_NoWeapon_Hero_37
+  - first:
+      213: -4604752178634036907
+    second: Orc_Male_Warrior_NoWeapon_Hero_38
+  - first:
+      213: 297224996051501622
+    second: Orc_Male_Warrior_NoWeapon_Hero_39
+  - first:
+      213: 101835776014842571
+    second: Orc_Male_Warrior_NoWeapon_Hero_40
+  - first:
+      213: 3744842107185154101
+    second: Orc_Male_Warrior_NoWeapon_Hero_41
+  - first:
+      213: -1617625910549883087
+    second: Orc_Male_Warrior_NoWeapon_Hero_42
+  - first:
+      213: -8624933076796788193
+    second: Orc_Male_Warrior_NoWeapon_Hero_43
+  - first:
+      213: -6448922704593210423
+    second: Orc_Male_Warrior_NoWeapon_Hero_44
+  - first:
+      213: 6043381671477331434
+    second: Orc_Male_Warrior_NoWeapon_Hero_45
+  - first:
+      213: -3989155891122406304
+    second: Orc_Male_Warrior_NoWeapon_Hero_46
+  - first:
+      213: -6177357878348871645
+    second: Orc_Male_Warrior_NoWeapon_Hero_47
+  - first:
+      213: 2503255050778766897
+    second: Orc_Male_Warrior_NoWeapon_Hero_48
+  - first:
+      213: -7275125584671456000
+    second: Orc_Male_Warrior_NoWeapon_Hero_49
+  - first:
+      213: 5986939564589091159
+    second: Orc_Male_Warrior_NoWeapon_Hero_50
+  - first:
+      213: 2734787231447211162
+    second: Orc_Male_Warrior_NoWeapon_Hero_51
+  - first:
+      213: -8224519058868736254
+    second: Orc_Male_Warrior_NoWeapon_Hero_52
+  - first:
+      213: 8730792060713387120
+    second: Orc_Male_Warrior_NoWeapon_Hero_53
+  - first:
+      213: -28273593699599228
+    second: Orc_Male_Warrior_NoWeapon_Hero_54
+  - first:
+      213: 4839543478061514903
+    second: Orc_Male_Warrior_NoWeapon_Hero_55
+  - first:
+      213: 6338253760560346734
+    second: Orc_Male_Warrior_NoWeapon_Hero_56
+  - first:
+      213: 7744313091217644384
+    second: Orc_Male_Warrior_NoWeapon_Hero_57
+  - first:
+      213: 435744857581940725
+    second: Orc_Male_Warrior_NoWeapon_Hero_58
+  - first:
+      213: 2434178989294040150
+    second: Orc_Male_Warrior_NoWeapon_Hero_59
+  - first:
+      213: -7844118796947757462
+    second: Orc_Male_Warrior_NoWeapon_Hero_60
+  - first:
+      213: 1476110706254611135
+    second: Orc_Male_Warrior_NoWeapon_Hero_61
+  - first:
+      213: -6373697477268309729
+    second: Orc_Male_Warrior_NoWeapon_Hero_62
+  - first:
+      213: 304026354642094747
+    second: Orc_Male_Warrior_NoWeapon_Hero_63
+  - first:
+      213: 670118920676573833
+    second: Orc_Male_Warrior_NoWeapon_Hero_64
+  - first:
+      213: -3976315805640856376
+    second: Orc_Male_Warrior_NoWeapon_Hero_65
+  - first:
+      213: 7956370333012701058
+    second: Orc_Male_Warrior_NoWeapon_Hero_66
+  - first:
+      213: -5450321149915167345
+    second: Orc_Male_Warrior_NoWeapon_Hero_67
+  - first:
+      213: 7836824323045039560
+    second: Orc_Male_Warrior_NoWeapon_Hero_68
+  - first:
+      213: 4766636746700920437
+    second: Orc_Male_Warrior_NoWeapon_Hero_69
+  - first:
+      213: -7886878236620278313
+    second: Orc_Male_Warrior_NoWeapon_Hero_70
+  - first:
+      213: 4696462221053982235
+    second: Orc_Male_Warrior_NoWeapon_Hero_71
+  - first:
+      213: -1560758738941459113
+    second: Orc_Male_Warrior_NoWeapon_Hero_72
+  - first:
+      213: -1734863998152063243
+    second: Orc_Male_Warrior_NoWeapon_Hero_73
+  - first:
+      213: 1951768076955525163
+    second: Orc_Male_Warrior_NoWeapon_Hero_74
+  - first:
+      213: 8376527691564427496
+    second: Orc_Male_Warrior_NoWeapon_Hero_75
+  - first:
+      213: 4663435171305237903
+    second: Orc_Male_Warrior_NoWeapon_Hero_76
+  - first:
+      213: 921879675145117089
+    second: Orc_Male_Warrior_NoWeapon_Hero_77
+  - first:
+      213: -5227351250324952841
+    second: Orc_Male_Warrior_NoWeapon_Hero_78
+  - first:
+      213: 1555187853435752118
+    second: Orc_Male_Warrior_NoWeapon_Hero_79
+  - first:
+      213: 513879333569686326
+    second: Orc_Male_Warrior_NoWeapon_Hero_80
+  - first:
+      213: 8203827142536429938
+    second: Orc_Male_Warrior_NoWeapon_Hero_81
+  - first:
+      213: 7814828892228719165
+    second: Orc_Male_Warrior_NoWeapon_Hero_82
+  - first:
+      213: -8897931990145802201
+    second: Orc_Male_Warrior_NoWeapon_Hero_83
+  - first:
+      213: -1458043593795178080
+    second: Orc_Male_Warrior_NoWeapon_Hero_84
+  - first:
+      213: -1638909980471651713
+    second: Orc_Male_Warrior_NoWeapon_Hero_85
+  - first:
+      213: -3165951893080615537
+    second: Orc_Male_Warrior_NoWeapon_Hero_86
+  - first:
+      213: -5044151498849752926
+    second: Orc_Male_Warrior_NoWeapon_Hero_87
+  - first:
+      213: 8308723279226260577
+    second: Orc_Male_Warrior_NoWeapon_Hero_88
+  - first:
+      213: 6944436951974189648
+    second: Orc_Male_Warrior_NoWeapon_Hero_89
+  - first:
+      213: -1512567980228272363
+    second: Orc_Male_Warrior_NoWeapon_Hero_90
+  - first:
+      213: -3960204396429690054
+    second: Orc_Male_Warrior_NoWeapon_Hero_91
+  - first:
+      213: 140596246930561028
+    second: Orc_Male_Warrior_NoWeapon_Hero_92
+  - first:
+      213: -6136143699571465439
+    second: Orc_Male_Warrior_NoWeapon_Hero_93
+  - first:
+      213: 2675744578065721999
+    second: Orc_Male_Warrior_NoWeapon_Hero_94
+  - first:
+      213: 4090300338879772895
+    second: Orc_Male_Warrior_NoWeapon_Hero_95
+  - first:
+      213: -9111612474642024175
+    second: Orc_Male_Warrior_NoWeapon_Hero_96
+  - first:
+      213: -7123904812140841469
+    second: Orc_Male_Warrior_NoWeapon_Hero_97
+  - first:
+      213: 5945436506817416029
+    second: Orc_Male_Warrior_NoWeapon_Hero_98
+  - first:
+      213: 6700139958551198682
+    second: Orc_Male_Warrior_NoWeapon_Hero_99
+  - first:
+      213: 810975180723992970
+    second: Orc_Male_Warrior_NoWeapon_Hero_100
+  - first:
+      213: 4693557677259905572
+    second: Orc_Male_Warrior_NoWeapon_Hero_101
+  - first:
+      213: 6447530268097665271
+    second: Orc_Male_Warrior_NoWeapon_Hero_102
+  - first:
+      213: 6523272338994038126
+    second: Orc_Male_Warrior_NoWeapon_Hero_103
+  - first:
+      213: -846745873117578298
+    second: Orc_Male_Warrior_NoWeapon_Hero_104
+  - first:
+      213: 8101248490071314344
+    second: Orc_Male_Warrior_NoWeapon_Hero_105
+  - first:
+      213: -8959832243826199455
+    second: Orc_Male_Warrior_NoWeapon_Hero_106
+  - first:
+      213: 7477129989100514880
+    second: Orc_Male_Warrior_NoWeapon_Hero_107
+  - first:
+      213: 6734927600175134699
+    second: Orc_Male_Warrior_NoWeapon_Hero_108
+  - first:
+      213: 3946999895634143234
+    second: Orc_Male_Warrior_NoWeapon_Hero_109
+  - first:
+      213: 4831548598135426215
+    second: Orc_Male_Warrior_NoWeapon_Hero_110
+  - first:
+      213: -5532127727150140628
+    second: Orc_Male_Warrior_NoWeapon_Hero_111
+  - first:
+      213: -3054432397164972955
+    second: Orc_Male_Warrior_NoWeapon_Hero_112
+  - first:
+      213: 3293876636301009481
+    second: Orc_Male_Warrior_NoWeapon_Hero_113
+  - first:
+      213: 2444468781679641832
+    second: Orc_Male_Warrior_NoWeapon_Hero_114
+  - first:
+      213: 7289145910999545120
+    second: Orc_Male_Warrior_NoWeapon_Hero_115
+  - first:
+      213: 6097461545326652022
+    second: Orc_Male_Warrior_NoWeapon_Hero_116
+  - first:
+      213: -2705488375022284076
+    second: Orc_Male_Warrior_NoWeapon_Hero_117
+  - first:
+      213: -8684640976795000862
+    second: Orc_Male_Warrior_NoWeapon_Hero_118
+  - first:
+      213: 1922303156116118842
+    second: Orc_Male_Warrior_NoWeapon_Hero_119
+  - first:
+      213: -5061872905371082240
+    second: Orc_Male_Warrior_NoWeapon_Hero_120
+  - first:
+      213: -177547233644045881
+    second: Orc_Male_Warrior_NoWeapon_Hero_121
+  - first:
+      213: 73776931252467024
+    second: Orc_Male_Warrior_NoWeapon_Hero_122
+  - first:
+      213: 1173444531187545905
+    second: Orc_Male_Warrior_NoWeapon_Hero_123
+  - first:
+      213: 1825059240263885167
+    second: Orc_Male_Warrior_NoWeapon_Hero_124
+  - first:
+      213: -4485377712487766481
+    second: Orc_Male_Warrior_NoWeapon_Hero_125
+  - first:
+      213: 4203684151000780877
+    second: Orc_Male_Warrior_NoWeapon_Hero_126
+  - first:
+      213: -5898255000611215390
+    second: Orc_Male_Warrior_NoWeapon_Hero_127
+  - first:
+      213: -1855194774330112520
+    second: Orc_Male_Warrior_NoWeapon_Hero_128
+  - first:
+      213: -5131239325581636276
+    second: Orc_Male_Warrior_NoWeapon_Hero_129
+  - first:
+      213: -6399825768387230849
+    second: Orc_Male_Warrior_NoWeapon_Hero_130
+  - first:
+      213: 3430999309346543226
+    second: Orc_Male_Warrior_NoWeapon_Hero_131
+  - first:
+      213: -3965148045480538192
+    second: Orc_Male_Warrior_NoWeapon_Hero_132
+  - first:
+      213: 762474839582537455
+    second: Orc_Male_Warrior_NoWeapon_Hero_133
+  - first:
+      213: -611988353936434258
+    second: Orc_Male_Warrior_NoWeapon_Hero_134
+  - first:
+      213: 1189485648592395571
+    second: Orc_Male_Warrior_NoWeapon_Hero_135
+  - first:
+      213: -1711937291485798277
+    second: Orc_Male_Warrior_NoWeapon_Hero_136
+  - first:
+      213: 1324098324332943717
+    second: Orc_Male_Warrior_NoWeapon_Hero_137
+  - first:
+      213: 7409263000267619691
+    second: Orc_Male_Warrior_NoWeapon_Hero_138
+  - first:
+      213: 7896447039390412463
+    second: Orc_Male_Warrior_NoWeapon_Hero_139
+  - first:
+      213: 3182120024990133933
+    second: Orc_Male_Warrior_NoWeapon_Hero_140
+  - first:
+      213: -6420155850689701908
+    second: Orc_Male_Warrior_NoWeapon_Hero_141
+  - first:
+      213: -4008643041854053032
+    second: Orc_Male_Warrior_NoWeapon_Hero_142
+  - first:
+      213: -7397996190940118606
+    second: Orc_Male_Warrior_NoWeapon_Hero_143
+  - first:
+      213: 6895913214404985710
+    second: Orc_Male_Warrior_NoWeapon_Hero_144
+  - first:
+      213: -2427120791091931770
+    second: Orc_Male_Warrior_NoWeapon_Hero_145
+  - first:
+      213: 7926896620640904150
+    second: Orc_Male_Warrior_NoWeapon_Hero_146
+  - first:
+      213: -4303119615327236399
+    second: Orc_Male_Warrior_NoWeapon_Hero_147
+  - first:
+      213: 6867184153045842695
+    second: Orc_Male_Warrior_NoWeapon_Hero_148
+  - first:
+      213: -8727553084840720392
+    second: Orc_Male_Warrior_NoWeapon_Hero_149
+  - first:
+      213: -5521240292553924462
+    second: Orc_Male_Warrior_NoWeapon_Hero_150
+  - first:
+      213: -5703839449906844773
+    second: Orc_Male_Warrior_NoWeapon_Hero_151
+  - first:
+      213: 3915377412235395424
+    second: Orc_Male_Warrior_NoWeapon_Hero_152
+  - first:
+      213: 8851864090214111749
+    second: Orc_Male_Warrior_NoWeapon_Hero_153
+  - first:
+      213: -7644451219314075689
+    second: Orc_Male_Warrior_NoWeapon_Hero_154
+  - first:
+      213: 4797749289563573844
+    second: Orc_Male_Warrior_NoWeapon_Hero_155
+  - first:
+      213: 3388171693606868733
+    second: Orc_Male_Warrior_NoWeapon_Hero_156
+  - first:
+      213: 685033561224315890
+    second: Orc_Male_Warrior_NoWeapon_Hero_157
+  - first:
+      213: -4557882948513273495
+    second: Orc_Male_Warrior_NoWeapon_Hero_158
+  - first:
+      213: -1439479355783881184
+    second: Orc_Male_Warrior_NoWeapon_Hero_159
+  - first:
+      213: -8286158772236295607
+    second: Orc_Male_Warrior_NoWeapon_Hero_160
+  - first:
+      213: 2719176827105896815
+    second: Orc_Male_Warrior_NoWeapon_Hero_161
+  - first:
+      213: 7501469137145591783
+    second: Orc_Male_Warrior_NoWeapon_Hero_162
+  - first:
+      213: 2080079811726522092
+    second: Orc_Male_Warrior_NoWeapon_Hero_163
+  - first:
+      213: -5620829248793257262
+    second: Orc_Male_Warrior_NoWeapon_Hero_164
+  - first:
+      213: -7337975923405352597
+    second: Orc_Male_Warrior_NoWeapon_Hero_165
+  - first:
+      213: 4842221813639781498
+    second: Orc_Male_Warrior_NoWeapon_Hero_166
+  - first:
+      213: -2746987002503746431
+    second: Orc_Male_Warrior_NoWeapon_Hero_167
+  - first:
+      213: -6243109528594017654
+    second: Orc_Male_Warrior_NoWeapon_Hero_168
+  - first:
+      213: 9146750625502857023
+    second: Orc_Male_Warrior_NoWeapon_Hero_169
+  - first:
+      213: 1522400414343622732
+    second: Orc_Male_Warrior_NoWeapon_Hero_170
+  - first:
+      213: -5403568027004205589
+    second: Orc_Male_Warrior_NoWeapon_Hero_171
+  - first:
+      213: -3502500131609998288
+    second: Orc_Male_Warrior_NoWeapon_Hero_172
+  - first:
+      213: -4985594872149669756
+    second: Orc_Male_Warrior_NoWeapon_Hero_173
+  - first:
+      213: 7696960022653504472
+    second: Orc_Male_Warrior_NoWeapon_Hero_174
+  - first:
+      213: -8457775476538109755
+    second: Orc_Male_Warrior_NoWeapon_Hero_175
+  - first:
+      213: -4843337648954841936
+    second: Orc_Male_Warrior_NoWeapon_Hero_176
+  - first:
+      213: 4487054121571999057
+    second: Orc_Male_Warrior_NoWeapon_Hero_177
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38abbcdefed59780800000000000000
+      internalID: -8676783920853047234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f829bb28f5a6660800000000000000
+      internalID: 7379815954497310614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3062c43ba3ccf4230800000000000000
+      internalID: 3625340777544820227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b05110b7f5982060800000000000000
+      internalID: 6928952917752893625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9c386606aa723f0800000000000000
+      internalID: -925583867387852347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d521201a601f0950800000000000000
+      internalID: 6417366041749431764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a081fd68f3ad3e0800000000000000
+      internalID: -2028238833675924939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0369d04e898183400800000000000000
+      internalID: 304020019787699760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5224758d47799590800000000000000
+      internalID: -7666965715786390947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df53038dfbf41a60800000000000000
+      internalID: 7644011533797908438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff87d19aad100c40800000000000000
+      internalID: 5476409765310992376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f5c82fc069f6910800000000000000
+      internalID: 1832848555716140843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224f433c86e313560800000000000000
+      internalID: 7291677891362092066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9a7900bf7c30730800000000000000
+      internalID: 3964231977876826539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feee1633c072f2120800000000000000
+      internalID: 2391172860512169711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7d1a9a33eb65bd0800000000000000
+      internalID: -2641715002307651645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ade1e4ca711374b0800000000000000
+      internalID: -5443988305573974624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de536d2fd77fd070800000000000000
+      internalID: 8133351252477304528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ae675e0a4e6e6d0800000000000000
+      internalID: -2961428325253846406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca721118a18e6840800000000000000
+      internalID: 5219251577009896132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9277406c6f09d9740800000000000000
+      internalID: 5160440137594992425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0476cda9871368770800000000000000
+      internalID: 8612625731456624448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc44c35d1d48a690800000000000000
+      internalID: -7590732383578206986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc06760b64994cf0800000000000000
+      internalID: -267519515461022499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6128854053da39a0800000000000000
+      internalID: -6252452790933118613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73c3d70324c3c810800000000000000
+      internalID: 1784485532103066491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f588cec0fdbc68a0800000000000000
+      internalID: -6310460135893858828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca97fa2f37be1caa0800000000000000
+      internalID: -6142369533531293268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef1341d43d033b30800000000000000
+      internalID: 4265767792550289376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1159d71a7cf1e7540800000000000000
+      internalID: 5007474777950885137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3967c9631e3c742d0800000000000000
+      internalID: -3294449230346946925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933cb538db64fbdc0800000000000000
+      internalID: -3621097795615997127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ed44cdb30c3ed00800000000000000
+      internalID: 1000854905537486343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0441900ce959fa0800000000000000
+      internalID: -5794550797919043384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48791a946789e9250800000000000000
+      internalID: 5953363391239264132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859d7232d8a247630800000000000000
+      internalID: 3923807961015114072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f83d5a608fe4b10800000000000000
+      internalID: 1967782794643083073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc521ec88b8feac40800000000000000
+      internalID: 5525627264351413711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559efc16a42a810c0800000000000000
+      internalID: -4604752178634036907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63244042f84ff1400800000000000000
+      internalID: 297224996051501622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca7ac6491bc96100800000000000000
+      internalID: 101835776014842571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53842b23e0a58f330800000000000000
+      internalID: 3744842107185154101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137d43e0ec90d89e0800000000000000
+      internalID: -1617625910549883087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12b20240151e4880800000000000000
+      internalID: -8624933076796788193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c335c0d7f2d086a0800000000000000
+      internalID: -6448922704593210423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5438a6c976ed350800000000000000
+      internalID: 6043381671477331434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cfdfb3adba3a8c0800000000000000
+      internalID: -3989155891122406304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3280e8a1dbd954aa0800000000000000
+      internalID: -6177357878348871645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13eeed3b4395db220800000000000000
+      internalID: 2503255050778766897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0054d4573df890b90800000000000000
+      internalID: -7275125584671456000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759801750d1e51350800000000000000
+      internalID: 5986939564589091159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c5faa5f7ae3f520800000000000000
+      internalID: 2734787231447211162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fe2b7cd73acdd80800000000000000
+      internalID: -8224519058868736254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0744f9a1f110a2970800000000000000
+      internalID: 8730792060713387120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cf20bf05d8b9ff0800000000000000
+      internalID: -28273593699599228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7904aecf623892340800000000000000
+      internalID: 4839543478061514903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66bb76b63006f750800000000000000
+      internalID: 6338253760560346734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b5f6fa9b3597b60800000000000000
+      internalID: 7744313091217644384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffefd8a3a31c0600800000000000000
+      internalID: 435744857581940725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6543798d4e0f7c120800000000000000
+      internalID: 2434178989294040150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66e6fb9387142390800000000000000
+      internalID: -7844118796947757462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb20577ddd23c7410800000000000000
+      internalID: 1476110706254611135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f197e99e9e31c87a0800000000000000
+      internalID: -6373697477268309729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a8cc6db5e183400800000000000000
+      internalID: 304026354642094747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9820230ab9dbc4900800000000000000
+      internalID: 670118920676573833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc610a97d941d8c0800000000000000
+      internalID: -3976315805640856376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fada8c9a4ba6e60800000000000000
+      internalID: 7956370333012701058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85028b8ac19c54b0800000000000000
+      internalID: -5450321149915167345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd9d36533ef1cc60800000000000000
+      internalID: 7836824323045039560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5769e6ccdde762240800000000000000
+      internalID: 4766636746700920437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d53d7fb70e2c8290800000000000000
+      internalID: -7886878236620278313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16f6f2d18f2d2140800000000000000
+      internalID: 4696462221053982235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755ce493232175ae0800000000000000
+      internalID: -1560758738941459113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f64888a2668ce7e0800000000000000
+      internalID: -1734863998152063243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20a1ee99b2161b10800000000000000
+      internalID: 1951768076955525163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8abe20e876f3470800000000000000
+      internalID: 8376527691564427496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d26b29499d7b040800000000000000
+      internalID: 4663435171305237903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad5da22eac2bcc00800000000000000
+      internalID: 921879675145117089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8ef28cbb7b477b0800000000000000
+      internalID: -5227351250324952841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be4a0bec13259510800000000000000
+      internalID: 1555187853435752118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63be5def78aa12700800000000000000
+      internalID: 513879333569686326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27187950259d9d170800000000000000
+      internalID: 8203827142536429938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3290c50979d37c60800000000000000
+      internalID: 7814828892228719165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72066cb8ff1348480800000000000000
+      internalID: -8897931990145802201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1fdc4931df3cbe0800000000000000
+      internalID: -1458043593795178080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72152b5e0c6149e0800000000000000
+      internalID: -1638909980471651713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8554f4f6874014d0800000000000000
+      internalID: -3165951893080615537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a86ec5dfe29ff9b0800000000000000
+      internalID: -5044151498849752926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ccc4b0dc38e4370800000000000000
+      internalID: 8308723279226260577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a94875d989f5060800000000000000
+      internalID: 6944436951974189648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f1dd79f67420be0800000000000000
+      internalID: -1512567980228272363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b3ed065178a09c0800000000000000
+      internalID: -3960204396429690054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4089c0baa8f73f100800000000000000
+      internalID: 140596246930561028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123aa40e0d908daa0800000000000000
+      internalID: -6136143699571465439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ae84d5487222520800000000000000
+      internalID: 2675744578065721999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8b693ac7aa3c830800000000000000
+      internalID: 4090300338879772895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119b1fdcabc0d8180800000000000000
+      internalID: -9111612474642024175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30636a2415ec22d90800000000000000
+      internalID: -7123904812140841469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bcd7fa00f628250800000000000000
+      internalID: 5945436506817416029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb38de1bcdabfc50800000000000000
+      internalID: 6700139958551198682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8936b051a9214b00800000000000000
+      internalID: 810975180723992970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a52e507ddd22140800000000000000
+      internalID: 4693557677259905572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f85a8c4e9a3a7950800000000000000
+      internalID: 6447530268097665271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e650fda61a1578a50800000000000000
+      internalID: 6523272338994038126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb7cc95d11cf34f0800000000000000
+      internalID: -846745873117578298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afced7549a6d6070800000000000000
+      internalID: 8101248490071314344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164f5a3ab0848a380800000000000000
+      internalID: -8959832243826199455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ea1cb0c1a14c760800000000000000
+      internalID: 7477129989100514880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7b96c18f4477d50800000000000000
+      internalID: 6734927600175134699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208e6c33e7f86c630800000000000000
+      internalID: 3946999895634143234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac06e2f9db1d0340800000000000000
+      internalID: 4831548598135426215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c237023842fe933b0800000000000000
+      internalID: -5532127727150140628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5647988fae97c95d0800000000000000
+      internalID: -3054432397164972955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9422ea8595336bd20800000000000000
+      internalID: 3293876636301009481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e40c84d76f7ce120800000000000000
+      internalID: 2444468781679641832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0257e15269f382560800000000000000
+      internalID: 7289145910999545120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67aacc048f88e9450800000000000000
+      internalID: 6097461545326652022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d219de38ac247ad0800000000000000
+      internalID: -2705488375022284076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef15587b05f97780800000000000000
+      internalID: -8684640976795000862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dd9e229846daa10800000000000000
+      internalID: 1922303156116118842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002ae29596d90c9b0800000000000000
+      internalID: -5061872905371082240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c91bcf4bb9398df0800000000000000
+      internalID: -177547233644045881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055fbe36abb160100800000000000000
+      internalID: 73776931252467024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137fe0d7599e84010800000000000000
+      internalID: 1173444531187545905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6129fd95b9e35910800000000000000
+      internalID: 1825059240263885167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2666bb2cbcb0c1c0800000000000000
+      internalID: -4485377712487766481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d405758967c765a30800000000000000
+      internalID: 4203684151000780877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7a5e5c350352ea0800000000000000
+      internalID: -5898255000611215390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f584e69e260146e0800000000000000
+      internalID: -1855194774330112520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d0135150d2ac8b0800000000000000
+      internalID: -5131239325581636276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7343e21f504f27a0800000000000000
+      internalID: -6399825768387230849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76163291bb5d9f20800000000000000
+      internalID: 3430999309346543226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf4c436cd6f8f8c0800000000000000
+      internalID: -3965148045480538192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe67d7ba3dad49a00800000000000000
+      internalID: 762474839582537455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab51f4a5d7c187f0800000000000000
+      internalID: -611988353936434258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d56cd25e6e18010800000000000000
+      internalID: 1189485648592395571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70ae378a1afd38e0800000000000000
+      internalID: -1711937291485798277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5691e8d1964206210800000000000000
+      internalID: 1324098324332943717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d756a517df2d660800000000000000
+      internalID: 7409263000267619691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faeec82ceb0d59d60800000000000000
+      internalID: 7896447039390412463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daea13a9d49292c20800000000000000
+      internalID: 3182120024990133933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce79efce44607e6a0800000000000000
+      internalID: -6420155850689701908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855a2f264607e58c0800000000000000
+      internalID: -4008643041854053032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1425d19a9055990800000000000000
+      internalID: -7397996190940118606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63088a488433bf50800000000000000
+      internalID: 6895913214404985710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685100cff72215ed0800000000000000
+      internalID: -2427120791091931770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3ab8c5a7ef10e60800000000000000
+      internalID: 7926896620640904150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de876e328f3844c0800000000000000
+      internalID: -4303119615327236399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b3d717a932d4f50800000000000000
+      internalID: 6867184153045842695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f744bbb5b081e680800000000000000
+      internalID: -8727553084840720392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290efbae43d9063b0800000000000000
+      internalID: -5521240292553924462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b61749d34e7d0b0800000000000000
+      internalID: -5703839449906844773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06101e90307365630800000000000000
+      internalID: 3915377412235395424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a9f39ad7328da70800000000000000
+      internalID: 8851864090214111749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d79bf93e1479e590800000000000000
+      internalID: -7644451219314075689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ec1dd2f87059240800000000000000
+      internalID: 4797749289563573844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6987b3434350f20800000000000000
+      internalID: 3388171693606868733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f30ffbf46ab18900800000000000000
+      internalID: 685033561224315890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9696e066b952fb0c0800000000000000
+      internalID: -4557882948513273495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e5ef01721f50ce0800000000000000
+      internalID: -1439479355783881184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9426e54af76a10d80800000000000000
+      internalID: -8286158772236295607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69ee1ddae47cb520800000000000000
+      internalID: 2719176827105896815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e77e1d8f629a1860800000000000000
+      internalID: 7501469137145591783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6bb6a619deddc10800000000000000
+      internalID: 2080079811726522092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da5d82249dcef1b0800000000000000
+      internalID: -5620829248793257262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b611e03a6c54a2a90800000000000000
+      internalID: -7337975923405352597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c95a59517033340800000000000000
+      internalID: 4842221813639781498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c262910edb0e9d0800000000000000
+      internalID: -2746987002503746431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a821c4e06f40c59a0800000000000000
+      internalID: -6243109528594017654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f370e2a7b39cfee70800000000000000
+      internalID: 9146750625502857023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40fbde5c17a02510800000000000000
+      internalID: 1522400414343622732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be581ce328ba205b0800000000000000
+      internalID: -5403568027004205589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c80a5ffae946fc0800000000000000
+      internalID: -3502500131609998288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488828be0eb9fcab0800000000000000
+      internalID: -4985594872149669756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db05a04c5811da60800000000000000
+      internalID: 7696960022653504472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c09feae302ff9a80800000000000000
+      internalID: -8457775476538109755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b465c2c11209ccb0800000000000000
+      internalID: -4843337648954841936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Male_Warrior_NoWeapon_Hero_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d504c33f7354e30800000000000000
+      internalID: 4487054121571999057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

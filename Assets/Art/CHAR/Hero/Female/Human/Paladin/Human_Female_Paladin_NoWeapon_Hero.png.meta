@@ -1,0 +1,4388 @@
+fileFormatVersion: 2
+guid: 358d007e040ee4747b7929ce3f5a4b13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9045075686317656620
+    second: Human_Female_Paladin_NoWeapon_Hero_0
+  - first:
+      213: -734927609619584959
+    second: Human_Female_Paladin_NoWeapon_Hero_1
+  - first:
+      213: 1597224691682903872
+    second: Human_Female_Paladin_NoWeapon_Hero_2
+  - first:
+      213: 8033577284238906573
+    second: Human_Female_Paladin_NoWeapon_Hero_3
+  - first:
+      213: 484356520814547036
+    second: Human_Female_Paladin_NoWeapon_Hero_4
+  - first:
+      213: 1678351125879547624
+    second: Human_Female_Paladin_NoWeapon_Hero_5
+  - first:
+      213: 6000694001530816459
+    second: Human_Female_Paladin_NoWeapon_Hero_6
+  - first:
+      213: -6486661643231406616
+    second: Human_Female_Paladin_NoWeapon_Hero_7
+  - first:
+      213: 6971686152059003385
+    second: Human_Female_Paladin_NoWeapon_Hero_8
+  - first:
+      213: -9063254017129432234
+    second: Human_Female_Paladin_NoWeapon_Hero_9
+  - first:
+      213: -6135273561861241744
+    second: Human_Female_Paladin_NoWeapon_Hero_10
+  - first:
+      213: -6306291955159309805
+    second: Human_Female_Paladin_NoWeapon_Hero_11
+  - first:
+      213: 2636897487170045871
+    second: Human_Female_Paladin_NoWeapon_Hero_12
+  - first:
+      213: 3424247598958137195
+    second: Human_Female_Paladin_NoWeapon_Hero_13
+  - first:
+      213: -1517004548199873900
+    second: Human_Female_Paladin_NoWeapon_Hero_14
+  - first:
+      213: 1967299967766740317
+    second: Human_Female_Paladin_NoWeapon_Hero_15
+  - first:
+      213: -4145452159538703052
+    second: Human_Female_Paladin_NoWeapon_Hero_16
+  - first:
+      213: 1363918871030705975
+    second: Human_Female_Paladin_NoWeapon_Hero_17
+  - first:
+      213: -318226195099868572
+    second: Human_Female_Paladin_NoWeapon_Hero_18
+  - first:
+      213: -1036248191931511723
+    second: Human_Female_Paladin_NoWeapon_Hero_19
+  - first:
+      213: 761779846536173302
+    second: Human_Female_Paladin_NoWeapon_Hero_20
+  - first:
+      213: -4769717351962948507
+    second: Human_Female_Paladin_NoWeapon_Hero_21
+  - first:
+      213: -694869255139898267
+    second: Human_Female_Paladin_NoWeapon_Hero_22
+  - first:
+      213: 444818849283843394
+    second: Human_Female_Paladin_NoWeapon_Hero_23
+  - first:
+      213: 6034736800525420006
+    second: Human_Female_Paladin_NoWeapon_Hero_24
+  - first:
+      213: 4559094232146918048
+    second: Human_Female_Paladin_NoWeapon_Hero_25
+  - first:
+      213: -4608215823309544730
+    second: Human_Female_Paladin_NoWeapon_Hero_26
+  - first:
+      213: -656320446386836600
+    second: Human_Female_Paladin_NoWeapon_Hero_27
+  - first:
+      213: -8077593409298631979
+    second: Human_Female_Paladin_NoWeapon_Hero_28
+  - first:
+      213: 5198104878999029735
+    second: Human_Female_Paladin_NoWeapon_Hero_29
+  - first:
+      213: 965755673990235423
+    second: Human_Female_Paladin_NoWeapon_Hero_30
+  - first:
+      213: 4302814257291284058
+    second: Human_Female_Paladin_NoWeapon_Hero_31
+  - first:
+      213: -7026543366134353945
+    second: Human_Female_Paladin_NoWeapon_Hero_32
+  - first:
+      213: 878019075104703488
+    second: Human_Female_Paladin_NoWeapon_Hero_33
+  - first:
+      213: -1969483041575355478
+    second: Human_Female_Paladin_NoWeapon_Hero_34
+  - first:
+      213: 2233644982785676451
+    second: Human_Female_Paladin_NoWeapon_Hero_35
+  - first:
+      213: 6177272974990931264
+    second: Human_Female_Paladin_NoWeapon_Hero_36
+  - first:
+      213: 4204587616423262413
+    second: Human_Female_Paladin_NoWeapon_Hero_37
+  - first:
+      213: 5615682702948756860
+    second: Human_Female_Paladin_NoWeapon_Hero_38
+  - first:
+      213: -1393824219620661202
+    second: Human_Female_Paladin_NoWeapon_Hero_39
+  - first:
+      213: -2518339556839427407
+    second: Human_Female_Paladin_NoWeapon_Hero_40
+  - first:
+      213: 8001122578258761318
+    second: Human_Female_Paladin_NoWeapon_Hero_41
+  - first:
+      213: -2904401423797882082
+    second: Human_Female_Paladin_NoWeapon_Hero_42
+  - first:
+      213: 1898150369898626624
+    second: Human_Female_Paladin_NoWeapon_Hero_43
+  - first:
+      213: 5200456536924614779
+    second: Human_Female_Paladin_NoWeapon_Hero_44
+  - first:
+      213: -6056447919812969182
+    second: Human_Female_Paladin_NoWeapon_Hero_45
+  - first:
+      213: 1681231415746578879
+    second: Human_Female_Paladin_NoWeapon_Hero_46
+  - first:
+      213: 7899804832385010241
+    second: Human_Female_Paladin_NoWeapon_Hero_47
+  - first:
+      213: -3399905871877883437
+    second: Human_Female_Paladin_NoWeapon_Hero_48
+  - first:
+      213: 4668870962720570844
+    second: Human_Female_Paladin_NoWeapon_Hero_49
+  - first:
+      213: -6952311705759758171
+    second: Human_Female_Paladin_NoWeapon_Hero_50
+  - first:
+      213: 5882698078080635618
+    second: Human_Female_Paladin_NoWeapon_Hero_51
+  - first:
+      213: -3081359064035653723
+    second: Human_Female_Paladin_NoWeapon_Hero_52
+  - first:
+      213: -8766311566693481443
+    second: Human_Female_Paladin_NoWeapon_Hero_53
+  - first:
+      213: -8843804517067511648
+    second: Human_Female_Paladin_NoWeapon_Hero_54
+  - first:
+      213: -3169361734828795430
+    second: Human_Female_Paladin_NoWeapon_Hero_55
+  - first:
+      213: 4013544763540107366
+    second: Human_Female_Paladin_NoWeapon_Hero_56
+  - first:
+      213: 4831419747655793900
+    second: Human_Female_Paladin_NoWeapon_Hero_57
+  - first:
+      213: 5395751484616968598
+    second: Human_Female_Paladin_NoWeapon_Hero_58
+  - first:
+      213: -405049656162823197
+    second: Human_Female_Paladin_NoWeapon_Hero_59
+  - first:
+      213: -3446670284215476586
+    second: Human_Female_Paladin_NoWeapon_Hero_60
+  - first:
+      213: 2745641358899440495
+    second: Human_Female_Paladin_NoWeapon_Hero_61
+  - first:
+      213: -149023944497760717
+    second: Human_Female_Paladin_NoWeapon_Hero_62
+  - first:
+      213: 620812443925315387
+    second: Human_Female_Paladin_NoWeapon_Hero_63
+  - first:
+      213: 3211216214157338663
+    second: Human_Female_Paladin_NoWeapon_Hero_64
+  - first:
+      213: 7315361871050993957
+    second: Human_Female_Paladin_NoWeapon_Hero_65
+  - first:
+      213: 3812482411813964684
+    second: Human_Female_Paladin_NoWeapon_Hero_66
+  - first:
+      213: -1576735241183999840
+    second: Human_Female_Paladin_NoWeapon_Hero_67
+  - first:
+      213: 6395568917532275465
+    second: Human_Female_Paladin_NoWeapon_Hero_68
+  - first:
+      213: -8731246139089401023
+    second: Human_Female_Paladin_NoWeapon_Hero_69
+  - first:
+      213: -8540673217848600411
+    second: Human_Female_Paladin_NoWeapon_Hero_70
+  - first:
+      213: 7978791119669074842
+    second: Human_Female_Paladin_NoWeapon_Hero_71
+  - first:
+      213: 2805517758526811064
+    second: Human_Female_Paladin_NoWeapon_Hero_72
+  - first:
+      213: -2191125798774030151
+    second: Human_Female_Paladin_NoWeapon_Hero_73
+  - first:
+      213: 1168827315636270466
+    second: Human_Female_Paladin_NoWeapon_Hero_74
+  - first:
+      213: 5130434604210446012
+    second: Human_Female_Paladin_NoWeapon_Hero_75
+  - first:
+      213: 6205840031656445768
+    second: Human_Female_Paladin_NoWeapon_Hero_76
+  - first:
+      213: 3251128847025140531
+    second: Human_Female_Paladin_NoWeapon_Hero_77
+  - first:
+      213: -1999687417085489727
+    second: Human_Female_Paladin_NoWeapon_Hero_78
+  - first:
+      213: -1745050318322937297
+    second: Human_Female_Paladin_NoWeapon_Hero_79
+  - first:
+      213: -5139554078534999567
+    second: Human_Female_Paladin_NoWeapon_Hero_80
+  - first:
+      213: -5280475463150307245
+    second: Human_Female_Paladin_NoWeapon_Hero_81
+  - first:
+      213: -3922798104865016470
+    second: Human_Female_Paladin_NoWeapon_Hero_82
+  - first:
+      213: -9218620956718702268
+    second: Human_Female_Paladin_NoWeapon_Hero_83
+  - first:
+      213: 509901700423867436
+    second: Human_Female_Paladin_NoWeapon_Hero_84
+  - first:
+      213: -8298160133156346509
+    second: Human_Female_Paladin_NoWeapon_Hero_85
+  - first:
+      213: -5116344919723561806
+    second: Human_Female_Paladin_NoWeapon_Hero_86
+  - first:
+      213: 2736519870326855665
+    second: Human_Female_Paladin_NoWeapon_Hero_87
+  - first:
+      213: 8068010190857405702
+    second: Human_Female_Paladin_NoWeapon_Hero_88
+  - first:
+      213: -879550023728557501
+    second: Human_Female_Paladin_NoWeapon_Hero_89
+  - first:
+      213: 352581102021252023
+    second: Human_Female_Paladin_NoWeapon_Hero_90
+  - first:
+      213: -7306581100409643163
+    second: Human_Female_Paladin_NoWeapon_Hero_91
+  - first:
+      213: 2671552442068795178
+    second: Human_Female_Paladin_NoWeapon_Hero_92
+  - first:
+      213: -2663551221550091136
+    second: Human_Female_Paladin_NoWeapon_Hero_93
+  - first:
+      213: -8082193722249698985
+    second: Human_Female_Paladin_NoWeapon_Hero_94
+  - first:
+      213: 6195779362865470845
+    second: Human_Female_Paladin_NoWeapon_Hero_95
+  - first:
+      213: 3608591116711036852
+    second: Human_Female_Paladin_NoWeapon_Hero_96
+  - first:
+      213: 1267039859784745408
+    second: Human_Female_Paladin_NoWeapon_Hero_97
+  - first:
+      213: 7070458043694552067
+    second: Human_Female_Paladin_NoWeapon_Hero_98
+  - first:
+      213: 6369549614020606693
+    second: Human_Female_Paladin_NoWeapon_Hero_99
+  - first:
+      213: -8560002670593018024
+    second: Human_Female_Paladin_NoWeapon_Hero_100
+  - first:
+      213: -508771875340357413
+    second: Human_Female_Paladin_NoWeapon_Hero_101
+  - first:
+      213: 8707501322369081535
+    second: Human_Female_Paladin_NoWeapon_Hero_102
+  - first:
+      213: -5317668260638103429
+    second: Human_Female_Paladin_NoWeapon_Hero_103
+  - first:
+      213: -1145262940861339275
+    second: Human_Female_Paladin_NoWeapon_Hero_104
+  - first:
+      213: 7964663210936863570
+    second: Human_Female_Paladin_NoWeapon_Hero_105
+  - first:
+      213: -3528608261104768693
+    second: Human_Female_Paladin_NoWeapon_Hero_106
+  - first:
+      213: 1400946255529284429
+    second: Human_Female_Paladin_NoWeapon_Hero_107
+  - first:
+      213: -1258159414359409013
+    second: Human_Female_Paladin_NoWeapon_Hero_108
+  - first:
+      213: 802579106855723959
+    second: Human_Female_Paladin_NoWeapon_Hero_109
+  - first:
+      213: 3424881998480616748
+    second: Human_Female_Paladin_NoWeapon_Hero_110
+  - first:
+      213: 7707192489431775564
+    second: Human_Female_Paladin_NoWeapon_Hero_111
+  - first:
+      213: 2573061561426748168
+    second: Human_Female_Paladin_NoWeapon_Hero_112
+  - first:
+      213: -1056576031896696530
+    second: Human_Female_Paladin_NoWeapon_Hero_113
+  - first:
+      213: 5878806468061057531
+    second: Human_Female_Paladin_NoWeapon_Hero_114
+  - first:
+      213: -222996462933044668
+    second: Human_Female_Paladin_NoWeapon_Hero_115
+  - first:
+      213: 5701328313416637882
+    second: Human_Female_Paladin_NoWeapon_Hero_116
+  - first:
+      213: 3326268123948918548
+    second: Human_Female_Paladin_NoWeapon_Hero_117
+  - first:
+      213: -3442457860644767883
+    second: Human_Female_Paladin_NoWeapon_Hero_118
+  - first:
+      213: 3618197314105656450
+    second: Human_Female_Paladin_NoWeapon_Hero_119
+  - first:
+      213: 2673849636933119523
+    second: Human_Female_Paladin_NoWeapon_Hero_120
+  - first:
+      213: -7829237264059182568
+    second: Human_Female_Paladin_NoWeapon_Hero_121
+  - first:
+      213: -8646135022349432889
+    second: Human_Female_Paladin_NoWeapon_Hero_122
+  - first:
+      213: 5756421089654936317
+    second: Human_Female_Paladin_NoWeapon_Hero_123
+  - first:
+      213: -7962413443986079102
+    second: Human_Female_Paladin_NoWeapon_Hero_124
+  - first:
+      213: -2067701480460983916
+    second: Human_Female_Paladin_NoWeapon_Hero_125
+  - first:
+      213: 8982247266526284610
+    second: Human_Female_Paladin_NoWeapon_Hero_126
+  - first:
+      213: -5934476168182979257
+    second: Human_Female_Paladin_NoWeapon_Hero_127
+  - first:
+      213: 3545384552028646027
+    second: Human_Female_Paladin_NoWeapon_Hero_128
+  - first:
+      213: 4910474400398163500
+    second: Human_Female_Paladin_NoWeapon_Hero_129
+  - first:
+      213: 7209882028056780000
+    second: Human_Female_Paladin_NoWeapon_Hero_130
+  - first:
+      213: -1937554814218716081
+    second: Human_Female_Paladin_NoWeapon_Hero_131
+  - first:
+      213: -4615993446885577802
+    second: Human_Female_Paladin_NoWeapon_Hero_132
+  - first:
+      213: 7397550608068538608
+    second: Human_Female_Paladin_NoWeapon_Hero_133
+  - first:
+      213: -2330716810959134020
+    second: Human_Female_Paladin_NoWeapon_Hero_134
+  - first:
+      213: 5001997787004338913
+    second: Human_Female_Paladin_NoWeapon_Hero_135
+  - first:
+      213: 5234164607326153845
+    second: Human_Female_Paladin_NoWeapon_Hero_136
+  - first:
+      213: -7632057393020386818
+    second: Human_Female_Paladin_NoWeapon_Hero_137
+  - first:
+      213: -5628663641588901362
+    second: Human_Female_Paladin_NoWeapon_Hero_138
+  - first:
+      213: -990429137799691631
+    second: Human_Female_Paladin_NoWeapon_Hero_139
+  - first:
+      213: -5009870102560392981
+    second: Human_Female_Paladin_NoWeapon_Hero_140
+  - first:
+      213: 1927480198237680650
+    second: Human_Female_Paladin_NoWeapon_Hero_141
+  - first:
+      213: -4070699392329820145
+    second: Human_Female_Paladin_NoWeapon_Hero_142
+  - first:
+      213: -5473637517236313316
+    second: Human_Female_Paladin_NoWeapon_Hero_143
+  - first:
+      213: 287819052121801183
+    second: Human_Female_Paladin_NoWeapon_Hero_144
+  - first:
+      213: -2000185744432771092
+    second: Human_Female_Paladin_NoWeapon_Hero_145
+  - first:
+      213: 6431905544934012775
+    second: Human_Female_Paladin_NoWeapon_Hero_146
+  - first:
+      213: -3074273493476557063
+    second: Human_Female_Paladin_NoWeapon_Hero_147
+  - first:
+      213: 3828251047208549352
+    second: Human_Female_Paladin_NoWeapon_Hero_148
+  - first:
+      213: 3661291609776937591
+    second: Human_Female_Paladin_NoWeapon_Hero_149
+  - first:
+      213: 1067616759545879456
+    second: Human_Female_Paladin_NoWeapon_Hero_150
+  - first:
+      213: -2128114528908654018
+    second: Human_Female_Paladin_NoWeapon_Hero_151
+  - first:
+      213: 5053235787541339120
+    second: Human_Female_Paladin_NoWeapon_Hero_152
+  - first:
+      213: -8544616465398524771
+    second: Human_Female_Paladin_NoWeapon_Hero_153
+  - first:
+      213: 3718237153450200363
+    second: Human_Female_Paladin_NoWeapon_Hero_154
+  - first:
+      213: -6483450703671703931
+    second: Human_Female_Paladin_NoWeapon_Hero_155
+  - first:
+      213: -397033348841022086
+    second: Human_Female_Paladin_NoWeapon_Hero_156
+  - first:
+      213: -457230876879933746
+    second: Human_Female_Paladin_NoWeapon_Hero_157
+  - first:
+      213: 694155192814299135
+    second: Human_Female_Paladin_NoWeapon_Hero_158
+  - first:
+      213: -7027229372379378091
+    second: Human_Female_Paladin_NoWeapon_Hero_159
+  - first:
+      213: -2009777094041973955
+    second: Human_Female_Paladin_NoWeapon_Hero_160
+  - first:
+      213: -5716394787715567658
+    second: Human_Female_Paladin_NoWeapon_Hero_161
+  - first:
+      213: -7387429368887136421
+    second: Human_Female_Paladin_NoWeapon_Hero_162
+  - first:
+      213: -4337191018508982191
+    second: Human_Female_Paladin_NoWeapon_Hero_163
+  - first:
+      213: -4170528941564834703
+    second: Human_Female_Paladin_NoWeapon_Hero_164
+  - first:
+      213: -2005763835070318763
+    second: Human_Female_Paladin_NoWeapon_Hero_165
+  - first:
+      213: 4865621441121380425
+    second: Human_Female_Paladin_NoWeapon_Hero_166
+  - first:
+      213: -6795670214031064260
+    second: Human_Female_Paladin_NoWeapon_Hero_167
+  - first:
+      213: -643831144456498080
+    second: Human_Female_Paladin_NoWeapon_Hero_168
+  - first:
+      213: 1717095791247136413
+    second: Human_Female_Paladin_NoWeapon_Hero_169
+  - first:
+      213: -5687716813006594081
+    second: Human_Female_Paladin_NoWeapon_Hero_170
+  - first:
+      213: 7681679802312131908
+    second: Human_Female_Paladin_NoWeapon_Hero_171
+  - first:
+      213: 8962413367860823442
+    second: Human_Female_Paladin_NoWeapon_Hero_172
+  - first:
+      213: -5772318022401818179
+    second: Human_Female_Paladin_NoWeapon_Hero_173
+  - first:
+      213: -532697239280467128
+    second: Human_Female_Paladin_NoWeapon_Hero_174
+  - first:
+      213: -5597063546136762255
+    second: Human_Female_Paladin_NoWeapon_Hero_175
+  - first:
+      213: 2317425463783057971
+    second: Human_Female_Paladin_NoWeapon_Hero_176
+  - first:
+      213: -1195937068189716720
+    second: Human_Female_Paladin_NoWeapon_Hero_177
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5738e069f697280800000000000000
+      internalID: -9045075686317656620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1486ffc9b330dc5f0800000000000000
+      internalID: -734927609619584959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0470e36056b7a2610800000000000000
+      internalID: 1597224691682903872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc415bee9fffc7f60800000000000000
+      internalID: 8033577284238906573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c509bcf70b7c8b600800000000000000
+      internalID: 484356520814547036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e66d6ae473ba4710800000000000000
+      internalID: 1678351125879547624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7cf0fb66fb64350800000000000000
+      internalID: 6000694001530816459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e55a017a9fbaf5a0800000000000000
+      internalID: -6486661643231406616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1acf22e9760c060800000000000000
+      internalID: 6971686152059003385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b3ed79d7ad83280800000000000000
+      internalID: -9063254017129432234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0744a6993312bdaa0800000000000000
+      internalID: -6135273561861241744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31263d201ec8b78a0800000000000000
+      internalID: -6306291955159309805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa704ef2b44289420800000000000000
+      internalID: 2636897487170045871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f42ee7c0f558f20800000000000000
+      internalID: 3424247598958137195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49205ed966482fae0800000000000000
+      internalID: -1517004548199873900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dbf51c5e04d4b10800000000000000
+      internalID: 1967299967766740317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435d15579356876c0800000000000000
+      internalID: -4145452159538703052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fac32acfc9de210800000000000000
+      internalID: 1363918871030705975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46229da26fe659bf0800000000000000
+      internalID: -318226195099868572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c08cc72c18e91f0800000000000000
+      internalID: -1036248191931511723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f617ddfbb2629a00800000000000000
+      internalID: 761779846536173302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c4b35e65f8ecdb0800000000000000
+      internalID: -4769717351962948507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ccb0218145b56f0800000000000000
+      internalID: -694869255139898267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24526fcf2605c2600800000000000000
+      internalID: 444818849283843394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e58b4c8521bfb350800000000000000
+      internalID: 6034736800525420006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa36ac8c08254f30800000000000000
+      internalID: 4559094232146918048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2ec43cf145c00c0800000000000000
+      internalID: -4608215823309544730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b6946080844e6f0800000000000000
+      internalID: -656320446386836600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2f7b6579f96ef80800000000000000
+      internalID: -8077593409298631979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e746f1c8d0632840800000000000000
+      internalID: 5198104878999029735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1581003bad076d00800000000000000
+      internalID: 965755673990235423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e455c05caa6bb30800000000000000
+      internalID: 4302814257291284058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef2fa66904bc7e90800000000000000
+      internalID: -7026543366134353945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00402a562b95f2c00800000000000000
+      internalID: 878019075104703488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabbeb3cb9dfaa4e0800000000000000
+      internalID: -1969483041575355478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4164907408ffe10800000000000000
+      internalID: 2233644982785676451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04574faca051ab550800000000000000
+      internalID: 6177272974990931264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc83ae70922b95a30800000000000000
+      internalID: 4204587616423262413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7de0984aa9eeed40800000000000000
+      internalID: 5615682702948756860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28ac2ec14428ace0800000000000000
+      internalID: -1393824219620661202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b275ca048f0d0dd0800000000000000
+      internalID: -2518339556839427407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6669879d792b90f60800000000000000
+      internalID: 8001122578258761318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1373611b4e71b7d0800000000000000
+      internalID: -2904401423797882082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e751064b5975a10800000000000000
+      internalID: 1898150369898626624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70ff39caabbb2840800000000000000
+      internalID: 5200456536924614779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22df4e294bc23fba0800000000000000
+      internalID: -6056447919812969182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb94dc8a01fe45710800000000000000
+      internalID: 1681231415746578879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a093dd3aeb1ad60800000000000000
+      internalID: 7899804832385010241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d934fc7f9b11d0d0800000000000000
+      internalID: -3399905871877883437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd781367692bc040800000000000000
+      internalID: 4668870962720570844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8466aa65d648f90800000000000000
+      internalID: -6952311705759758171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e29ed0fbba83a150800000000000000
+      internalID: 5882698078080635618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a789bac140dc35d0800000000000000
+      internalID: -3081359064035653723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1446d4731ec75680800000000000000
+      internalID: -8766311566693481443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a82231f5ae744580800000000000000
+      internalID: -8843804517067511648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad950de4b4a2404d0800000000000000
+      internalID: -3169361734828795430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660ffe0a2b9f2b730800000000000000
+      internalID: 4013544763540107366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecb4db99a6ac0340800000000000000
+      internalID: 4831419747655793900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69981e8236f81ea40800000000000000
+      internalID: 5395751484616968598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e35508db79f06af0800000000000000
+      internalID: -405049656162823197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e117343a7fa20d0800000000000000
+      internalID: -3446670284215476586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b62d5d44a7a1620800000000000000
+      internalID: 2745641358899440495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336fe25138f8eedf0800000000000000
+      internalID: -149023944497760717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f7f48e0a19d9800800000000000000
+      internalID: 620812443925315387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728a2dd0228809c20800000000000000
+      internalID: 3211216214157338663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5217e6ffcd2658560800000000000000
+      internalID: 7315361871050993957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b889cdd88a8e430800000000000000
+      internalID: 3812482411813964684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8436ce6af4e1ae0800000000000000
+      internalID: -1576735241183999840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9037a0a9b00a1c850800000000000000
+      internalID: 6395568917532275465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b431985e164d680800000000000000
+      internalID: -8731246139089401023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8117375fe697980800000000000000
+      internalID: -8540673217848600411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b9ae8ff3c5abe60800000000000000
+      internalID: 7978791119669074842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb6a0089833fe620800000000000000
+      internalID: 2805517758526811064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b041e1f1be8791e0800000000000000
+      internalID: -2191125798774030151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285f5483042883010800000000000000
+      internalID: 1168827315636270466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbed55f1717f23740800000000000000
+      internalID: 5130434604210446012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84708cbf0a29f1650800000000000000
+      internalID: 6205840031656445768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33375fd06745e1d20800000000000000
+      internalID: 3251128847025140531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd0dc293eeaf34e0800000000000000
+      internalID: -1999687417085489727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22dd2d2bf558c7e0800000000000000
+      internalID: -1745050318322937297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1e20dcbc2aca8b0800000000000000
+      internalID: -5139554078534999567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35872cd1b8bf7b6b0800000000000000
+      internalID: -5280475463150307245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65f1f158eb6f89c0800000000000000
+      internalID: -3922798104865016470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4416fcb0511e01080800000000000000
+      internalID: -9218620956718702268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cd12c15e8831700800000000000000
+      internalID: 509901700423867436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37568ed035307dc80800000000000000
+      internalID: -8298160133156346509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bca08f27671ff8b0800000000000000
+      internalID: -5116344919723561806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f751a7c2521af520800000000000000
+      internalID: 2736519870326855665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605894eb58457ff60800000000000000
+      internalID: 8068010190857405702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3421979d9e53bc3f0800000000000000
+      internalID: -879550023728557501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b31e7ce4ae94e400800000000000000
+      internalID: 352581102021252023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f108b733fc99a90800000000000000
+      internalID: -7306581100409643163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f7654aac2431520800000000000000
+      internalID: 2671552442068795178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084f27ea64a290bd0800000000000000
+      internalID: -2663551221550091136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7512a6381a746df80800000000000000
+      internalID: -8082193722249698985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dda4ef084dbf550800000000000000
+      internalID: 6195779362865470845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b70133608a441230800000000000000
+      internalID: 3608591116711036852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c10bb61a0e659110800000000000000
+      internalID: 1267039859784745408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30497bd31205f1260800000000000000
+      internalID: 7070458043694552067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eabcea60af256850800000000000000
+      internalID: 6369549614020606693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85778e68ce2c43980800000000000000
+      internalID: -8560002670593018024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0f0aaccaa70f8f0800000000000000
+      internalID: -508771875340357413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0ad01815247d870800000000000000
+      internalID: 8707501322369081535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78eb4324e8d336b0800000000000000
+      internalID: -5317668260638103429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5796a835c653b10f0800000000000000
+      internalID: -1145262940861339275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b8383edfa288e60800000000000000
+      internalID: 7964663210936863570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49675d5b7dd70fc0800000000000000
+      internalID: -3528608261104768693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d439c366239217310800000000000000
+      internalID: 1400946255529284429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e3b4cbdae1a8ee0800000000000000
+      internalID: -1258159414359409013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b329480275532b00800000000000000
+      internalID: 802579106855723959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d21152800a78f20800000000000000
+      internalID: 3424881998480616748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49b3241cb275fa60800000000000000
+      internalID: 7707192489431775564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803ad028bd955b320800000000000000
+      internalID: 2573061561426748168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e290b9c62b94651f0800000000000000
+      internalID: -1056576031896696530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf15c00e557b59150800000000000000
+      internalID: 5878806468061057531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44215b006e1c7ecf0800000000000000
+      internalID: -222996462933044668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd5315e4ef2f1f40800000000000000
+      internalID: 5701328313416637882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4172ea34c37492e20800000000000000
+      internalID: 3326268123948918548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577740e80dee930d0800000000000000
+      internalID: -3442457860644767883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2844a82894b663230800000000000000
+      internalID: 3618197314105656450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ea430041c6b1520800000000000000
+      internalID: 2673849636933119523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812508d7036f85390800000000000000
+      internalID: -7829237264059182568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c74cc0a102c20880800000000000000
+      internalID: -8646135022349432889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df213727b7ae2ef40800000000000000
+      internalID: 5756421089654936317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2824a6cc823df7190800000000000000
+      internalID: -7962413443986079102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491e29b657c0e43e0800000000000000
+      internalID: -2067701480460983916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bc5068c4a57ac70800000000000000
+      internalID: 8982247266526284610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745ae630e5184ada0800000000000000
+      internalID: -5934476168182979257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a23df377cb33130800000000000000
+      internalID: 3545384552028646027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2eb16a4372852440800000000000000
+      internalID: 4910474400398163500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec1cc24185ae0460800000000000000
+      internalID: 7209882028056780000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c35ad792c6c15e0800000000000000
+      internalID: -1937554814218716081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbaad8aa62b0ffb0800000000000000
+      internalID: -4615993446885577802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f076e9851169a660800000000000000
+      internalID: 7397550608068538608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2efbab861a7afd0800000000000000
+      internalID: -2330716810959134020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e20fad4c7aaa6540800000000000000
+      internalID: 5001997787004338913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ce8938afc73a840800000000000000
+      internalID: 5234164607326153845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef140a7cc3c751690800000000000000
+      internalID: -7632057393020386818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0adfea6d38f2e1b0800000000000000
+      internalID: -5628663641588901362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192c04a52f94142f0800000000000000
+      internalID: -990429137799691631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8b9066fad597ab0800000000000000
+      internalID: -5009870102560392981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a047e8f2709cfba10800000000000000
+      internalID: 1927480198237680650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0858cc5878f187c0800000000000000
+      internalID: -4070699392329820145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13e0ebbdabb904b0800000000000000
+      internalID: -5473637517236313316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd14f4927e98ef300800000000000000
+      internalID: 287819052121801183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefc842b9a9ed34e0800000000000000
+      internalID: -2000185744432771092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76738a2f308b24950800000000000000
+      internalID: 6431905544934012775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe3eeebb8cf555d0800000000000000
+      internalID: -3074273493476557063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebf1e36b0ea02530800000000000000
+      internalID: 3828251047208549352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a5fdb12558fc230800000000000000
+      internalID: 3661291609776937591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab5cfc49cfe0de00800000000000000
+      internalID: 1067616759545879456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a4d077c1b6772e0800000000000000
+      internalID: -2128114528908654018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb51b2fc23b02640800000000000000
+      internalID: 5053235787541339120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9497f5989c6b6980800000000000000
+      internalID: -8544616465398524771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d0f02bdf4d99330800000000000000
+      internalID: 3718237153450200363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58644e09fe72606a0800000000000000
+      internalID: -6483450703671703931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dd856d5447d7af0800000000000000
+      internalID: -397033348841022086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece2b33a0f697a9f0800000000000000
+      internalID: -457230876879933746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff760b6587222a900800000000000000
+      internalID: 694155192814299135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ec2202e144a7e90800000000000000
+      internalID: -7027229372379378091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b49e79166db14e0800000000000000
+      internalID: -2009777094041973955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfa1523a394ba0b0800000000000000
+      internalID: -5716394787715567658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fa13811249a7990800000000000000
+      internalID: -7387429368887136421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158e1c28fb33fc3c0800000000000000
+      internalID: -4337191018508982191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cca88260e4f16c0800000000000000
+      internalID: -4170528941564834703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557fe434b681a24e0800000000000000
+      internalID: -2005763835070318763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9486099ebe8268340800000000000000
+      internalID: 4865621441121380425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33c9f102fde0b1a0800000000000000
+      internalID: -6795670214031064260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064565b3cf6a017f0800000000000000
+      internalID: -643831144456498080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d969a9a468954d710800000000000000
+      internalID: 1717095791247136413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf99b181bb2111b0800000000000000
+      internalID: -5687716813006594081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4458b17b41fca9a60800000000000000
+      internalID: 7681679802312131908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2958e812973e06c70800000000000000
+      internalID: 8962413367860823442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db18728775b94efa0800000000000000
+      internalID: -5772318022401818179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8434bd7eeaa7b98f0800000000000000
+      internalID: -532697239280467128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178ea3bfb5c3352b0800000000000000
+      internalID: -5597063546136762255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33aeb3a5e26292020800000000000000
+      internalID: 2317425463783057971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Paladin_NoWeapon_Hero_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f64d4a29d276fe0800000000000000
+      internalID: -1195937068189716720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

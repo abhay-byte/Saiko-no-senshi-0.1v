@@ -1,0 +1,73 @@
+Human
+
+	Warrior
+		Swords
+		spear
+		dagger
+		wand
+		mace
+		katana
+
+	berseker
+		Swords
+		spear
+		katana
+
+	paladin
+		Swords
+		spear
+		mace
+		wand
+
+	Mage
+		dagger
+		wand
+
+	knight
+		Swords
+		katana
+
+
+	barbarian
+		Swords
+
+	duelist
+		Swords
+		katana
+		dagger
+		spear
+		mace
+
+Elf
+
+	Warrior
+		Swords
+		spear
+		dagger
+		mace
+		katana
+
+	berseker
+		Swords
+		spear
+		katana
+
+	Mage
+		dagger
+		wand
+
+
+
+Orc
+	Warrior
+		Swords
+		spear
+		dagger
+		mace
+		katana
+
+	berseker
+		Swords
+		spear
+		katana
+

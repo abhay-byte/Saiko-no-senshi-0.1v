@@ -1,0 +1,2012 @@
+fileFormatVersion: 2
+guid: e365491c4142f784e8934c884afcbf9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5761228024463667182
+    second: Water Anime - Copy_0
+  - first:
+      213: 1232695455771035750
+    second: Water Anime - Copy_1
+  - first:
+      213: 8991702971864703094
+    second: Water Anime - Copy_2
+  - first:
+      213: -7973520982644313040
+    second: Water Anime - Copy_3
+  - first:
+      213: -7984124387593652396
+    second: Water Anime - Copy_4
+  - first:
+      213: -1927100782461509607
+    second: Water Anime - Copy_5
+  - first:
+      213: -4613510577759248621
+    second: Water Anime - Copy_6
+  - first:
+      213: 7285829153150385528
+    second: Water Anime - Copy_7
+  - first:
+      213: -7712051140248363927
+    second: Water Anime - Copy_8
+  - first:
+      213: 2966127147364178396
+    second: Water Anime - Copy_9
+  - first:
+      213: -4483214625330420738
+    second: Water Anime - Copy_10
+  - first:
+      213: 4752721749223489780
+    second: Water Anime - Copy_11
+  - first:
+      213: 490750847618749522
+    second: Water Anime - Copy_12
+  - first:
+      213: -1499642597856076062
+    second: Water Anime - Copy_13
+  - first:
+      213: 4875575399647548180
+    second: Water Anime - Copy_14
+  - first:
+      213: -5621958922486664702
+    second: Water Anime - Copy_15
+  - first:
+      213: 8752798529447745244
+    second: Water Anime - Copy_16
+  - first:
+      213: 1489582168623286454
+    second: Water Anime - Copy_17
+  - first:
+      213: -5128857631005497836
+    second: Water Anime - Copy_18
+  - first:
+      213: 7156843532724577147
+    second: Water Anime - Copy_19
+  - first:
+      213: 3360200012775365363
+    second: Water Anime - Copy_20
+  - first:
+      213: 7966603467934809662
+    second: Water Anime - Copy_21
+  - first:
+      213: 6866827456556817571
+    second: Water Anime - Copy_22
+  - first:
+      213: 4138992264627589038
+    second: Water Anime - Copy_23
+  - first:
+      213: 1757844466917940783
+    second: Water Anime - Copy_24
+  - first:
+      213: -5749849891344557548
+    second: Water Anime - Copy_25
+  - first:
+      213: -2303672501398348084
+    second: Water Anime - Copy_26
+  - first:
+      213: -7501291469466018372
+    second: Water Anime - Copy_27
+  - first:
+      213: 3730255380031249004
+    second: Water Anime - Copy_28
+  - first:
+      213: 6122602175937894434
+    second: Water Anime - Copy_29
+  - first:
+      213: -3318516776594131776
+    second: Water Anime - Copy_30
+  - first:
+      213: -5326018513807657185
+    second: Water Anime - Copy_31
+  - first:
+      213: -3963435172468826074
+    second: Water Anime - Copy_32
+  - first:
+      213: 3768303919448782487
+    second: Water Anime - Copy_33
+  - first:
+      213: 7803878779080358798
+    second: Water Anime - Copy_34
+  - first:
+      213: -4311008204217510335
+    second: Water Anime - Copy_35
+  - first:
+      213: -3378374255885353109
+    second: Water Anime - Copy_36
+  - first:
+      213: -1587547953594662305
+    second: Water Anime - Copy_37
+  - first:
+      213: -8834534068111830562
+    second: Water Anime - Copy_38
+  - first:
+      213: 5149295851790288351
+    second: Water Anime - Copy_39
+  - first:
+      213: 7605742149578979118
+    second: Water Anime - Copy_40
+  - first:
+      213: 3025560629482328523
+    second: Water Anime - Copy_41
+  - first:
+      213: -6128400317857626073
+    second: Water Anime - Copy_42
+  - first:
+      213: -3355041507975062609
+    second: Water Anime - Copy_43
+  - first:
+      213: -4085973591161111473
+    second: Water Anime - Copy_44
+  - first:
+      213: -1125447629453694759
+    second: Water Anime - Copy_45
+  - first:
+      213: -943242864904786423
+    second: Water Anime - Copy_46
+  - first:
+      213: -7150874167072225036
+    second: Water Anime - Copy_47
+  - first:
+      213: -1683619063908473456
+    second: Water Anime - Copy_48
+  - first:
+      213: 4028231809659078224
+    second: Water Anime - Copy_49
+  - first:
+      213: 6094194982453275756
+    second: Water Anime - Copy_50
+  - first:
+      213: 3998589622937377223
+    second: Water Anime - Copy_51
+  - first:
+      213: 9013427094015216242
+    second: Water Anime - Copy_52
+  - first:
+      213: 1545486528709042119
+    second: Water Anime - Copy_53
+  - first:
+      213: -2010166570200112808
+    second: Water Anime - Copy_54
+  - first:
+      213: -6790373013555961886
+    second: Water Anime - Copy_55
+  - first:
+      213: -9076408094830728834
+    second: Water Anime - Copy_56
+  - first:
+      213: 4211048921285109956
+    second: Water Anime - Copy_57
+  - first:
+      213: 2049794853082536754
+    second: Water Anime - Copy_58
+  - first:
+      213: -3468092597532156126
+    second: Water Anime - Copy_59
+  - first:
+      213: -4174238317223537930
+    second: Water Anime - Copy_60
+  - first:
+      213: -1300370302930338825
+    second: Water Anime - Copy_61
+  - first:
+      213: 28682151616951062
+    second: Water Anime - Copy_62
+  - first:
+      213: 5832924152255521358
+    second: Water Anime - Copy_63
+  - first:
+      213: 7207842545701572451
+    second: Water Anime - Copy_64
+  - first:
+      213: 7245510424600372089
+    second: Water Anime - Copy_65
+  - first:
+      213: -2420055240029356848
+    second: Water Anime - Copy_66
+  - first:
+      213: -9012449907883111807
+    second: Water Anime - Copy_67
+  - first:
+      213: -4794565001706610251
+    second: Water Anime - Copy_68
+  - first:
+      213: 5026465829664422724
+    second: Water Anime - Copy_69
+  - first:
+      213: 3159467327758715387
+    second: Water Anime - Copy_70
+  - first:
+      213: -1340261823395409189
+    second: Water Anime - Copy_71
+  - first:
+      213: 2203851057069359748
+    second: Water Anime - Copy_72
+  - first:
+      213: -4009093587129422908
+    second: Water Anime - Copy_73
+  - first:
+      213: -2173797966750829598
+    second: Water Anime - Copy_74
+  - first:
+      213: 8450738032733721248
+    second: Water Anime - Copy_75
+  - first:
+      213: -9022863586931475713
+    second: Water Anime - Copy_76
+  - first:
+      213: -3542025614652954327
+    second: Water Anime - Copy_77
+  - first:
+      213: 5435416072292194639
+    second: Water Anime - Copy_78
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Water Anime - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 864
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21051d3d2a10c00b0800000000000000
+      internalID: -5761228024463667182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 864
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66888756cf96b1110800000000000000
+      internalID: 1232695455771035750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 864
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670e1db7632f8cc70800000000000000
+      internalID: 8991702971864703094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 864
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034bc5c69ec585190800000000000000
+      internalID: -7973520982644313040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 864
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45772f2db21b23190800000000000000
+      internalID: -7984124387593652396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 864
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910210f6c009145e0800000000000000
+      internalID: -1927100782461509607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 800
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f172da29489ffb0800000000000000
+      internalID: -4613510577759248621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 800
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87db6b743077c1560800000000000000
+      internalID: 7285829153150385528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 839
+        width: 11
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c99df195a49f490800000000000000
+      internalID: -7712051140248363927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 800
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9d841ececc92920800000000000000
+      internalID: 2966127147364178396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 800
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef328552d0c68c1c0800000000000000
+      internalID: -4483214625330420738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 800
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f04dbaff3f05f140800000000000000
+      internalID: 4752721749223489780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 834
+        width: 11
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2549989bb4f7fc600800000000000000
+      internalID: 490750847618749522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 800
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee9eb0b003303be0800000000000000
+      internalID: -1499642597856076062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 800
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41310ab7ef589a340800000000000000
+      internalID: 4875575399647548180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_15
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 800
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202385b752acaf1b0800000000000000
+      internalID: -5621958922486664702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 736
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd65b4263ef287970800000000000000
+      internalID: 8752798529447745244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 736
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b80c88171f0ca410800000000000000
+      internalID: 1489582168623286454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_18
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 736
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416ad509823a2d8b0800000000000000
+      internalID: -5128857631005497836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 736
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73a9114647325360800000000000000
+      internalID: 7156843532724577147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_20
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 768
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa1db7cb14d1ae20800000000000000
+      internalID: 3360200012775365363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_21
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 768
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e36ac25af0f8e60800000000000000
+      internalID: 7966603467934809662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_22
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 736
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acd7f1903fdb4f50800000000000000
+      internalID: 6866827456556817571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_23
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 736
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf873d0987a07930800000000000000
+      internalID: 4138992264627589038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_24
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 736
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e970daa3e156810800000000000000
+      internalID: 1757844466917940783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_25
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 736
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ad692ecfd6430b0800000000000000
+      internalID: -5749849891344557548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_26
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 672
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cced05bb016b700e0800000000000000
+      internalID: -2303672501398348084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_27
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 672
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd5fcde62f06e790800000000000000
+      internalID: -7501291469466018372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_28
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 672
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a9040218784c330800000000000000
+      internalID: 3730255380031249004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_29
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 672
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228dfc57d3ad7f450800000000000000
+      internalID: 6122602175937894434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_30
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 640
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4beede29242f1d0800000000000000
+      internalID: -3318516776594131776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_31
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 640
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f173751516e2616b0800000000000000
+      internalID: -5326018513807657185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 698
+        width: 64
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620e4b6b5bc0ff8c0800000000000000
+      internalID: -3963435172468826074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_33
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 698
+        width: 64
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796f47c0374bb4430800000000000000
+      internalID: 3768303919448782487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 634
+        width: 33
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b3b412762fc4c60800000000000000
+      internalID: 7803878779080358798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 640
+        width: 33
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14612d301e83c24c0800000000000000
+      internalID: -4311008204217510335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_36
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 672
+        width: 20
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ff0af738a9d11d0800000000000000
+      internalID: -3378374255885353109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 672
+        width: 32
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5287122c85e7f9e0800000000000000
+      internalID: -1587547953594662305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_38
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 672
+        width: 20
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed19b1a821e656580800000000000000
+      internalID: -8834534068111830562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 672
+        width: 32
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd54a598b49f57740800000000000000
+      internalID: 5149295851790288351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_40
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 576
+        width: 52
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27fed620360d8960800000000000000
+      internalID: 7605742149578979118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_41
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 640
+        width: 52
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc193b6cc53fcf920800000000000000
+      internalID: 3025560629482328523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_42
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 640
+        width: 31
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72884bc616c83faa0800000000000000
+      internalID: -6128400317857626073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_43
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 634
+        width: 31
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab9476368f7071d0800000000000000
+      internalID: -3355041507975062609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_44
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 576
+        width: 52
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cf631daa4bb47c0800000000000000
+      internalID: -4085973591161111473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_45
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 544
+        width: 20
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d86b19085b9160f0800000000000000
+      internalID: -1125447629453694759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_46
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 544
+        width: 31
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ead64ac9de8e2f0800000000000000
+      internalID: -943242864904786423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_47
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 544
+        width: 32
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8842ef4ddf2cc90800000000000000
+      internalID: -7150874167072225036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_48
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 544
+        width: 20
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095e8aea16592a8e0800000000000000
+      internalID: -1683619063908473456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_49
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 456
+        width: 26
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05688a70d7727e730800000000000000
+      internalID: 4028231809659078224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_50
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 457
+        width: 19
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c68115c0ee29450800000000000000
+      internalID: 6094194982453275756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_51
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 455
+        width: 16
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9debd9318dd7730800000000000000
+      internalID: 3998589622937377223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_52
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 458
+        width: 12
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a88a3df20261d70800000000000000
+      internalID: 9013427094015216242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_53
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 458
+        width: 11
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf9adc3fcba27510800000000000000
+      internalID: 1545486528709042119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_54
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 487
+        width: 27
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8516bdb97247a14e0800000000000000
+      internalID: -2010166570200112808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_55
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 521
+        width: 14
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef199a98bfb3c1a0800000000000000
+      internalID: -6790373013555961886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_56
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 551
+        width: 21
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7962273dee1a0280800000000000000
+      internalID: -9076408094830728834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 550
+        width: 27
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8adfccea6a07a30800000000000000
+      internalID: 4211048921285109956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_58
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 640
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b98600f85527c10800000000000000
+      internalID: 2049794853082536754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_59
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 634
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f1fe3482cdedfc0800000000000000
+      internalID: -3468092597532156126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_60
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f21116dd502216c0800000000000000
+      internalID: -4174238317223537930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_61
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbbe51691824fde0800000000000000
+      internalID: -1300370302930338825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_62
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 645
+        width: 31
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613b582d346e56000800000000000000
+      internalID: 28682151616951062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_63
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 645
+        width: 31
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42acf0cc95b2f050800000000000000
+      internalID: 5832924152255521358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_64
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 773
+        width: 31
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f4d754b96670460800000000000000
+      internalID: 7207842545701572451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_65
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 773
+        width: 31
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973e1b2c7593d8460800000000000000
+      internalID: 7245510424600372089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_66
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 590
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc3a39c49c3a6ed0800000000000000
+      internalID: -2420055240029356848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_67
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 590
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a00ac0f885de280800000000000000
+      internalID: -9012449907883111807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_68
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 590
+        width: 4
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1e1cc9888467db0800000000000000
+      internalID: -4794565001706610251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_69
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 570
+        width: 32
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b79cc6a0891c540800000000000000
+      internalID: 5026465829664422724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_70
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 506
+        width: 4
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9c2868bcea8db20800000000000000
+      internalID: 3159467327758715387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_71
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 512
+        width: 4
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2df7ef8fe666de0800000000000000
+      internalID: -1340261823395409189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_72
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 608
+        width: 17
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4820d722cd6a59e10800000000000000
+      internalID: 2203851057069359748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_73
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 547
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbaad3af96dc58c0800000000000000
+      internalID: -4009093587129422908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_74
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 585
+        width: 14
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3b95a344e15d1e0800000000000000
+      internalID: -2173797966750829598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_75
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 585
+        width: 14
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a21af2877d074570800000000000000
+      internalID: 8450738032733721248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_76
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 353
+        width: 37
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa74247f5958c280800000000000000
+      internalID: -9022863586931475713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_77
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 356
+        width: 37
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929a64d487238dec0800000000000000
+      internalID: -3542025614652954327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Anime - Copy_78
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49dc63ae1a7e6b40800000000000000
+      internalID: 5435416072292194639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

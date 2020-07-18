@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!70 &1571457573053283516
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5305143904633171197}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 2}
+  m_Size: {x: 2, y: 4}
+  m_Direction: 0
+--- !u!114 &8380585677568435555
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5305143904633171197}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5b1f64ef65a74c7cbc8d41dd19bf5f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1001 &1821271380105030201
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5825930509070616260, guid: b249b10197bc23b44be39fc859cc34c7,
+        type: 3}
+      propertyPath: m_Name
+      value: Water Anime - Copy_15 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6026265454866320024, guid: b249b10197bc23b44be39fc859cc34c7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -144.29027
+      objectReference: {fileID: 0}
+    - target: {fileID: 6026265454866320024, guid: b249b10197bc23b44be39fc859cc34c7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -211.15465
+      objectReference: {fileID: 0}
+    - target: {fileID: 6026265454866320024, guid: b249b10197bc23b44be39fc859cc34c7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6026265454866320024, guid: b249b10197bc23b44be39fc859cc34c7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6026265454866320024, guid: b249b10197bc23b44be39fc859cc34c7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6026265454866320024, guid: b249b10197bc23b44be39fc859cc34c7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6026265454866320024, guid: b249b10197bc23b44be39fc859cc34c7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6026265454866320024, guid: b249b10197bc23b44be39fc859cc34c7,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6026265454866320024, guid: b249b10197bc23b44be39fc859cc34c7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6026265454866320024, guid: b249b10197bc23b44be39fc859cc34c7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6026265454866320024, guid: b249b10197bc23b44be39fc859cc34c7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b249b10197bc23b44be39fc859cc34c7, type: 3}
+--- !u!1 &5305143904633171197 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5825930509070616260, guid: b249b10197bc23b44be39fc859cc34c7,
+    type: 3}
+  m_PrefabInstance: {fileID: 1821271380105030201}
+  m_PrefabAsset: {fileID: 0}

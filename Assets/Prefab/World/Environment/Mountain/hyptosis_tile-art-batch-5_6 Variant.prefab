@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6310983599157859537
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7297474571766236576, guid: f0f190bf4ae22b84187f8caacdb32331,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -644.0487
+      objectReference: {fileID: 0}
+    - target: {fileID: 7297474571766236576, guid: f0f190bf4ae22b84187f8caacdb32331,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 54.628265
+      objectReference: {fileID: 0}
+    - target: {fileID: 7297474571766236576, guid: f0f190bf4ae22b84187f8caacdb32331,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7297474571766236576, guid: f0f190bf4ae22b84187f8caacdb32331,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7297474571766236576, guid: f0f190bf4ae22b84187f8caacdb32331,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7297474571766236576, guid: f0f190bf4ae22b84187f8caacdb32331,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7297474571766236576, guid: f0f190bf4ae22b84187f8caacdb32331,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7297474571766236576, guid: f0f190bf4ae22b84187f8caacdb32331,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7297474571766236576, guid: f0f190bf4ae22b84187f8caacdb32331,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7297474571766236576, guid: f0f190bf4ae22b84187f8caacdb32331,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7297474571766236576, guid: f0f190bf4ae22b84187f8caacdb32331,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8665663491727840386, guid: f0f190bf4ae22b84187f8caacdb32331,
+        type: 3}
+      propertyPath: m_Name
+      value: hyptosis_tile-art-batch-5_6
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f0f190bf4ae22b84187f8caacdb32331, type: 3}

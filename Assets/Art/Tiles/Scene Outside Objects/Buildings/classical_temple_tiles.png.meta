@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 75862c1931c796a4fbc0ca35389df5cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3930923831080612721
+    second: classical_temple_tiles_0
+  - first:
+      213: 157988045778398950
+    second: classical_temple_tiles_1
+  - first:
+      213: 3021775929975955015
+    second: classical_temple_tiles_2
+  - first:
+      213: 5997956739321981745
+    second: classical_temple_tiles_3
+  - first:
+      213: -8616755104096400457
+    second: classical_temple_tiles_4
+  - first:
+      213: 6685585447821251143
+    second: classical_temple_tiles_5
+  - first:
+      213: 6473971637139773182
+    second: classical_temple_tiles_6
+  - first:
+      213: 8045930329171817625
+    second: classical_temple_tiles_7
+  - first:
+      213: -3760906800777359023
+    second: classical_temple_tiles_8
+  - first:
+      213: -6294994233088757645
+    second: classical_temple_tiles_9
+  - first:
+      213: -3947276323792209522
+    second: classical_temple_tiles_10
+  - first:
+      213: 7078132129529261015
+    second: classical_temple_tiles_11
+  - first:
+      213: 8029784714735001633
+    second: classical_temple_tiles_12
+  - first:
+      213: 1561940567071241459
+    second: classical_temple_tiles_13
+  - first:
+      213: -3325840474550915977
+    second: classical_temple_tiles_14
+  - first:
+      213: 7130276756066009353
+    second: classical_temple_tiles_15
+  - first:
+      213: 4628299919212030808
+    second: classical_temple_tiles_16
+  - first:
+      213: -908170545527892870
+    second: classical_temple_tiles_17
+  - first:
+      213: 1793889228104390265
+    second: classical_temple_tiles_18
+  - first:
+      213: 2844642669009944649
+    second: classical_temple_tiles_19
+  - first:
+      213: 7577068679354812625
+    second: classical_temple_tiles_20
+  - first:
+      213: 8322102316561898526
+    second: classical_temple_tiles_21
+  - first:
+      213: 1710080320027015496
+    second: classical_temple_tiles_22
+  - first:
+      213: -1480219046083723169
+    second: classical_temple_tiles_23
+  - first:
+      213: -216508491862529309
+    second: classical_temple_tiles_24
+  - first:
+      213: 3194990087387378899
+    second: classical_temple_tiles_25
+  - first:
+      213: -210678807015910795
+    second: classical_temple_tiles_26
+  - first:
+      213: -7289800107344343048
+    second: classical_temple_tiles_27
+  - first:
+      213: -4589724484439833403
+    second: classical_temple_tiles_28
+  - first:
+      213: 7283551712673993662
+    second: classical_temple_tiles_29
+  - first:
+      213: 6036054286280479811
+    second: classical_temple_tiles_30
+  - first:
+      213: 3904424914073913345
+    second: classical_temple_tiles_31
+  - first:
+      213: -1386151480132457549
+    second: classical_temple_tiles_32
+  - first:
+      213: 3950035764643533059
+    second: classical_temple_tiles_33
+  - first:
+      213: 436470912026610030
+    second: classical_temple_tiles_34
+  - first:
+      213: -3394332166790863472
+    second: classical_temple_tiles_35
+  - first:
+      213: 4930627883594657800
+    second: classical_temple_tiles_36
+  - first:
+      213: -7520738629083767004
+    second: classical_temple_tiles_37
+  - first:
+      213: 7819703970947802013
+    second: classical_temple_tiles_38
+  - first:
+      213: -2301918492586346492
+    second: classical_temple_tiles_39
+  - first:
+      213: -8242013699077699419
+    second: classical_temple_tiles_40
+  - first:
+      213: -8994771912890693763
+    second: classical_temple_tiles_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: classical_temple_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1602
+        width: 544
+        height: 438
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1737daeb5627d8630800000000000000
+      internalID: 3930923831080612721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1282
+        width: 544
+        height: 318
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee21636a49413200800000000000000
+      internalID: 157988045778398950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 255
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74eda01c2318fe920800000000000000
+      internalID: 3021775929975955015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 896
+        width: 34
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b627930e50d3350800000000000000
+      internalID: 5997956739321981745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 992
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbccc7e2e22b6880800000000000000
+      internalID: -8616755104096400457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 352
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74218e40b88f7cc50800000000000000
+      internalID: 6685585447821251143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef69ba547ea28d950800000000000000
+      internalID: 6473971637139773182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 614
+        width: 20
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994f3d55103e8af60800000000000000
+      internalID: 8045930329171817625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 614
+        width: 20
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151905ad0339ecbc0800000000000000
+      internalID: -3760906800777359023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 612
+        width: 24
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370bc99e810b3a8a0800000000000000
+      internalID: -6294994233088757645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 612
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e893e0ad8157839c0800000000000000
+      internalID: -3947276323792209522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 610
+        width: 32
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbeed59ba39a3260800000000000000
+      internalID: 7078132129529261015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 610
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12024a887a68f6f60800000000000000
+      internalID: 8029784714735001633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 608
+        width: 32
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4bd849ba02da510800000000000000
+      internalID: 1561940567071241459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 608
+        width: 33
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ca6ce95bd38d1d0800000000000000
+      internalID: -3325840474550915977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 608
+        width: 32
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9010a8b8ee4d3f260800000000000000
+      internalID: 7130276756066009353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 608
+        width: 32
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b2a9631460b3040800000000000000
+      internalID: 4628299919212030808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 608
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74565653b78563f0800000000000000
+      internalID: -908170545527892870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 610
+        width: 32
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976df8f9fbc25e810800000000000000
+      internalID: 1793889228104390265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 610
+        width: 32
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940c1479f633a7720800000000000000
+      internalID: 2844642669009944649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 800
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849b89c9dfc6bb710800000000000000
+      internalID: 1710080320027015496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 608
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffc226ec6d65da90800000000000000
+      internalID: -7289800107344343048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 608
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c40d0816e50e40c0800000000000000
+      internalID: -4589724484439833403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_29
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 608
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb31f1951bf541560800000000000000
+      internalID: 7283551712673993662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 928
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344d8ba946f54c350800000000000000
+      internalID: 6036054286280479811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_31
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1056
+        width: 257
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1088f87d5cd4f2630800000000000000
+      internalID: 3904424914073913345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_32
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 992
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bba2dda29663cce0800000000000000
+      internalID: -1386151480132457549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 928
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3019aa9899851d630800000000000000
+      internalID: 3950035764643533059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 896
+        width: 30
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6903226bf7ae0600800000000000000
+      internalID: 436470912026610030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_35
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 896
+        width: 30
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095afb4d0e8e4e0d0800000000000000
+      internalID: -3394332166790863472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_38
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 992
+        width: 34
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d932e0db45b258c60800000000000000
+      internalID: 7819703970947802013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_39
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1024
+        width: 30
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408fc7bb351fd00e0800000000000000
+      internalID: -2301918492586346492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_40
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1024
+        width: 30
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a80290753c7e9d80800000000000000
+      internalID: -8242013699077699419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 800
+        width: 65
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d774d700a962c2380800000000000000
+      internalID: -8994771912890693763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 992
+        width: 30
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d88eaf91d7272960800000000000000
+      internalID: 7577068679354812625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 992
+        width: 30
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f508960ce94357be0800000000000000
+      internalID: -1480219046083723169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 992
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eaadab7caecefcf0800000000000000
+      internalID: -216508491862529309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: classical_temple_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 864
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d47e938e82e65c20800000000000000
+      internalID: 3194990087387378899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

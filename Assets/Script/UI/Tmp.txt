@@ -1,0 +1,84 @@
+public double Hp = 800;
+	public double Mana = 100;
+	public double Physical_Attack = 250;
+	public double Magic_Attack = 100;
+	public double Physical_Resistance = 50;
+	public double Physical_Defense = 50;
+	public double Magic_Defense = 50;
+	public double Magic_Resistance = 50;
+	public double Agility = 50;
+	public double Stamina = 100;
+	public double AttackSpeed = 1;
+
+    public float speed = 3.0f;
+    public bool vertical;
+
+    public float changeTime = 3.0f;
+
+    Rigidbody2D rigidbody2D;
+    float timer;
+    int direction = 1;
+	
+	public GameObject player;
+	public GameObject enemy;
+
+    
+
+
+	void Start()
+{
+     rigidbody2D = GetComponent<Rigidbody2D>();
+     timer = changeTime;
+
+
+}
+
+    // Update is called once per frame
+    void Update()
+    {
+        timer -= Time.deltaTime;
+
+        if (timer < 0)
+        {
+            direction = -direction;
+            timer = changeTime;
+        }
+        
+        
+        Vector2 position = rigidbody2D.position;
+
+ 
+        rigidbody2D.MovePosition(position);
+    }
+	
+
+	void OnCollisionStay2D(Collision2D other)
+    {
+        Test player = other.gameObject.GetComponent<Test>();
+
+        
+        if (player != null)
+			{
+				if (Input.GetButton("Normal_Attack")){
+		
+				if (player.Hp<0){
+					Destroy(player);
+
+				}
+			float a1 = Convert.ToSingle(player.Hp1);
+			float a = Convert.ToSingle(player.Hp);
+			float aa1 = Convert.ToSingle(player.Mana1);
+			float aa = Convert.ToSingle(player.Mana);
+			float aaa1 = Convert.ToSingle(player.Stamina1);
+			float aaa = Convert.ToSingle(player.Stamina);
+			player.Hp = player.Hp - (Physical_Attack*AttackSpeed - (player.Physical_Defense));
+			player.Stamina = player.Stamina - 10;
+			
+
+			hp.instance.SetValue(a / a1);
+			mp.instance.SetValue(aa / aa1);
+			sa.instance.SetValue(aaa / aaa1);
+
+			}
+			}
+			}

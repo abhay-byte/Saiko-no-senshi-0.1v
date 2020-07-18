@@ -1,0 +1,6236 @@
+fileFormatVersion: 2
+guid: 97b95215c84262a44865d810cb9fa634
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3307476942010516188
+    second: Human_Female_Warrior_LongSword_Hero_0
+  - first:
+      213: 3568384731111350082
+    second: Human_Female_Warrior_LongSword_Hero_1
+  - first:
+      213: 4983740256817140726
+    second: Human_Female_Warrior_LongSword_Hero_2
+  - first:
+      213: -964412085359125363
+    second: Human_Female_Warrior_LongSword_Hero_3
+  - first:
+      213: -6166773153012437372
+    second: Human_Female_Warrior_LongSword_Hero_4
+  - first:
+      213: -4409545890373528337
+    second: Human_Female_Warrior_LongSword_Hero_5
+  - first:
+      213: -4164998071946391802
+    second: Human_Female_Warrior_LongSword_Hero_6
+  - first:
+      213: -9093730368459089136
+    second: Human_Female_Warrior_LongSword_Hero_7
+  - first:
+      213: -2775164853529834550
+    second: Human_Female_Warrior_LongSword_Hero_8
+  - first:
+      213: -8295179342251652102
+    second: Human_Female_Warrior_LongSword_Hero_9
+  - first:
+      213: 5862862465662966266
+    second: Human_Female_Warrior_LongSword_Hero_10
+  - first:
+      213: -1225968549014319928
+    second: Human_Female_Warrior_LongSword_Hero_11
+  - first:
+      213: 3077872261179401654
+    second: Human_Female_Warrior_LongSword_Hero_12
+  - first:
+      213: -817949389944224891
+    second: Human_Female_Warrior_LongSword_Hero_13
+  - first:
+      213: -1366509572599432588
+    second: Human_Female_Warrior_LongSword_Hero_14
+  - first:
+      213: 8928744143550872941
+    second: Human_Female_Warrior_LongSword_Hero_15
+  - first:
+      213: 5103187855741033216
+    second: Human_Female_Warrior_LongSword_Hero_16
+  - first:
+      213: 258063069813732892
+    second: Human_Female_Warrior_LongSword_Hero_17
+  - first:
+      213: -5359205737897242986
+    second: Human_Female_Warrior_LongSword_Hero_18
+  - first:
+      213: 4637602939945221386
+    second: Human_Female_Warrior_LongSword_Hero_19
+  - first:
+      213: 4948970567580285773
+    second: Human_Female_Warrior_LongSword_Hero_20
+  - first:
+      213: -5086739364486393996
+    second: Human_Female_Warrior_LongSword_Hero_21
+  - first:
+      213: 5623823223279861797
+    second: Human_Female_Warrior_LongSword_Hero_22
+  - first:
+      213: -6907431253667405188
+    second: Human_Female_Warrior_LongSword_Hero_23
+  - first:
+      213: -6617324227292866178
+    second: Human_Female_Warrior_LongSword_Hero_24
+  - first:
+      213: 8358897333244181139
+    second: Human_Female_Warrior_LongSword_Hero_25
+  - first:
+      213: 1492213454183550222
+    second: Human_Female_Warrior_LongSword_Hero_26
+  - first:
+      213: 5139921396895476121
+    second: Human_Female_Warrior_LongSword_Hero_27
+  - first:
+      213: -9026258604668290254
+    second: Human_Female_Warrior_LongSword_Hero_28
+  - first:
+      213: -6600350125421142088
+    second: Human_Female_Warrior_LongSword_Hero_29
+  - first:
+      213: -3010595030442064275
+    second: Human_Female_Warrior_LongSword_Hero_30
+  - first:
+      213: -2699214661498088137
+    second: Human_Female_Warrior_LongSword_Hero_31
+  - first:
+      213: 2086644525002407186
+    second: Human_Female_Warrior_LongSword_Hero_32
+  - first:
+      213: -4603637743428608475
+    second: Human_Female_Warrior_LongSword_Hero_33
+  - first:
+      213: -5452609366535703635
+    second: Human_Female_Warrior_LongSword_Hero_34
+  - first:
+      213: -8290047649963635240
+    second: Human_Female_Warrior_LongSword_Hero_35
+  - first:
+      213: 4008237189431477026
+    second: Human_Female_Warrior_LongSword_Hero_36
+  - first:
+      213: 1950721468277381494
+    second: Human_Female_Warrior_LongSword_Hero_37
+  - first:
+      213: -1851720836937335020
+    second: Human_Female_Warrior_LongSword_Hero_38
+  - first:
+      213: -2135251347814087885
+    second: Human_Female_Warrior_LongSword_Hero_39
+  - first:
+      213: -4942307894208683515
+    second: Human_Female_Warrior_LongSword_Hero_40
+  - first:
+      213: 3347902823049334168
+    second: Human_Female_Warrior_LongSword_Hero_41
+  - first:
+      213: -3801893099653559152
+    second: Human_Female_Warrior_LongSword_Hero_42
+  - first:
+      213: -8360135035302930236
+    second: Human_Female_Warrior_LongSword_Hero_43
+  - first:
+      213: -1722890454917619516
+    second: Human_Female_Warrior_LongSword_Hero_44
+  - first:
+      213: -4686704035629656019
+    second: Human_Female_Warrior_LongSword_Hero_45
+  - first:
+      213: -4056239173243863983
+    second: Human_Female_Warrior_LongSword_Hero_46
+  - first:
+      213: -7578456792084625873
+    second: Human_Female_Warrior_LongSword_Hero_47
+  - first:
+      213: -97568172664130402
+    second: Human_Female_Warrior_LongSword_Hero_48
+  - first:
+      213: -8711042920473911912
+    second: Human_Female_Warrior_LongSword_Hero_49
+  - first:
+      213: -1856927835469109154
+    second: Human_Female_Warrior_LongSword_Hero_50
+  - first:
+      213: 3561481710443289250
+    second: Human_Female_Warrior_LongSword_Hero_51
+  - first:
+      213: 8408328406493866195
+    second: Human_Female_Warrior_LongSword_Hero_52
+  - first:
+      213: 5592338832248774411
+    second: Human_Female_Warrior_LongSword_Hero_53
+  - first:
+      213: 8490985755504871703
+    second: Human_Female_Warrior_LongSword_Hero_54
+  - first:
+      213: -8788411225417887932
+    second: Human_Female_Warrior_LongSword_Hero_55
+  - first:
+      213: -8979907355294611311
+    second: Human_Female_Warrior_LongSword_Hero_56
+  - first:
+      213: -5052002931723094288
+    second: Human_Female_Warrior_LongSword_Hero_57
+  - first:
+      213: 4544521219070689598
+    second: Human_Female_Warrior_LongSword_Hero_58
+  - first:
+      213: -4482965873264876325
+    second: Human_Female_Warrior_LongSword_Hero_59
+  - first:
+      213: -5056314049171768761
+    second: Human_Female_Warrior_LongSword_Hero_60
+  - first:
+      213: 4803355405659885064
+    second: Human_Female_Warrior_LongSword_Hero_61
+  - first:
+      213: 262854638623441807
+    second: Human_Female_Warrior_LongSword_Hero_62
+  - first:
+      213: 2476696572922217037
+    second: Human_Female_Warrior_LongSword_Hero_63
+  - first:
+      213: -7869686522507012073
+    second: Human_Female_Warrior_LongSword_Hero_64
+  - first:
+      213: 3562433633681599223
+    second: Human_Female_Warrior_LongSword_Hero_65
+  - first:
+      213: -8812820122097672245
+    second: Human_Female_Warrior_LongSword_Hero_66
+  - first:
+      213: -8035617637133146906
+    second: Human_Female_Warrior_LongSword_Hero_67
+  - first:
+      213: 2943818535255911112
+    second: Human_Female_Warrior_LongSword_Hero_68
+  - first:
+      213: 3112005769729557918
+    second: Human_Female_Warrior_LongSword_Hero_69
+  - first:
+      213: 5676602988367339640
+    second: Human_Female_Warrior_LongSword_Hero_70
+  - first:
+      213: -6428645466232199689
+    second: Human_Female_Warrior_LongSword_Hero_71
+  - first:
+      213: -1949151642481894269
+    second: Human_Female_Warrior_LongSword_Hero_72
+  - first:
+      213: -551848362115138988
+    second: Human_Female_Warrior_LongSword_Hero_73
+  - first:
+      213: -4574768415300795858
+    second: Human_Female_Warrior_LongSword_Hero_74
+  - first:
+      213: -8588137250759306576
+    second: Human_Female_Warrior_LongSword_Hero_75
+  - first:
+      213: 4952128539993144813
+    second: Human_Female_Warrior_LongSword_Hero_76
+  - first:
+      213: -8814937675423850712
+    second: Human_Female_Warrior_LongSword_Hero_77
+  - first:
+      213: 7787636482184759146
+    second: Human_Female_Warrior_LongSword_Hero_78
+  - first:
+      213: 8960184514385436943
+    second: Human_Female_Warrior_LongSword_Hero_79
+  - first:
+      213: -6752045452995329770
+    second: Human_Female_Warrior_LongSword_Hero_80
+  - first:
+      213: 8615170708042097388
+    second: Human_Female_Warrior_LongSword_Hero_81
+  - first:
+      213: -8319467432491827082
+    second: Human_Female_Warrior_LongSword_Hero_82
+  - first:
+      213: 935142743893797825
+    second: Human_Female_Warrior_LongSword_Hero_83
+  - first:
+      213: -8211813427382524763
+    second: Human_Female_Warrior_LongSword_Hero_84
+  - first:
+      213: 5671153377913996660
+    second: Human_Female_Warrior_LongSword_Hero_85
+  - first:
+      213: 8203156091351115533
+    second: Human_Female_Warrior_LongSword_Hero_86
+  - first:
+      213: 6541573058855837381
+    second: Human_Female_Warrior_LongSword_Hero_87
+  - first:
+      213: 2676063367358207099
+    second: Human_Female_Warrior_LongSword_Hero_88
+  - first:
+      213: -8777483401262197642
+    second: Human_Female_Warrior_LongSword_Hero_89
+  - first:
+      213: 4184971268632155053
+    second: Human_Female_Warrior_LongSword_Hero_90
+  - first:
+      213: -5871151620977924414
+    second: Human_Female_Warrior_LongSword_Hero_91
+  - first:
+      213: 4931517341256985911
+    second: Human_Female_Warrior_LongSword_Hero_92
+  - first:
+      213: -3566170318650684994
+    second: Human_Female_Warrior_LongSword_Hero_93
+  - first:
+      213: 6182307748067677366
+    second: Human_Female_Warrior_LongSword_Hero_94
+  - first:
+      213: -7638748261910283083
+    second: Human_Female_Warrior_LongSword_Hero_95
+  - first:
+      213: 1082377506342802641
+    second: Human_Female_Warrior_LongSword_Hero_96
+  - first:
+      213: -6859410252981454914
+    second: Human_Female_Warrior_LongSword_Hero_97
+  - first:
+      213: -3864972088961081104
+    second: Human_Female_Warrior_LongSword_Hero_98
+  - first:
+      213: -2337891333826338326
+    second: Human_Female_Warrior_LongSword_Hero_99
+  - first:
+      213: 5114202025685860267
+    second: Human_Female_Warrior_LongSword_Hero_100
+  - first:
+      213: 1476479599125202922
+    second: Human_Female_Warrior_LongSword_Hero_101
+  - first:
+      213: 4949023130989782081
+    second: Human_Female_Warrior_LongSword_Hero_102
+  - first:
+      213: 4355420715236087567
+    second: Human_Female_Warrior_LongSword_Hero_103
+  - first:
+      213: -8047987459652017527
+    second: Human_Female_Warrior_LongSword_Hero_104
+  - first:
+      213: 6359290866161566994
+    second: Human_Female_Warrior_LongSword_Hero_105
+  - first:
+      213: -898652891986619685
+    second: Human_Female_Warrior_LongSword_Hero_106
+  - first:
+      213: -4359934831278950701
+    second: Human_Female_Warrior_LongSword_Hero_107
+  - first:
+      213: 6075352400785222959
+    second: Human_Female_Warrior_LongSword_Hero_108
+  - first:
+      213: -1288797244521112149
+    second: Human_Female_Warrior_LongSword_Hero_109
+  - first:
+      213: 5643165113150579524
+    second: Human_Female_Warrior_LongSword_Hero_110
+  - first:
+      213: 8002358256137822276
+    second: Human_Female_Warrior_LongSword_Hero_111
+  - first:
+      213: 6493885425166849924
+    second: Human_Female_Warrior_LongSword_Hero_112
+  - first:
+      213: 5465187589492776987
+    second: Human_Female_Warrior_LongSword_Hero_113
+  - first:
+      213: 5159499348946893313
+    second: Human_Female_Warrior_LongSword_Hero_114
+  - first:
+      213: -1034516803143742856
+    second: Human_Female_Warrior_LongSword_Hero_115
+  - first:
+      213: 5609643114337554502
+    second: Human_Female_Warrior_LongSword_Hero_116
+  - first:
+      213: 7852775161528921502
+    second: Human_Female_Warrior_LongSword_Hero_117
+  - first:
+      213: 3990371444171029505
+    second: Human_Female_Warrior_LongSword_Hero_118
+  - first:
+      213: -855412983125839519
+    second: Human_Female_Warrior_LongSword_Hero_119
+  - first:
+      213: -8235262766479664738
+    second: Human_Female_Warrior_LongSword_Hero_120
+  - first:
+      213: -8010454564818197080
+    second: Human_Female_Warrior_LongSword_Hero_121
+  - first:
+      213: 6119301007819081321
+    second: Human_Female_Warrior_LongSword_Hero_122
+  - first:
+      213: 1605452308140512229
+    second: Human_Female_Warrior_LongSword_Hero_123
+  - first:
+      213: 5777377384729906124
+    second: Human_Female_Warrior_LongSword_Hero_124
+  - first:
+      213: 6285784994754820669
+    second: Human_Female_Warrior_LongSword_Hero_125
+  - first:
+      213: 8335073007815661767
+    second: Human_Female_Warrior_LongSword_Hero_126
+  - first:
+      213: 8555971671559532331
+    second: Human_Female_Warrior_LongSword_Hero_127
+  - first:
+      213: 15775259320141020
+    second: Human_Female_Warrior_LongSword_Hero_128
+  - first:
+      213: -3449185178964671082
+    second: Human_Female_Warrior_LongSword_Hero_129
+  - first:
+      213: -4417943757755628846
+    second: Human_Female_Warrior_LongSword_Hero_130
+  - first:
+      213: -2838818845931496767
+    second: Human_Female_Warrior_LongSword_Hero_131
+  - first:
+      213: -1815938088750305592
+    second: Human_Female_Warrior_LongSword_Hero_132
+  - first:
+      213: -6328629123619012019
+    second: Human_Female_Warrior_LongSword_Hero_133
+  - first:
+      213: 296830616849664388
+    second: Human_Female_Warrior_LongSword_Hero_134
+  - first:
+      213: 9126677794263743446
+    second: Human_Female_Warrior_LongSword_Hero_135
+  - first:
+      213: -4165362989872299312
+    second: Human_Female_Warrior_LongSword_Hero_136
+  - first:
+      213: 5937521841956430348
+    second: Human_Female_Warrior_LongSword_Hero_137
+  - first:
+      213: -7663945087072145054
+    second: Human_Female_Warrior_LongSword_Hero_138
+  - first:
+      213: 5602977741852896314
+    second: Human_Female_Warrior_LongSword_Hero_139
+  - first:
+      213: -7014357205962368310
+    second: Human_Female_Warrior_LongSword_Hero_140
+  - first:
+      213: 7796045419287565475
+    second: Human_Female_Warrior_LongSword_Hero_141
+  - first:
+      213: 2539102349153368943
+    second: Human_Female_Warrior_LongSword_Hero_142
+  - first:
+      213: -5325433753080910219
+    second: Human_Female_Warrior_LongSword_Hero_143
+  - first:
+      213: 2486009630198870840
+    second: Human_Female_Warrior_LongSword_Hero_144
+  - first:
+      213: -2997150184545658946
+    second: Human_Female_Warrior_LongSword_Hero_145
+  - first:
+      213: 3627884072343825642
+    second: Human_Female_Warrior_LongSword_Hero_146
+  - first:
+      213: -4109647506853168315
+    second: Human_Female_Warrior_LongSword_Hero_147
+  - first:
+      213: 8280859268460998823
+    second: Human_Female_Warrior_LongSword_Hero_148
+  - first:
+      213: -4574063863836618966
+    second: Human_Female_Warrior_LongSword_Hero_149
+  - first:
+      213: -538283974742422586
+    second: Human_Female_Warrior_LongSword_Hero_150
+  - first:
+      213: 765124330125670693
+    second: Human_Female_Warrior_LongSword_Hero_151
+  - first:
+      213: -3361648610991597870
+    second: Human_Female_Warrior_LongSword_Hero_152
+  - first:
+      213: 8920047642466069228
+    second: Human_Female_Warrior_LongSword_Hero_153
+  - first:
+      213: -6525504013804310456
+    second: Human_Female_Warrior_LongSword_Hero_154
+  - first:
+      213: -2202649739488663711
+    second: Human_Female_Warrior_LongSword_Hero_155
+  - first:
+      213: -3441881150745656445
+    second: Human_Female_Warrior_LongSword_Hero_156
+  - first:
+      213: 7505572730300807243
+    second: Human_Female_Warrior_LongSword_Hero_157
+  - first:
+      213: 5745975276912094187
+    second: Human_Female_Warrior_LongSword_Hero_158
+  - first:
+      213: 8962406570132621810
+    second: Human_Female_Warrior_LongSword_Hero_159
+  - first:
+      213: 8554243998776028182
+    second: Human_Female_Warrior_LongSword_Hero_160
+  - first:
+      213: 2334655481343950583
+    second: Human_Female_Warrior_LongSword_Hero_161
+  - first:
+      213: 5649745511352240363
+    second: Human_Female_Warrior_LongSword_Hero_162
+  - first:
+      213: 7212423553777296922
+    second: Human_Female_Warrior_LongSword_Hero_163
+  - first:
+      213: -7513539534635811304
+    second: Human_Female_Warrior_LongSword_Hero_164
+  - first:
+      213: 3806626779687015282
+    second: Human_Female_Warrior_LongSword_Hero_165
+  - first:
+      213: -1576357634286298916
+    second: Human_Female_Warrior_LongSword_Hero_166
+  - first:
+      213: -82640220458461503
+    second: Human_Female_Warrior_LongSword_Hero_167
+  - first:
+      213: 207015484313735218
+    second: Human_Female_Warrior_LongSword_Hero_168
+  - first:
+      213: 5934624187181431900
+    second: Human_Female_Warrior_LongSword_Hero_169
+  - first:
+      213: 4275746787382314604
+    second: Human_Female_Warrior_LongSword_Hero_170
+  - first:
+      213: -1691581367052967794
+    second: Human_Female_Warrior_LongSword_Hero_171
+  - first:
+      213: -1816653641485139643
+    second: Human_Female_Warrior_LongSword_Hero_172
+  - first:
+      213: -2683404378063859640
+    second: Human_Female_Warrior_LongSword_Hero_173
+  - first:
+      213: 4442816334665885175
+    second: Human_Female_Warrior_LongSword_Hero_174
+  - first:
+      213: -8450675642205781332
+    second: Human_Female_Warrior_LongSword_Hero_175
+  - first:
+      213: 8910190662058516610
+    second: Human_Female_Warrior_LongSword_Hero_176
+  - first:
+      213: -7898623286301941802
+    second: Human_Female_Warrior_LongSword_Hero_177
+  - first:
+      213: -6580891853339407347
+    second: Human_Female_Warrior_LongSword_Hero_178
+  - first:
+      213: -2156587795748699427
+    second: Human_Female_Warrior_LongSword_Hero_179
+  - first:
+      213: -8810318414912257508
+    second: Human_Female_Warrior_LongSword_Hero_180
+  - first:
+      213: -38525281519700200
+    second: Human_Female_Warrior_LongSword_Hero_181
+  - first:
+      213: 3667856855676949996
+    second: Human_Female_Warrior_LongSword_Hero_182
+  - first:
+      213: 4790106990653371652
+    second: Human_Female_Warrior_LongSword_Hero_183
+  - first:
+      213: 2098065046066414990
+    second: Human_Female_Warrior_LongSword_Hero_184
+  - first:
+      213: -4440138545601197001
+    second: Human_Female_Warrior_LongSword_Hero_185
+  - first:
+      213: 8883394423258721696
+    second: Human_Female_Warrior_LongSword_Hero_186
+  - first:
+      213: 5130619261027260786
+    second: Human_Female_Warrior_LongSword_Hero_187
+  - first:
+      213: 1279977304642202201
+    second: Human_Female_Warrior_LongSword_Hero_188
+  - first:
+      213: -6934039559835027826
+    second: Human_Female_Warrior_LongSword_Hero_189
+  - first:
+      213: 5074242655216693261
+    second: Human_Female_Warrior_LongSword_Hero_190
+  - first:
+      213: 4128362704849083424
+    second: Human_Female_Warrior_LongSword_Hero_191
+  - first:
+      213: 5399342119558680281
+    second: Human_Female_Warrior_LongSword_Hero_192
+  - first:
+      213: 5494785480254024702
+    second: Human_Female_Warrior_LongSword_Hero_193
+  - first:
+      213: 2098772204786553885
+    second: Human_Female_Warrior_LongSword_Hero_194
+  - first:
+      213: -224717828027082587
+    second: Human_Female_Warrior_LongSword_Hero_195
+  - first:
+      213: -6506146230028716507
+    second: Human_Female_Warrior_LongSword_Hero_196
+  - first:
+      213: -4660343445120101634
+    second: Human_Female_Warrior_LongSword_Hero_197
+  - first:
+      213: -2862275733818900379
+    second: Human_Female_Warrior_LongSword_Hero_198
+  - first:
+      213: 3977464227447799710
+    second: Human_Female_Warrior_LongSword_Hero_199
+  - first:
+      213: 9217775330865727904
+    second: Human_Female_Warrior_LongSword_Hero_200
+  - first:
+      213: -2063335899620198680
+    second: Human_Female_Warrior_LongSword_Hero_201
+  - first:
+      213: 5575661158977170531
+    second: Human_Female_Warrior_LongSword_Hero_202
+  - first:
+      213: 251123538004202897
+    second: Human_Female_Warrior_LongSword_Hero_203
+  - first:
+      213: 8109277214734914847
+    second: Human_Female_Warrior_LongSword_Hero_204
+  - first:
+      213: -5938336605150972359
+    second: Human_Female_Warrior_LongSword_Hero_205
+  - first:
+      213: -5152382132055518040
+    second: Human_Female_Warrior_LongSword_Hero_206
+  - first:
+      213: 8981042881874559852
+    second: Human_Female_Warrior_LongSword_Hero_207
+  - first:
+      213: -847746024658161285
+    second: Human_Female_Warrior_LongSword_Hero_208
+  - first:
+      213: -6877702798306579090
+    second: Human_Female_Warrior_LongSword_Hero_209
+  - first:
+      213: -8146110247994548442
+    second: Human_Female_Warrior_LongSword_Hero_210
+  - first:
+      213: -6094291746585597448
+    second: Human_Female_Warrior_LongSword_Hero_211
+  - first:
+      213: 5179783328981212381
+    second: Human_Female_Warrior_LongSword_Hero_212
+  - first:
+      213: -5244184829242557259
+    second: Human_Female_Warrior_LongSword_Hero_213
+  - first:
+      213: 1507929591463932007
+    second: Human_Female_Warrior_LongSword_Hero_214
+  - first:
+      213: -922481953185516529
+    second: Human_Female_Warrior_LongSword_Hero_215
+  - first:
+      213: -6106036588052516042
+    second: Human_Female_Warrior_LongSword_Hero_216
+  - first:
+      213: -8243131593173644463
+    second: Human_Female_Warrior_LongSword_Hero_217
+  - first:
+      213: 4122457735543015691
+    second: Human_Female_Warrior_LongSword_Hero_218
+  - first:
+      213: 3810926588402362510
+    second: Human_Female_Warrior_LongSword_Hero_219
+  - first:
+      213: -2203745238193946589
+    second: Human_Female_Warrior_LongSword_Hero_220
+  - first:
+      213: -4567849182315985809
+    second: Human_Female_Warrior_LongSword_Hero_221
+  - first:
+      213: 7209330287154786651
+    second: Human_Female_Warrior_LongSword_Hero_222
+  - first:
+      213: 338804969995262759
+    second: Human_Female_Warrior_LongSword_Hero_223
+  - first:
+      213: -4590788784899065883
+    second: Human_Female_Warrior_LongSword_Hero_224
+  - first:
+      213: -7995157105357593174
+    second: Human_Female_Warrior_LongSword_Hero_225
+  - first:
+      213: -5532037311432574947
+    second: Human_Female_Warrior_LongSword_Hero_226
+  - first:
+      213: -6974069262090774788
+    second: Human_Female_Warrior_LongSword_Hero_227
+  - first:
+      213: 7177759199564173369
+    second: Human_Female_Warrior_LongSword_Hero_228
+  - first:
+      213: -7257321077578575368
+    second: Human_Female_Warrior_LongSword_Hero_229
+  - first:
+      213: -5106027284223252529
+    second: Human_Female_Warrior_LongSword_Hero_230
+  - first:
+      213: -4279954292780940494
+    second: Human_Female_Warrior_LongSword_Hero_231
+  - first:
+      213: -6021584349590276595
+    second: Human_Female_Warrior_LongSword_Hero_0
+  - first:
+      213: 7723748845391920402
+    second: Human_Female_Warrior_LongSword_Hero_1
+  - first:
+      213: -7698815625718064479
+    second: Human_Female_Warrior_LongSword_Hero_2
+  - first:
+      213: 9101987794801039420
+    second: Human_Female_Warrior_LongSword_Hero_3
+  - first:
+      213: -8200491533087197053
+    second: Human_Female_Warrior_LongSword_Hero_4
+  - first:
+      213: -652336825006164202
+    second: Human_Female_Warrior_LongSword_Hero_5
+  - first:
+      213: -2168923805032094076
+    second: Human_Female_Warrior_LongSword_Hero_6
+  - first:
+      213: -1071364340718048614
+    second: Human_Female_Warrior_LongSword_Hero_7
+  - first:
+      213: -5331812987019568403
+    second: Human_Female_Warrior_LongSword_Hero_8
+  - first:
+      213: -2422640157521500715
+    second: Human_Female_Warrior_LongSword_Hero_9
+  - first:
+      213: 5415760227505376114
+    second: Human_Female_Warrior_LongSword_Hero_10
+  - first:
+      213: -2122556497858012879
+    second: Human_Female_Warrior_LongSword_Hero_11
+  - first:
+      213: 869709944897533821
+    second: Human_Female_Warrior_LongSword_Hero_12
+  - first:
+      213: 1257719230534329130
+    second: Human_Female_Warrior_LongSword_Hero_13
+  - first:
+      213: 7371930211210034390
+    second: Human_Female_Warrior_LongSword_Hero_14
+  - first:
+      213: 1184280769796646678
+    second: Human_Female_Warrior_LongSword_Hero_15
+  - first:
+      213: 5087348381695015072
+    second: Human_Female_Warrior_LongSword_Hero_16
+  - first:
+      213: -2487678364024366470
+    second: Human_Female_Warrior_LongSword_Hero_17
+  - first:
+      213: -6649556180532931536
+    second: Human_Female_Warrior_LongSword_Hero_18
+  - first:
+      213: 3761826516909439562
+    second: Human_Female_Warrior_LongSword_Hero_19
+  - first:
+      213: -4952489790026108575
+    second: Human_Female_Warrior_LongSword_Hero_20
+  - first:
+      213: -3024100915692522263
+    second: Human_Female_Warrior_LongSword_Hero_21
+  - first:
+      213: 984228811555929800
+    second: Human_Female_Warrior_LongSword_Hero_22
+  - first:
+      213: -4196581410365536249
+    second: Human_Female_Warrior_LongSword_Hero_23
+  - first:
+      213: 3892728668647382210
+    second: Human_Female_Warrior_LongSword_Hero_24
+  - first:
+      213: -4379843087719251929
+    second: Human_Female_Warrior_LongSword_Hero_25
+  - first:
+      213: 1729009270002194006
+    second: Human_Female_Warrior_LongSword_Hero_26
+  - first:
+      213: -979159706259727765
+    second: Human_Female_Warrior_LongSword_Hero_27
+  - first:
+      213: 8212109484229646549
+    second: Human_Female_Warrior_LongSword_Hero_28
+  - first:
+      213: 9061032784247306544
+    second: Human_Female_Warrior_LongSword_Hero_29
+  - first:
+      213: -2518709484931422175
+    second: Human_Female_Warrior_LongSword_Hero_30
+  - first:
+      213: 5827755800732282775
+    second: Human_Female_Warrior_LongSword_Hero_31
+  - first:
+      213: -5439459629290814862
+    second: Human_Female_Warrior_LongSword_Hero_32
+  - first:
+      213: -6328422176805449829
+    second: Human_Female_Warrior_LongSword_Hero_33
+  - first:
+      213: -956878100833432888
+    second: Human_Female_Warrior_LongSword_Hero_34
+  - first:
+      213: 8782906623871159362
+    second: Human_Female_Warrior_LongSword_Hero_35
+  - first:
+      213: -5031618073929311382
+    second: Human_Female_Warrior_LongSword_Hero_36
+  - first:
+      213: 5186200302740722844
+    second: Human_Female_Warrior_LongSword_Hero_37
+  - first:
+      213: -7669614863466904312
+    second: Human_Female_Warrior_LongSword_Hero_38
+  - first:
+      213: 8068497448827495526
+    second: Human_Female_Warrior_LongSword_Hero_39
+  - first:
+      213: 4921344603069318023
+    second: Human_Female_Warrior_LongSword_Hero_40
+  - first:
+      213: -4352733153329191258
+    second: Human_Female_Warrior_LongSword_Hero_41
+  - first:
+      213: -5188339286752276230
+    second: Human_Female_Warrior_LongSword_Hero_42
+  - first:
+      213: -4118835939183830010
+    second: Human_Female_Warrior_LongSword_Hero_43
+  - first:
+      213: 3055259091240057435
+    second: Human_Female_Warrior_LongSword_Hero_44
+  - first:
+      213: 6430069514075028502
+    second: Human_Female_Warrior_LongSword_Hero_45
+  - first:
+      213: 1572172374624024333
+    second: Human_Female_Warrior_LongSword_Hero_46
+  - first:
+      213: -2523538499891225364
+    second: Human_Female_Warrior_LongSword_Hero_47
+  - first:
+      213: -5718671480346510176
+    second: Human_Female_Warrior_LongSword_Hero_48
+  - first:
+      213: 6583712614953823907
+    second: Human_Female_Warrior_LongSword_Hero_49
+  - first:
+      213: -466914028331372187
+    second: Human_Female_Warrior_LongSword_Hero_50
+  - first:
+      213: -6518929462336457839
+    second: Human_Female_Warrior_LongSword_Hero_51
+  - first:
+      213: -1540337712797581249
+    second: Human_Female_Warrior_LongSword_Hero_52
+  - first:
+      213: 6081094718779301058
+    second: Human_Female_Warrior_LongSword_Hero_53
+  - first:
+      213: -8375581852635559549
+    second: Human_Female_Warrior_LongSword_Hero_54
+  - first:
+      213: -4501585846514542258
+    second: Human_Female_Warrior_LongSword_Hero_55
+  - first:
+      213: 5598467606938131444
+    second: Human_Female_Warrior_LongSword_Hero_56
+  - first:
+      213: 2877866286835624788
+    second: Human_Female_Warrior_LongSword_Hero_57
+  - first:
+      213: 8412641291390768124
+    second: Human_Female_Warrior_LongSword_Hero_58
+  - first:
+      213: 1409114035439513126
+    second: Human_Female_Warrior_LongSword_Hero_59
+  - first:
+      213: 6556693647507717170
+    second: Human_Female_Warrior_LongSword_Hero_60
+  - first:
+      213: 1885352058717215798
+    second: Human_Female_Warrior_LongSword_Hero_61
+  - first:
+      213: -4826948985083607920
+    second: Human_Female_Warrior_LongSword_Hero_62
+  - first:
+      213: -5548046647981381904
+    second: Human_Female_Warrior_LongSword_Hero_63
+  - first:
+      213: -4973082322249694043
+    second: Human_Female_Warrior_LongSword_Hero_64
+  - first:
+      213: 128227236843976056
+    second: Human_Female_Warrior_LongSword_Hero_65
+  - first:
+      213: -6976241903901700567
+    second: Human_Female_Warrior_LongSword_Hero_66
+  - first:
+      213: 4008452201718111677
+    second: Human_Female_Warrior_LongSword_Hero_67
+  - first:
+      213: 4283546096356185743
+    second: Human_Female_Warrior_LongSword_Hero_68
+  - first:
+      213: 2362969225693999572
+    second: Human_Female_Warrior_LongSword_Hero_69
+  - first:
+      213: 7843203213130185480
+    second: Human_Female_Warrior_LongSword_Hero_70
+  - first:
+      213: -3338605949078753505
+    second: Human_Female_Warrior_LongSword_Hero_71
+  - first:
+      213: 7468051270403830292
+    second: Human_Female_Warrior_LongSword_Hero_72
+  - first:
+      213: -6721829845968429113
+    second: Human_Female_Warrior_LongSword_Hero_73
+  - first:
+      213: -8003045180237376340
+    second: Human_Female_Warrior_LongSword_Hero_74
+  - first:
+      213: -3525155491713818829
+    second: Human_Female_Warrior_LongSword_Hero_75
+  - first:
+      213: 9077072965776197379
+    second: Human_Female_Warrior_LongSword_Hero_76
+  - first:
+      213: -8608144708083649641
+    second: Human_Female_Warrior_LongSword_Hero_77
+  - first:
+      213: 8910848080849548724
+    second: Human_Female_Warrior_LongSword_Hero_78
+  - first:
+      213: 5764716022623281613
+    second: Human_Female_Warrior_LongSword_Hero_79
+  - first:
+      213: -6469794123707751349
+    second: Human_Female_Warrior_LongSword_Hero_80
+  - first:
+      213: 4727044603563611841
+    second: Human_Female_Warrior_LongSword_Hero_81
+  - first:
+      213: -843043956191379717
+    second: Human_Female_Warrior_LongSword_Hero_82
+  - first:
+      213: -7574053417836022879
+    second: Human_Female_Warrior_LongSword_Hero_83
+  - first:
+      213: -2561613617987050979
+    second: Human_Female_Warrior_LongSword_Hero_84
+  - first:
+      213: 87856312933901485
+    second: Human_Female_Warrior_LongSword_Hero_85
+  - first:
+      213: -2708611299471545063
+    second: Human_Female_Warrior_LongSword_Hero_86
+  - first:
+      213: 5406071351272604808
+    second: Human_Female_Warrior_LongSword_Hero_87
+  - first:
+      213: 6744337171894434031
+    second: Human_Female_Warrior_LongSword_Hero_88
+  - first:
+      213: -6618605215756519982
+    second: Human_Female_Warrior_LongSword_Hero_89
+  - first:
+      213: 3260834106252954305
+    second: Human_Female_Warrior_LongSword_Hero_90
+  - first:
+      213: -4368389488121608369
+    second: Human_Female_Warrior_LongSword_Hero_91
+  - first:
+      213: -3906151488507828621
+    second: Human_Female_Warrior_LongSword_Hero_92
+  - first:
+      213: -76407184460658383
+    second: Human_Female_Warrior_LongSword_Hero_93
+  - first:
+      213: -4273572036883855458
+    second: Human_Female_Warrior_LongSword_Hero_94
+  - first:
+      213: 1493543900391634975
+    second: Human_Female_Warrior_LongSword_Hero_95
+  - first:
+      213: 1391465555771253102
+    second: Human_Female_Warrior_LongSword_Hero_96
+  - first:
+      213: -550511681036529595
+    second: Human_Female_Warrior_LongSword_Hero_97
+  - first:
+      213: -915570666013010195
+    second: Human_Female_Warrior_LongSword_Hero_98
+  - first:
+      213: 2260256199942752964
+    second: Human_Female_Warrior_LongSword_Hero_99
+  - first:
+      213: 5285708806732397430
+    second: Human_Female_Warrior_LongSword_Hero_100
+  - first:
+      213: 7043011562328286109
+    second: Human_Female_Warrior_LongSword_Hero_101
+  - first:
+      213: -6054942594126085037
+    second: Human_Female_Warrior_LongSword_Hero_102
+  - first:
+      213: -634250563264742637
+    second: Human_Female_Warrior_LongSword_Hero_103
+  - first:
+      213: 4597580225225063471
+    second: Human_Female_Warrior_LongSword_Hero_104
+  - first:
+      213: 3180977685831336906
+    second: Human_Female_Warrior_LongSword_Hero_105
+  - first:
+      213: -2393829263696120068
+    second: Human_Female_Warrior_LongSword_Hero_106
+  - first:
+      213: -4055384946163914438
+    second: Human_Female_Warrior_LongSword_Hero_107
+  - first:
+      213: -1225932637098545119
+    second: Human_Female_Warrior_LongSword_Hero_108
+  - first:
+      213: -2449417394669059370
+    second: Human_Female_Warrior_LongSword_Hero_109
+  - first:
+      213: 1669827170008939748
+    second: Human_Female_Warrior_LongSword_Hero_110
+  - first:
+      213: 7038702037609325074
+    second: Human_Female_Warrior_LongSword_Hero_111
+  - first:
+      213: -5261276250570617564
+    second: Human_Female_Warrior_LongSword_Hero_112
+  - first:
+      213: -5316307654517518874
+    second: Human_Female_Warrior_LongSword_Hero_113
+  - first:
+      213: -2774665781257475065
+    second: Human_Female_Warrior_LongSword_Hero_114
+  - first:
+      213: -5943232193797058611
+    second: Human_Female_Warrior_LongSword_Hero_115
+  - first:
+      213: 1586292789230581894
+    second: Human_Female_Warrior_LongSword_Hero_116
+  - first:
+      213: -6838912900443371344
+    second: Human_Female_Warrior_LongSword_Hero_117
+  - first:
+      213: 1646257254543921397
+    second: Human_Female_Warrior_LongSword_Hero_118
+  - first:
+      213: -1884350488005532114
+    second: Human_Female_Warrior_LongSword_Hero_119
+  - first:
+      213: -8558894597208235164
+    second: Human_Female_Warrior_LongSword_Hero_120
+  - first:
+      213: -2291809215508394087
+    second: Human_Female_Warrior_LongSword_Hero_121
+  - first:
+      213: -4357239998185300619
+    second: Human_Female_Warrior_LongSword_Hero_122
+  - first:
+      213: -1655240155605125744
+    second: Human_Female_Warrior_LongSword_Hero_123
+  - first:
+      213: -3201124164409057969
+    second: Human_Female_Warrior_LongSword_Hero_124
+  - first:
+      213: 2697082679766931497
+    second: Human_Female_Warrior_LongSword_Hero_125
+  - first:
+      213: 1061532339276450854
+    second: Human_Female_Warrior_LongSword_Hero_126
+  - first:
+      213: 1163097484124665163
+    second: Human_Female_Warrior_LongSword_Hero_127
+  - first:
+      213: 1373138112935343239
+    second: Human_Female_Warrior_LongSword_Hero_128
+  - first:
+      213: -3171034408096439904
+    second: Human_Female_Warrior_LongSword_Hero_129
+  - first:
+      213: 3021980676099773680
+    second: Human_Female_Warrior_LongSword_Hero_130
+  - first:
+      213: -2240592200756534294
+    second: Human_Female_Warrior_LongSword_Hero_131
+  - first:
+      213: -8676004578771342878
+    second: Human_Female_Warrior_LongSword_Hero_132
+  - first:
+      213: -5299774567682303100
+    second: Human_Female_Warrior_LongSword_Hero_133
+  - first:
+      213: 969493932021135035
+    second: Human_Female_Warrior_LongSword_Hero_134
+  - first:
+      213: 2410308850570913365
+    second: Human_Female_Warrior_LongSword_Hero_135
+  - first:
+      213: 1683753741790948193
+    second: Human_Female_Warrior_LongSword_Hero_136
+  - first:
+      213: -2239738330099757805
+    second: Human_Female_Warrior_LongSword_Hero_137
+  - first:
+      213: 462205631326148752
+    second: Human_Female_Warrior_LongSword_Hero_138
+  - first:
+      213: -3392259425067595584
+    second: Human_Female_Warrior_LongSword_Hero_139
+  - first:
+      213: -5362651749233758652
+    second: Human_Female_Warrior_LongSword_Hero_140
+  - first:
+      213: 8440456226964656035
+    second: Human_Female_Warrior_LongSword_Hero_141
+  - first:
+      213: -4780551670596053919
+    second: Human_Female_Warrior_LongSword_Hero_142
+  - first:
+      213: -4977766150533802706
+    second: Human_Female_Warrior_LongSword_Hero_143
+  - first:
+      213: 8827145029904187138
+    second: Human_Female_Warrior_LongSword_Hero_144
+  - first:
+      213: -8280524139001474435
+    second: Human_Female_Warrior_LongSword_Hero_145
+  - first:
+      213: 762028825083136711
+    second: Human_Female_Warrior_LongSword_Hero_146
+  - first:
+      213: 1887746730211527574
+    second: Human_Female_Warrior_LongSword_Hero_147
+  - first:
+      213: -6606247723770615994
+    second: Human_Female_Warrior_LongSword_Hero_148
+  - first:
+      213: 2201151142338880506
+    second: Human_Female_Warrior_LongSword_Hero_149
+  - first:
+      213: 8042169582747755587
+    second: Human_Female_Warrior_LongSword_Hero_150
+  - first:
+      213: 822499451857260738
+    second: Human_Female_Warrior_LongSword_Hero_151
+  - first:
+      213: 4553748692552302584
+    second: Human_Female_Warrior_LongSword_Hero_152
+  - first:
+      213: 174264514531315338
+    second: Human_Female_Warrior_LongSword_Hero_153
+  - first:
+      213: 8196393216148278019
+    second: Human_Female_Warrior_LongSword_Hero_154
+  - first:
+      213: 3407078167564884029
+    second: Human_Female_Warrior_LongSword_Hero_155
+  - first:
+      213: 2823898085366430915
+    second: Human_Female_Warrior_LongSword_Hero_156
+  - first:
+      213: 286813063069196517
+    second: Human_Female_Warrior_LongSword_Hero_157
+  - first:
+      213: 2066090974984142890
+    second: Human_Female_Warrior_LongSword_Hero_158
+  - first:
+      213: 9100061462770737625
+    second: Human_Female_Warrior_LongSword_Hero_159
+  - first:
+      213: 4820690561020601573
+    second: Human_Female_Warrior_LongSword_Hero_160
+  - first:
+      213: -8613601304329981893
+    second: Human_Female_Warrior_LongSword_Hero_161
+  - first:
+      213: -8467028620731476696
+    second: Human_Female_Warrior_LongSword_Hero_162
+  - first:
+      213: 2510278024495467513
+    second: Human_Female_Warrior_LongSword_Hero_163
+  - first:
+      213: -2533432950452430551
+    second: Human_Female_Warrior_LongSword_Hero_164
+  - first:
+      213: 8610897122440491983
+    second: Human_Female_Warrior_LongSword_Hero_165
+  - first:
+      213: -2619589583300193731
+    second: Human_Female_Warrior_LongSword_Hero_166
+  - first:
+      213: -7678499203964317868
+    second: Human_Female_Warrior_LongSword_Hero_167
+  - first:
+      213: 6231586309553325799
+    second: Human_Female_Warrior_LongSword_Hero_168
+  - first:
+      213: 5665706141313818075
+    second: Human_Female_Warrior_LongSword_Hero_169
+  - first:
+      213: -6775244467818244918
+    second: Human_Female_Warrior_LongSword_Hero_170
+  - first:
+      213: -6688510798276991985
+    second: Human_Female_Warrior_LongSword_Hero_171
+  - first:
+      213: 7098352850020752141
+    second: Human_Female_Warrior_LongSword_Hero_172
+  - first:
+      213: -4559233736749846136
+    second: Human_Female_Warrior_LongSword_Hero_173
+  - first:
+      213: -5618459778144063783
+    second: Human_Female_Warrior_LongSword_Hero_174
+  - first:
+      213: 6136649252855874978
+    second: Human_Female_Warrior_LongSword_Hero_175
+  - first:
+      213: -5859805725188022372
+    second: Human_Female_Warrior_LongSword_Hero_176
+  - first:
+      213: -2704881175360685190
+    second: Human_Female_Warrior_LongSword_Hero_177
+  - first:
+      213: 3454499412346597715
+    second: Human_Female_Warrior_LongSword_Hero_178
+  - first:
+      213: -4316706702841542641
+    second: Human_Female_Warrior_LongSword_Hero_179
+  - first:
+      213: -4016358775233520547
+    second: Human_Female_Warrior_LongSword_Hero_180
+  - first:
+      213: -3311710955069653025
+    second: Human_Female_Warrior_LongSword_Hero_181
+  - first:
+      213: 9190172607445243196
+    second: Human_Female_Warrior_LongSword_Hero_182
+  - first:
+      213: -6673003129013095157
+    second: Human_Female_Warrior_LongSword_Hero_184
+  - first:
+      213: -4213709372361939009
+    second: Human_Female_Warrior_LongSword_Hero_186
+  - first:
+      213: -4941740259220942211
+    second: Human_Female_Warrior_LongSword_Hero_188
+  - first:
+      213: 7633801951076335731
+    second: Human_Female_Warrior_LongSword_Hero_190
+  - first:
+      213: -9136295122208333088
+    second: Human_Female_Warrior_LongSword_Hero_192
+  - first:
+      213: -2001854967378198381
+    second: Human_Female_Warrior_LongSword_Hero_194
+  - first:
+      213: -1378892823724349251
+    second: Human_Female_Warrior_LongSword_Hero_195
+  - first:
+      213: 387874579316322765
+    second: Human_Female_Warrior_LongSword_Hero_196
+  - first:
+      213: 300036475785922007
+    second: Human_Female_Warrior_LongSword_Hero_197
+  - first:
+      213: -1532253124080285115
+    second: Human_Female_Warrior_LongSword_Hero_198
+  - first:
+      213: 4560643403567021447
+    second: Human_Female_Warrior_LongSword_Hero_199
+  - first:
+      213: -7943381043344051192
+    second: Human_Female_Warrior_LongSword_Hero_200
+  - first:
+      213: -6948732648529789347
+    second: Human_Female_Warrior_LongSword_Hero_201
+  - first:
+      213: -3836761911976987276
+    second: Human_Female_Warrior_LongSword_Hero_202
+  - first:
+      213: 547958464253047991
+    second: Human_Female_Warrior_LongSword_Hero_203
+  - first:
+      213: -3667475848227685855
+    second: Human_Female_Warrior_LongSword_Hero_204
+  - first:
+      213: 2651636146421649170
+    second: Human_Female_Warrior_LongSword_Hero_205
+  - first:
+      213: 2546110754862955757
+    second: Human_Female_Warrior_LongSword_Hero_206
+  - first:
+      213: 6982631747663704517
+    second: Human_Female_Warrior_LongSword_Hero_207
+  - first:
+      213: 868444838417469920
+    second: Human_Female_Warrior_LongSword_Hero_208
+  - first:
+      213: -8552340425736259359
+    second: Human_Female_Warrior_LongSword_Hero_209
+  - first:
+      213: -6188520544610820964
+    second: Human_Female_Warrior_LongSword_Hero_210
+  - first:
+      213: 1147481894782157476
+    second: Human_Female_Warrior_LongSword_Hero_211
+  - first:
+      213: -5873099821464448202
+    second: Human_Female_Warrior_LongSword_Hero_212
+  - first:
+      213: 5332976997550570086
+    second: Human_Female_Warrior_LongSword_Hero_213
+  - first:
+      213: -1202576761184022969
+    second: Human_Female_Warrior_LongSword_Hero_214
+  - first:
+      213: -291771230281478776
+    second: Human_Female_Warrior_LongSword_Hero_215
+  - first:
+      213: -2465013582285327161
+    second: Human_Female_Warrior_LongSword_Hero_216
+  - first:
+      213: -2905399358990193396
+    second: Human_Female_Warrior_LongSword_Hero_217
+  - first:
+      213: 942698507810462431
+    second: Human_Female_Warrior_LongSword_Hero_218
+  - first:
+      213: -8695525116377754051
+    second: Human_Female_Warrior_LongSword_Hero_219
+  - first:
+      213: 2052351966089520136
+    second: Human_Female_Warrior_LongSword_Hero_220
+  - first:
+      213: 8453422409725133871
+    second: Human_Female_Warrior_LongSword_Hero_221
+  - first:
+      213: 1208286737013004026
+    second: Human_Female_Warrior_LongSword_Hero_222
+  - first:
+      213: 1913175354330801562
+    second: Human_Female_Warrior_LongSword_Hero_223
+  - first:
+      213: -5201736162793773291
+    second: Human_Female_Warrior_LongSword_Hero_224
+  - first:
+      213: 4328887783570393762
+    second: Human_Female_Warrior_LongSword_Hero_225
+  - first:
+      213: 3709341112392949620
+    second: Human_Female_Warrior_LongSword_Hero_226
+  - first:
+      213: 5852575607147267942
+    second: Human_Female_Warrior_LongSword_Hero_227
+  - first:
+      213: -1341410308544222770
+    second: Human_Female_Warrior_LongSword_Hero_228
+  - first:
+      213: -3774327888341803151
+    second: Human_Female_Warrior_LongSword_Hero_229
+  - first:
+      213: -8637982770191511943
+    second: Human_Female_Warrior_LongSword_Hero_230
+  - first:
+      213: 118028441020349306
+    second: Human_Female_Warrior_LongSword_Hero_231
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2055741c486ed20800000000000000
+      internalID: 3307476942010516188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fd1dfb103758130800000000000000
+      internalID: 3568384731111350082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3566ccb5dc92540800000000000000
+      internalID: 4983740256817140726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c531b6158bd92f0800000000000000
+      internalID: -964412085359125363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e27448d783b6aa0800000000000000
+      internalID: -6166773153012437372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4908f10652ec2c0800000000000000
+      internalID: -4409545890373528337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fc2771254f236c0800000000000000
+      internalID: -4164998071946391802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b50d819649cc180800000000000000
+      internalID: -9093730368459089136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb8438e442ac79d0800000000000000
+      internalID: -2775164853529834550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb8ee4865a91ec80800000000000000
+      internalID: -8295179342251652102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9dfc889521d5150800000000000000
+      internalID: 5862862465662966266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc4332a91c7cfee0800000000000000
+      internalID: -1225968549014319928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b560a7a38cc6ba20800000000000000
+      internalID: 3077872261179401654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58380201d5f06a4f0800000000000000
+      internalID: -817949389944224891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a3a07a8ce290de0800000000000000
+      internalID: -1366509572599432588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6df2b6fd7549eb70800000000000000
+      internalID: 8928744143550872941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b1883215a22d640800000000000000
+      internalID: 5103187855741033216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16f4e5aef2d49300800000000000000
+      internalID: 258063069813732892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e466296c640a5b0800000000000000
+      internalID: -5359205737897242986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dfdb48d431c5040800000000000000
+      internalID: 4637602939945221386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b7c7ca2864ea440800000000000000
+      internalID: 4948970567580285773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fcacaaf754869b0800000000000000
+      internalID: -5086739364486393996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520403fdc65db0e40800000000000000
+      internalID: 5623823223279861797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7229b63fdfd320a0800000000000000
+      internalID: -6907431253667405188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e795f94ecaa8a24a0800000000000000
+      internalID: -6617324227292866178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39abaf556d4c00470800000000000000
+      internalID: 8358897333244181139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d4ba10b3865b410800000000000000
+      internalID: 1492213454183550222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999626b274ba45740800000000000000
+      internalID: 5139921396895476121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bfee94f994cb280800000000000000
+      internalID: -9026258604668290254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf5115f788d664a0800000000000000
+      internalID: -6600350125421142088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66c1f745c73836d0800000000000000
+      internalID: -3010595030442064275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73551e001967a8ad0800000000000000
+      internalID: -2699214661498088137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d3845d32045fc10800000000000000
+      internalID: 2086644525002407186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e5b5c0dd79c10c0800000000000000
+      internalID: -4603637743428608475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3fba89ba07454b0800000000000000
+      internalID: -5452609366535703635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd0bdcb595d3fc80800000000000000
+      internalID: -8290047649963635240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223c29bbc7e10a730800000000000000
+      internalID: 4008237189431477026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679d66c07da521b10800000000000000
+      internalID: 1950721468277381494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f392ba5bd5d46e0800000000000000
+      internalID: -1851720836937335020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3330e5356301e52e0800000000000000
+      internalID: -2135251347814087885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502251bd725696bb0800000000000000
+      internalID: -4942307894208683515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d026e21e3267e20800000000000000
+      internalID: 3347902823049334168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c04218e56fc3bc0800000000000000
+      internalID: -3801893099653559152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c89872ba75dafb80800000000000000
+      internalID: -8360135035302930236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c069bf62401718e0800000000000000
+      internalID: -1722890454917619516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2897e4c28b75feb0800000000000000
+      internalID: -4686704035629656019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c76ca76f755b7c0800000000000000
+      internalID: -4056239173243863983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26462233b9e3d690800000000000000
+      internalID: -7578456792084625873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9478fe834e55aef0800000000000000
+      internalID: -97568172664130402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d98fded982c1780800000000000000
+      internalID: -8711042920473911912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e582459d8fdda36e0800000000000000
+      internalID: -1856927835469109154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aad5010fbcec6130800000000000000
+      internalID: 3561481710443289250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8a4efe22260b470800000000000000
+      internalID: 8408328406493866195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f9fc7d98afb9d40800000000000000
+      internalID: 5592338832248774411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71905c5be8a06d570800000000000000
+      internalID: 8490985755504871703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f49e0bd8a490680800000000000000
+      internalID: -8788411225417887932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1984fb386d5f06380800000000000000
+      internalID: -8979907355294611311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6b96aa91ea3e9b0800000000000000
+      internalID: -5052002931723094288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e310fe888f1611f30800000000000000
+      internalID: 4544521219070689598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd429df3a4e49c1c0800000000000000
+      internalID: -4482965873264876325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74abc4a692d54d9b0800000000000000
+      internalID: -5056314049171768761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e4f4cca42f8a240800000000000000
+      internalID: 4803355405659885064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83c6b2b6e8d5a300800000000000000
+      internalID: 262854638623441807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42c475396efe5220800000000000000
+      internalID: 2476696572922217037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7185a4c9dc149c290800000000000000
+      internalID: -7869686522507012073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faee77e38e407130800000000000000
+      internalID: 3562433633681599223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf14f09ac292b580800000000000000
+      internalID: -8812820122097672245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4a0d36550cb7090800000000000000
+      internalID: -8035617637133146906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caa32d5c5b8ad820800000000000000
+      internalID: 2943818535255911112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9542bb62c0103b20800000000000000
+      internalID: 3112005769729557918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8706e8c875857ce40800000000000000
+      internalID: 5676602988367339640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5ed46420dd8c6a0800000000000000
+      internalID: -6428645466232199689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c5f7088e833f4e0800000000000000
+      internalID: -1949151642481894269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45afe36a6d07758f0800000000000000
+      internalID: -551848362115138988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22c15c4d582380c0800000000000000
+      internalID: -4574768415300795858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2113e1caec0d880800000000000000
+      internalID: -8588137250759306576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded7d5c6bae79b440800000000000000
+      internalID: 4952128539993144813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f572343ec0ba580800000000000000
+      internalID: -8814937675423850712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67ce70be1e331c60800000000000000
+      internalID: 7787636482184759146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0166edb758f85c70800000000000000
+      internalID: 8960184514385436943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6110ce23f6aeb42a0800000000000000
+      internalID: -6752045452995329770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce223342d1c3f8770800000000000000
+      internalID: 8615170708042097388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670c4e5d2705b8c80800000000000000
+      internalID: -8319467432491827082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbe218fe5b4afc00800000000000000
+      internalID: 935142743893797825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4e4132237c90e80800000000000000
+      internalID: -8211813427382524763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475025d33fbf3be40800000000000000
+      internalID: 5671153377913996660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07a01eb00777d170800000000000000
+      internalID: 8203156091351115533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce1e5dc90658ca50800000000000000
+      internalID: 6541573058855837381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7452d74479432520800000000000000
+      internalID: 2676063367358207099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67411e50a5d103680800000000000000
+      internalID: -8777483401262197642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da319062231041a30800000000000000
+      internalID: 4184971268632155053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6e62915ba758ea0800000000000000
+      internalID: -5871151620977924414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d2d41c4e4407440800000000000000
+      internalID: 4931517341256985911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9c8445dfa628ec0800000000000000
+      internalID: -3566170318650684994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b418bf3428fbc550800000000000000
+      internalID: 6182307748067677366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc74387de6bdf590800000000000000
+      internalID: -7638748261910283083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d49f6a7b90650f00800000000000000
+      internalID: 1082377506342802641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb73e56b7ba7ec0a0800000000000000
+      internalID: -6859410252981454914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0eca2dc5cdc5ac0800000000000000
+      internalID: -3864972088961081104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae121d3f7342e8fd0800000000000000
+      internalID: -2337891333826338326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafb69a65ab49f640800000000000000
+      internalID: 5114202025685860267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae708f76f528d7410800000000000000
+      internalID: 1476479599125202922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14466db01567ea440800000000000000
+      internalID: 4949023130989782081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0756038010917c30800000000000000
+      internalID: 4355420715236087567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982a4a6ab0ecf4090800000000000000
+      internalID: -8047987459652017527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21542fc895db04850800000000000000
+      internalID: 6359290866161566994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd292ccb4f75783f0800000000000000
+      internalID: -898652891986619685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6f3c1fe566e73c0800000000000000
+      internalID: -4359934831278950701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dae16e1dcff4450800000000000000
+      internalID: 6075352400785222959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad11d40cb54d1ee0800000000000000
+      internalID: -1288797244521112149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443a73a85cc805e40800000000000000
+      internalID: 5643165113150579524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44062868f661e0f60800000000000000
+      internalID: 8002358256137822276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487182b536aee1a50800000000000000
+      internalID: 6493885425166849924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b102796282f38db40800000000000000
+      internalID: 5465187589492776987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ab6d852593a9740800000000000000
+      internalID: 5159499348946893313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ac17ad278a4a1f0800000000000000
+      internalID: -1034516803143742856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6405ecaf0b479dd40800000000000000
+      internalID: 5609643114337554502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d21f35769aafc60800000000000000
+      internalID: 7852775161528921502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c3da3cfa5a06730800000000000000
+      internalID: 3990371444171029505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161f68c8c66f024f0800000000000000
+      internalID: -855412983125839519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e999afb652876bd80800000000000000
+      internalID: -8235262766479664738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5ea96b30625d090800000000000000
+      internalID: -8010454564818197080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9660fbc58df1ce450800000000000000
+      internalID: 6119301007819081321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3db824e56b74610800000000000000
+      internalID: 1605452308140512229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb833e1f1e5d2050800000000000000
+      internalID: 5777377384729906124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a77d236289b3750800000000000000
+      internalID: 6285784994754820669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c89ccf4db02ca370800000000000000
+      internalID: 8335073007815661767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f6c9f57eaecb670800000000000000
+      internalID: 8555971671559532331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd44408c38b083000800000000000000
+      internalID: 15775259320141020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695c443ba580220d0800000000000000
+      internalID: -3449185178964671082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d242514f8f40b2c0800000000000000
+      internalID: -4417943757755628846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca9192ec4d7a98d0800000000000000
+      internalID: -2838818845931496767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ceafe5fded7cc6e0800000000000000
+      internalID: -1815938088750305592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d424f73b7513c28a0800000000000000
+      internalID: -6328629123619012019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489c8c39fdd8e1400800000000000000
+      internalID: 296830616849664388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db3982491978ae70800000000000000
+      internalID: 9126677794263743446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d24a140e68a136c0800000000000000
+      internalID: -4165362989872299312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02afeb28a0566250800000000000000
+      internalID: 5937521841956430348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261f6f27c8234a590800000000000000
+      internalID: -7663945087072145054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cef830296c1cd40800000000000000
+      internalID: 5602977741852896314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca59eae84ff7ae90800000000000000
+      internalID: -7014357205962368310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4527de00e113c60800000000000000
+      internalID: 7796045419287565475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b75a14224bc3320800000000000000
+      internalID: 2539102349153368943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57eacb887324816b0800000000000000
+      internalID: -5325433753080910219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83334345694108220800000000000000
+      internalID: 2486009630198870840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7d8a769cbf766d0800000000000000
+      internalID: -2997150184545658946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aece95aa755d85230800000000000000
+      internalID: 3627884072343825642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b72f9cd5997f6c0800000000000000
+      internalID: -4109647506853168315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a07e9b71a58be270800000000000000
+      internalID: 8280859268460998823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f41187629a580c0800000000000000
+      internalID: -4574063863836618966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb4131b391a788f0800000000000000
+      internalID: -538283974742422586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529362246844e9a00800000000000000
+      internalID: 765124330125670693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6192a26660951d0800000000000000
+      internalID: -3361648610991597870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea20c402106acb70800000000000000
+      internalID: 8920047642466069228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840fecc4ca0c075a0800000000000000
+      internalID: -6525504013804310456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167eb296bbd9e61e0800000000000000
+      internalID: -2202649739488663711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38341ba445bfb30d0800000000000000
+      internalID: -3441881150745656445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b483079c1a6292860800000000000000
+      internalID: 7505572730300807243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beba584221ecdbf40800000000000000
+      internalID: 5745975276912094187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9c1696a4dd06c70800000000000000
+      internalID: 8962406570132621810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cef053897c6b670800000000000000
+      internalID: 8554243998776028182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7febc6e6acc566020800000000000000
+      internalID: 2334655481343950583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be80283eb9de76e40800000000000000
+      internalID: 5649745511352240363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a166e84520da71460800000000000000
+      internalID: 7212423553777296922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ebd280a9b8ab790800000000000000
+      internalID: -7513539534635811304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273dbb343ead3d430800000000000000
+      internalID: 3806626779687015282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8d3616517af1ae0800000000000000
+      internalID: -1576357634286298916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6d96748276adef0800000000000000
+      internalID: -82640220458461503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23096857c777fd200800000000000000
+      internalID: 207015484313735218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cf36851450c5250800000000000000
+      internalID: 5934624187181431900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66c07b9c01865b30800000000000000
+      internalID: 4275746787382314604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80632485bb4688e0800000000000000
+      internalID: -1691581367052967794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541cb5b5323f9c6e0800000000000000
+      internalID: -1816653641485139643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84096c87fe1a2cad0800000000000000
+      internalID: -2683404378063859640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f52016daed08ad30800000000000000
+      internalID: 4442816334665885175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2474ae64b29ba80800000000000000
+      internalID: -8450675642205781332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280200de23b57ab70800000000000000
+      internalID: 8910190662058516610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df185548f3726290800000000000000
+      internalID: -7898623286301941802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_178
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c4178f9b9fba4a0800000000000000
+      internalID: -6580891853339407347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_179
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2c47b63d24212e0800000000000000
+      internalID: -2156587795748699427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_180
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c128219a4167bb580800000000000000
+      internalID: -8810318414912257508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_181
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8177528e571277ff0800000000000000
+      internalID: -38525281519700200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_182
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce51b998068d6e230800000000000000
+      internalID: 3667856855676949996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_184
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85c37a1b03dd1d10800000000000000
+      internalID: 2098065046066414990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_186
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ada5066928284b70800000000000000
+      internalID: 8883394423258721696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_188
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95aa2c3b39463c110800000000000000
+      internalID: 1279977304642202201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_190
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0073587fc45b6640800000000000000
+      internalID: 5074242655216693261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_192
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de89110d015eea40800000000000000
+      internalID: 5399342119558680281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_194
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1414c25336502d10800000000000000
+      internalID: 2098772204786553885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a89fb57354a1ecf0800000000000000
+      internalID: -224717828027082587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_196
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526346e897685b5a0800000000000000
+      internalID: -6506146230028716507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_197
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2db460452235fb0800000000000000
+      internalID: -4660343445120101634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_198
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560018492672748d0800000000000000
+      internalID: -2862275733818900379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_199
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f79df24aac23730800000000000000
+      internalID: 3977464227447799710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_200
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a94c9753dd1cef70800000000000000
+      internalID: 9217775330865727904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_201
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6b3da6eee8d53e0800000000000000
+      internalID: -2063335899620198680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_202
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ce6c0784ab06d40800000000000000
+      internalID: 5575661158977170531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_203
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195da7df68b2c7300800000000000000
+      internalID: 251123538004202897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15917979a0f98070800000000000000
+      internalID: 8109277214734914847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_205
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936f64df15ac69da0800000000000000
+      internalID: -5938336605150972359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_206
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4d2c7dfbf0f78b0800000000000000
+      internalID: -5152382132055518040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_207
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c630faedae213ac70800000000000000
+      internalID: 8981042881874559852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_208
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71308c6b733c34f0800000000000000
+      internalID: -847746024658161285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_209
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6de93c9ebd7d80a0800000000000000
+      internalID: -6877702798306579090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_210
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f9d1fa3e333fe80800000000000000
+      internalID: -8146110247994548442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_211
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9ab2702f9bc6ba0800000000000000
+      internalID: -6094291746585597448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_212
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc5a697e7942e740800000000000000
+      internalID: 5179783328981212381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_213
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc3184cea9e837b0800000000000000
+      internalID: -5244184829242557259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_214
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760f18d59fd3de410800000000000000
+      internalID: 1507929591463932007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_215
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f043ba41d8fa233f0800000000000000
+      internalID: -922481953185516529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_216
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63377970310034ba0800000000000000
+      internalID: -6106036588052516042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_217
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bc5107d738a9d80800000000000000
+      internalID: -8243131593173644463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_218
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b094a900879e53930800000000000000
+      internalID: 4122457735543015691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_219
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8860de7a8123e430800000000000000
+      internalID: 3810926588402362510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_220
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320cdfdb169ba61e0800000000000000
+      internalID: -2203745238193946589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_221
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f644f74ce5dbb90c0800000000000000
+      internalID: -4567849182315985809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_222
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51735213bfac0460800000000000000
+      internalID: 7209330287154786651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_223
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b54bc335da3b400800000000000000
+      internalID: 338804969995262759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_224
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e77e355ced3a40c0800000000000000
+      internalID: -4590788784899065883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_225
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa568bb09fe7b0190800000000000000
+      internalID: -7995157105357593174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_226
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18badf00614a33b0800000000000000
+      internalID: -5532037311432574947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_227
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6db12d4f0273f90800000000000000
+      internalID: -6974069262090774788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_228
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930905d66f58c9360800000000000000
+      internalID: 7177759199564173369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_229
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f159fd4ee0d84b90800000000000000
+      internalID: -7257321077578575368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_230
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7ab66ec3fb329b0800000000000000
+      internalID: -5106027284223252529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_LongSword_Hero_231
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23342e33f3c8a94c0800000000000000
+      internalID: -4279954292780940494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

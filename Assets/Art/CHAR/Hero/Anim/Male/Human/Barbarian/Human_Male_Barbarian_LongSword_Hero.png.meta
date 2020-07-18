@@ -1,0 +1,5942 @@
+fileFormatVersion: 2
+guid: 54baf95a3ccf46e4a864d6b504ddcb21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4313867834947709322
+    second: Human_Male_Barbarian_LongSword_Hero_0
+  - first:
+      213: -4519884541634050883
+    second: Human_Male_Barbarian_LongSword_Hero_1
+  - first:
+      213: -4090783648108329760
+    second: Human_Male_Barbarian_LongSword_Hero_2
+  - first:
+      213: -3370341440620308760
+    second: Human_Male_Barbarian_LongSword_Hero_3
+  - first:
+      213: 6261688618392494247
+    second: Human_Male_Barbarian_LongSword_Hero_4
+  - first:
+      213: 3858186945791253777
+    second: Human_Male_Barbarian_LongSword_Hero_5
+  - first:
+      213: -3535946478195451310
+    second: Human_Male_Barbarian_LongSword_Hero_6
+  - first:
+      213: 3487973825794795835
+    second: Human_Male_Barbarian_LongSword_Hero_7
+  - first:
+      213: 7845988871574433360
+    second: Human_Male_Barbarian_LongSword_Hero_8
+  - first:
+      213: 5886112134171876109
+    second: Human_Male_Barbarian_LongSword_Hero_9
+  - first:
+      213: -9034799930073834008
+    second: Human_Male_Barbarian_LongSword_Hero_10
+  - first:
+      213: 6941148543948639926
+    second: Human_Male_Barbarian_LongSword_Hero_11
+  - first:
+      213: -748478188801254419
+    second: Human_Male_Barbarian_LongSword_Hero_12
+  - first:
+      213: -6937868497532496582
+    second: Human_Male_Barbarian_LongSword_Hero_13
+  - first:
+      213: -3233817353868550990
+    second: Human_Male_Barbarian_LongSword_Hero_14
+  - first:
+      213: 694980854013270264
+    second: Human_Male_Barbarian_LongSword_Hero_15
+  - first:
+      213: -8365728642868544091
+    second: Human_Male_Barbarian_LongSword_Hero_16
+  - first:
+      213: -1639104123248925620
+    second: Human_Male_Barbarian_LongSword_Hero_17
+  - first:
+      213: 5796834860914542379
+    second: Human_Male_Barbarian_LongSword_Hero_18
+  - first:
+      213: -1674388941113125969
+    second: Human_Male_Barbarian_LongSword_Hero_19
+  - first:
+      213: -4817102384106839042
+    second: Human_Male_Barbarian_LongSword_Hero_20
+  - first:
+      213: -218865781602800035
+    second: Human_Male_Barbarian_LongSword_Hero_21
+  - first:
+      213: -6226968098193972265
+    second: Human_Male_Barbarian_LongSword_Hero_22
+  - first:
+      213: 3230322496848523301
+    second: Human_Male_Barbarian_LongSword_Hero_23
+  - first:
+      213: -3763582949890279825
+    second: Human_Male_Barbarian_LongSword_Hero_24
+  - first:
+      213: -3905674549438418590
+    second: Human_Male_Barbarian_LongSword_Hero_25
+  - first:
+      213: -1261016212943089778
+    second: Human_Male_Barbarian_LongSword_Hero_26
+  - first:
+      213: 3978691738591900939
+    second: Human_Male_Barbarian_LongSword_Hero_27
+  - first:
+      213: 6453261789860012966
+    second: Human_Male_Barbarian_LongSword_Hero_28
+  - first:
+      213: -6480055077820520463
+    second: Human_Male_Barbarian_LongSword_Hero_29
+  - first:
+      213: -3342069490730696132
+    second: Human_Male_Barbarian_LongSword_Hero_30
+  - first:
+      213: 7988070029965981034
+    second: Human_Male_Barbarian_LongSword_Hero_31
+  - first:
+      213: 6039524624464737679
+    second: Human_Male_Barbarian_LongSword_Hero_32
+  - first:
+      213: -3281919444549490150
+    second: Human_Male_Barbarian_LongSword_Hero_33
+  - first:
+      213: 2353212083537379501
+    second: Human_Male_Barbarian_LongSword_Hero_34
+  - first:
+      213: -6887831733551089145
+    second: Human_Male_Barbarian_LongSword_Hero_35
+  - first:
+      213: -3407764938538480209
+    second: Human_Male_Barbarian_LongSword_Hero_36
+  - first:
+      213: 675163303136273943
+    second: Human_Male_Barbarian_LongSword_Hero_37
+  - first:
+      213: -3053848808408936937
+    second: Human_Male_Barbarian_LongSword_Hero_38
+  - first:
+      213: 9178986351798207818
+    second: Human_Male_Barbarian_LongSword_Hero_39
+  - first:
+      213: 4575700787142713096
+    second: Human_Male_Barbarian_LongSword_Hero_40
+  - first:
+      213: 8074175871877040892
+    second: Human_Male_Barbarian_LongSword_Hero_41
+  - first:
+      213: 2148090200024899883
+    second: Human_Male_Barbarian_LongSword_Hero_42
+  - first:
+      213: 6990469518651772216
+    second: Human_Male_Barbarian_LongSword_Hero_43
+  - first:
+      213: -6588078208594934153
+    second: Human_Male_Barbarian_LongSword_Hero_44
+  - first:
+      213: -6460745082754854015
+    second: Human_Male_Barbarian_LongSword_Hero_45
+  - first:
+      213: 241461239972983752
+    second: Human_Male_Barbarian_LongSword_Hero_46
+  - first:
+      213: -1391196014747839639
+    second: Human_Male_Barbarian_LongSword_Hero_47
+  - first:
+      213: -6135990533334211241
+    second: Human_Male_Barbarian_LongSword_Hero_48
+  - first:
+      213: -4908118851311158301
+    second: Human_Male_Barbarian_LongSword_Hero_49
+  - first:
+      213: 6108954284351173378
+    second: Human_Male_Barbarian_LongSword_Hero_50
+  - first:
+      213: 5437404166655351547
+    second: Human_Male_Barbarian_LongSword_Hero_51
+  - first:
+      213: -1165619718296837984
+    second: Human_Male_Barbarian_LongSword_Hero_52
+  - first:
+      213: -8475650351712075982
+    second: Human_Male_Barbarian_LongSword_Hero_53
+  - first:
+      213: 651624735823342179
+    second: Human_Male_Barbarian_LongSword_Hero_54
+  - first:
+      213: -2490444948587269845
+    second: Human_Male_Barbarian_LongSword_Hero_55
+  - first:
+      213: -7867124457899231857
+    second: Human_Male_Barbarian_LongSword_Hero_56
+  - first:
+      213: -4495932376266832115
+    second: Human_Male_Barbarian_LongSword_Hero_57
+  - first:
+      213: -3294325343200427003
+    second: Human_Male_Barbarian_LongSword_Hero_58
+  - first:
+      213: -601062603263574480
+    second: Human_Male_Barbarian_LongSword_Hero_59
+  - first:
+      213: 6541654638462588727
+    second: Human_Male_Barbarian_LongSword_Hero_60
+  - first:
+      213: 6024709127002970931
+    second: Human_Male_Barbarian_LongSword_Hero_61
+  - first:
+      213: -3707553609412686191
+    second: Human_Male_Barbarian_LongSword_Hero_62
+  - first:
+      213: 3119492948514545625
+    second: Human_Male_Barbarian_LongSword_Hero_63
+  - first:
+      213: -4460963230931232410
+    second: Human_Male_Barbarian_LongSword_Hero_64
+  - first:
+      213: 5456337690425186640
+    second: Human_Male_Barbarian_LongSword_Hero_65
+  - first:
+      213: 4585921005365128926
+    second: Human_Male_Barbarian_LongSword_Hero_66
+  - first:
+      213: 4313743080920245573
+    second: Human_Male_Barbarian_LongSword_Hero_67
+  - first:
+      213: -4840046184145033759
+    second: Human_Male_Barbarian_LongSword_Hero_68
+  - first:
+      213: 5441435143452528216
+    second: Human_Male_Barbarian_LongSword_Hero_69
+  - first:
+      213: -418837310956866435
+    second: Human_Male_Barbarian_LongSword_Hero_70
+  - first:
+      213: 2489583533461306438
+    second: Human_Male_Barbarian_LongSword_Hero_71
+  - first:
+      213: -6525574073671545734
+    second: Human_Male_Barbarian_LongSword_Hero_72
+  - first:
+      213: -8909912434211023246
+    second: Human_Male_Barbarian_LongSword_Hero_73
+  - first:
+      213: 611539225563025216
+    second: Human_Male_Barbarian_LongSword_Hero_74
+  - first:
+      213: -1255929637815719906
+    second: Human_Male_Barbarian_LongSword_Hero_75
+  - first:
+      213: 897696679730544853
+    second: Human_Male_Barbarian_LongSword_Hero_76
+  - first:
+      213: -2748241424363286492
+    second: Human_Male_Barbarian_LongSword_Hero_77
+  - first:
+      213: 492864149191309047
+    second: Human_Male_Barbarian_LongSword_Hero_78
+  - first:
+      213: -5687769291258684922
+    second: Human_Male_Barbarian_LongSword_Hero_79
+  - first:
+      213: 8422249031719488079
+    second: Human_Male_Barbarian_LongSword_Hero_80
+  - first:
+      213: 5739350200481377965
+    second: Human_Male_Barbarian_LongSword_Hero_81
+  - first:
+      213: 2621672627488370451
+    second: Human_Male_Barbarian_LongSword_Hero_82
+  - first:
+      213: 3587958503171551256
+    second: Human_Male_Barbarian_LongSword_Hero_83
+  - first:
+      213: -7492697267822806427
+    second: Human_Male_Barbarian_LongSword_Hero_84
+  - first:
+      213: 8270351100570923082
+    second: Human_Male_Barbarian_LongSword_Hero_85
+  - first:
+      213: 4482009952231585716
+    second: Human_Male_Barbarian_LongSword_Hero_86
+  - first:
+      213: -6557311271749317799
+    second: Human_Male_Barbarian_LongSword_Hero_87
+  - first:
+      213: 8603319716241424509
+    second: Human_Male_Barbarian_LongSword_Hero_88
+  - first:
+      213: -7676271119554980371
+    second: Human_Male_Barbarian_LongSword_Hero_89
+  - first:
+      213: 7793061130703234949
+    second: Human_Male_Barbarian_LongSword_Hero_90
+  - first:
+      213: 8284473937822892408
+    second: Human_Male_Barbarian_LongSword_Hero_91
+  - first:
+      213: -4085016866544835449
+    second: Human_Male_Barbarian_LongSword_Hero_92
+  - first:
+      213: 3271356156552858402
+    second: Human_Male_Barbarian_LongSword_Hero_93
+  - first:
+      213: 359959980151985363
+    second: Human_Male_Barbarian_LongSword_Hero_94
+  - first:
+      213: -7582684383359552390
+    second: Human_Male_Barbarian_LongSword_Hero_95
+  - first:
+      213: -8597022516858372616
+    second: Human_Male_Barbarian_LongSword_Hero_96
+  - first:
+      213: -6326515996933611137
+    second: Human_Male_Barbarian_LongSword_Hero_97
+  - first:
+      213: -9193131713696195940
+    second: Human_Male_Barbarian_LongSword_Hero_98
+  - first:
+      213: 3159465589481460642
+    second: Human_Male_Barbarian_LongSword_Hero_99
+  - first:
+      213: 1819013405731478127
+    second: Human_Male_Barbarian_LongSword_Hero_100
+  - first:
+      213: -4972894006817155085
+    second: Human_Male_Barbarian_LongSword_Hero_101
+  - first:
+      213: -8898248437567811085
+    second: Human_Male_Barbarian_LongSword_Hero_102
+  - first:
+      213: 4716717666812610967
+    second: Human_Male_Barbarian_LongSword_Hero_103
+  - first:
+      213: -5548050300551548480
+    second: Human_Male_Barbarian_LongSword_Hero_104
+  - first:
+      213: -2241953417870925674
+    second: Human_Male_Barbarian_LongSword_Hero_105
+  - first:
+      213: -5963502067028562730
+    second: Human_Male_Barbarian_LongSword_Hero_106
+  - first:
+      213: -939714620807513133
+    second: Human_Male_Barbarian_LongSword_Hero_107
+  - first:
+      213: -750352765194654488
+    second: Human_Male_Barbarian_LongSword_Hero_108
+  - first:
+      213: -2905304958112658164
+    second: Human_Male_Barbarian_LongSword_Hero_109
+  - first:
+      213: -2518701694022051694
+    second: Human_Male_Barbarian_LongSword_Hero_110
+  - first:
+      213: -2356595751441904082
+    second: Human_Male_Barbarian_LongSword_Hero_111
+  - first:
+      213: 3598176737470240094
+    second: Human_Male_Barbarian_LongSword_Hero_112
+  - first:
+      213: 7881765026850253223
+    second: Human_Male_Barbarian_LongSword_Hero_113
+  - first:
+      213: -8802915670040918051
+    second: Human_Male_Barbarian_LongSword_Hero_114
+  - first:
+      213: -112264746857056777
+    second: Human_Male_Barbarian_LongSword_Hero_115
+  - first:
+      213: 712912187500282699
+    second: Human_Male_Barbarian_LongSword_Hero_116
+  - first:
+      213: 7222052186683897536
+    second: Human_Male_Barbarian_LongSword_Hero_117
+  - first:
+      213: -1058355971577189729
+    second: Human_Male_Barbarian_LongSword_Hero_118
+  - first:
+      213: 1744710306117015554
+    second: Human_Male_Barbarian_LongSword_Hero_119
+  - first:
+      213: 8863512308965226695
+    second: Human_Male_Barbarian_LongSword_Hero_120
+  - first:
+      213: -429945495748724296
+    second: Human_Male_Barbarian_LongSword_Hero_121
+  - first:
+      213: -8478796193137325539
+    second: Human_Male_Barbarian_LongSword_Hero_122
+  - first:
+      213: -172195249261931411
+    second: Human_Male_Barbarian_LongSword_Hero_123
+  - first:
+      213: 2320716591096787823
+    second: Human_Male_Barbarian_LongSword_Hero_124
+  - first:
+      213: 6622494751100607788
+    second: Human_Male_Barbarian_LongSword_Hero_125
+  - first:
+      213: 9038709989116340483
+    second: Human_Male_Barbarian_LongSword_Hero_126
+  - first:
+      213: -8533753802732846587
+    second: Human_Male_Barbarian_LongSword_Hero_127
+  - first:
+      213: -3543101288914172730
+    second: Human_Male_Barbarian_LongSword_Hero_128
+  - first:
+      213: -8126170843711181577
+    second: Human_Male_Barbarian_LongSword_Hero_129
+  - first:
+      213: 3937215263338679595
+    second: Human_Male_Barbarian_LongSword_Hero_130
+  - first:
+      213: 5204614528562390293
+    second: Human_Male_Barbarian_LongSword_Hero_131
+  - first:
+      213: 4199451667684686070
+    second: Human_Male_Barbarian_LongSword_Hero_132
+  - first:
+      213: -5942144274575678287
+    second: Human_Male_Barbarian_LongSword_Hero_133
+  - first:
+      213: 5575250985727842211
+    second: Human_Male_Barbarian_LongSword_Hero_134
+  - first:
+      213: 8702125944455833255
+    second: Human_Male_Barbarian_LongSword_Hero_135
+  - first:
+      213: -5640582855180885478
+    second: Human_Male_Barbarian_LongSword_Hero_136
+  - first:
+      213: -2576606935213856887
+    second: Human_Male_Barbarian_LongSword_Hero_137
+  - first:
+      213: -784328907588335359
+    second: Human_Male_Barbarian_LongSword_Hero_138
+  - first:
+      213: 1717905897314064846
+    second: Human_Male_Barbarian_LongSword_Hero_139
+  - first:
+      213: -5148441771345882219
+    second: Human_Male_Barbarian_LongSword_Hero_140
+  - first:
+      213: 4079994210559144780
+    second: Human_Male_Barbarian_LongSword_Hero_141
+  - first:
+      213: 1134455897552661626
+    second: Human_Male_Barbarian_LongSword_Hero_142
+  - first:
+      213: -6995452955932838103
+    second: Human_Male_Barbarian_LongSword_Hero_143
+  - first:
+      213: -9108357218768658523
+    second: Human_Male_Barbarian_LongSword_Hero_144
+  - first:
+      213: -5433747924773840427
+    second: Human_Male_Barbarian_LongSword_Hero_145
+  - first:
+      213: 1103377587023217789
+    second: Human_Male_Barbarian_LongSword_Hero_146
+  - first:
+      213: 4727008345688197833
+    second: Human_Male_Barbarian_LongSword_Hero_147
+  - first:
+      213: 2101471394443510881
+    second: Human_Male_Barbarian_LongSword_Hero_148
+  - first:
+      213: 5897910998434173763
+    second: Human_Male_Barbarian_LongSword_Hero_149
+  - first:
+      213: 3292591579751947983
+    second: Human_Male_Barbarian_LongSword_Hero_150
+  - first:
+      213: 8036758205974268551
+    second: Human_Male_Barbarian_LongSword_Hero_151
+  - first:
+      213: -42946213340483629
+    second: Human_Male_Barbarian_LongSword_Hero_152
+  - first:
+      213: 7554844898642223202
+    second: Human_Male_Barbarian_LongSword_Hero_153
+  - first:
+      213: -5793231800150432850
+    second: Human_Male_Barbarian_LongSword_Hero_154
+  - first:
+      213: 8346414284350064865
+    second: Human_Male_Barbarian_LongSword_Hero_155
+  - first:
+      213: 4834096124000073727
+    second: Human_Male_Barbarian_LongSword_Hero_156
+  - first:
+      213: -2816074662478375363
+    second: Human_Male_Barbarian_LongSword_Hero_157
+  - first:
+      213: 1191846899835833628
+    second: Human_Male_Barbarian_LongSword_Hero_158
+  - first:
+      213: -4766466635479384418
+    second: Human_Male_Barbarian_LongSword_Hero_159
+  - first:
+      213: 6562421703991788436
+    second: Human_Male_Barbarian_LongSword_Hero_160
+  - first:
+      213: -3518125214440040126
+    second: Human_Male_Barbarian_LongSword_Hero_161
+  - first:
+      213: -3275341027404303888
+    second: Human_Male_Barbarian_LongSword_Hero_162
+  - first:
+      213: 540621385749308610
+    second: Human_Male_Barbarian_LongSword_Hero_163
+  - first:
+      213: -804386598942181486
+    second: Human_Male_Barbarian_LongSword_Hero_164
+  - first:
+      213: -1001641637322845372
+    second: Human_Male_Barbarian_LongSword_Hero_165
+  - first:
+      213: 3424599235424674264
+    second: Human_Male_Barbarian_LongSword_Hero_166
+  - first:
+      213: 4245723942330842113
+    second: Human_Male_Barbarian_LongSword_Hero_167
+  - first:
+      213: 8317136281516936622
+    second: Human_Male_Barbarian_LongSword_Hero_168
+  - first:
+      213: 5785039431528038506
+    second: Human_Male_Barbarian_LongSword_Hero_169
+  - first:
+      213: -7828066954413948189
+    second: Human_Male_Barbarian_LongSword_Hero_170
+  - first:
+      213: 1715664790127023319
+    second: Human_Male_Barbarian_LongSword_Hero_171
+  - first:
+      213: 7041027519611617676
+    second: Human_Male_Barbarian_LongSword_Hero_172
+  - first:
+      213: 3232767589763722112
+    second: Human_Male_Barbarian_LongSword_Hero_173
+  - first:
+      213: 5049597369225034121
+    second: Human_Male_Barbarian_LongSword_Hero_174
+  - first:
+      213: -5587611646963815013
+    second: Human_Male_Barbarian_LongSword_Hero_175
+  - first:
+      213: -7601067356578045380
+    second: Human_Male_Barbarian_LongSword_Hero_176
+  - first:
+      213: 6699994939758920094
+    second: Human_Male_Barbarian_LongSword_Hero_177
+  - first:
+      213: -7656843538674071103
+    second: Human_Male_Barbarian_LongSword_Hero_178
+  - first:
+      213: 8327049994651791064
+    second: Human_Male_Barbarian_LongSword_Hero_179
+  - first:
+      213: -3539639054804910622
+    second: Human_Male_Barbarian_LongSword_Hero_180
+  - first:
+      213: -8672022953632865785
+    second: Human_Male_Barbarian_LongSword_Hero_181
+  - first:
+      213: -5931968008037129682
+    second: Human_Male_Barbarian_LongSword_Hero_182
+  - first:
+      213: 3271893712784902282
+    second: Human_Male_Barbarian_LongSword_Hero_183
+  - first:
+      213: 7350217703644429591
+    second: Human_Male_Barbarian_LongSword_Hero_184
+  - first:
+      213: 4520064329911637496
+    second: Human_Male_Barbarian_LongSword_Hero_185
+  - first:
+      213: -173954898458619811
+    second: Human_Male_Barbarian_LongSword_Hero_186
+  - first:
+      213: 2758383556759818425
+    second: Human_Male_Barbarian_LongSword_Hero_187
+  - first:
+      213: -8326335606799742427
+    second: Human_Male_Barbarian_LongSword_Hero_188
+  - first:
+      213: 4567283284029955441
+    second: Human_Male_Barbarian_LongSword_Hero_189
+  - first:
+      213: 4615483495661106688
+    second: Human_Male_Barbarian_LongSword_Hero_190
+  - first:
+      213: 1241648324902881704
+    second: Human_Male_Barbarian_LongSword_Hero_191
+  - first:
+      213: 6782704265805321518
+    second: Human_Male_Barbarian_LongSword_Hero_192
+  - first:
+      213: 4332507027392728107
+    second: Human_Male_Barbarian_LongSword_Hero_193
+  - first:
+      213: 7494244070773849704
+    second: Human_Male_Barbarian_LongSword_Hero_194
+  - first:
+      213: 1171023486788521019
+    second: Human_Male_Barbarian_LongSword_Hero_195
+  - first:
+      213: -7558857010789843058
+    second: Human_Male_Barbarian_LongSword_Hero_196
+  - first:
+      213: 5280119885338423969
+    second: Human_Male_Barbarian_LongSword_Hero_197
+  - first:
+      213: 6388944601906228973
+    second: Human_Male_Barbarian_LongSword_Hero_198
+  - first:
+      213: 2408588803940302496
+    second: Human_Male_Barbarian_LongSword_Hero_199
+  - first:
+      213: 4014634025725717260
+    second: Human_Male_Barbarian_LongSword_Hero_200
+  - first:
+      213: -3493535159119342550
+    second: Human_Male_Barbarian_LongSword_Hero_201
+  - first:
+      213: 8756789616417901200
+    second: Human_Male_Barbarian_LongSword_Hero_202
+  - first:
+      213: 3188484812380282611
+    second: Human_Male_Barbarian_LongSword_Hero_203
+  - first:
+      213: -349789763285358246
+    second: Human_Male_Barbarian_LongSword_Hero_204
+  - first:
+      213: -2018380459675782673
+    second: Human_Male_Barbarian_LongSword_Hero_205
+  - first:
+      213: 2595023267766970448
+    second: Human_Male_Barbarian_LongSword_Hero_206
+  - first:
+      213: -7826335044822336855
+    second: Human_Male_Barbarian_LongSword_Hero_207
+  - first:
+      213: 3151145440833287350
+    second: Human_Male_Barbarian_LongSword_Hero_208
+  - first:
+      213: -1542278590404272423
+    second: Human_Male_Barbarian_LongSword_Hero_209
+  - first:
+      213: -593300706971442585
+    second: Human_Male_Barbarian_LongSword_Hero_210
+  - first:
+      213: 3321219967422306437
+    second: Human_Male_Barbarian_LongSword_Hero_211
+  - first:
+      213: 6474127551915199362
+    second: Human_Male_Barbarian_LongSword_Hero_212
+  - first:
+      213: -696777833144892979
+    second: Human_Male_Barbarian_LongSword_Hero_213
+  - first:
+      213: -1326928341473299137
+    second: Human_Male_Barbarian_LongSword_Hero_214
+  - first:
+      213: -3745027576930273534
+    second: Human_Male_Barbarian_LongSword_Hero_215
+  - first:
+      213: -5331352230574312636
+    second: Human_Male_Barbarian_LongSword_Hero_216
+  - first:
+      213: -7516957730158576639
+    second: Human_Male_Barbarian_LongSword_Hero_217
+  - first:
+      213: 6283125870383733656
+    second: Human_Male_Barbarian_LongSword_Hero_218
+  - first:
+      213: 3760283255302065690
+    second: Human_Male_Barbarian_LongSword_Hero_219
+  - first:
+      213: 535583028387623734
+    second: Human_Male_Barbarian_LongSword_Hero_220
+  - first:
+      213: 1772185049179291135
+    second: Human_Male_Barbarian_LongSword_Hero_221
+  - first:
+      213: -2805701840419618659
+    second: Human_Male_Barbarian_LongSword_Hero_222
+  - first:
+      213: 8011368644276352507
+    second: Human_Male_Barbarian_LongSword_Hero_223
+  - first:
+      213: 8071731370086824422
+    second: Human_Male_Barbarian_LongSword_Hero_224
+  - first:
+      213: 3526254225610658055
+    second: Human_Male_Barbarian_LongSword_Hero_225
+  - first:
+      213: -340073424316395900
+    second: Human_Male_Barbarian_LongSword_Hero_226
+  - first:
+      213: -2443821334299662943
+    second: Human_Male_Barbarian_LongSword_Hero_227
+  - first:
+      213: 3781454658121647285
+    second: Human_Male_Barbarian_LongSword_Hero_228
+  - first:
+      213: -3629654576630132466
+    second: Human_Male_Barbarian_LongSword_Hero_229
+  - first:
+      213: 5415190537994382981
+    second: Human_Male_Barbarian_LongSword_Hero_230
+  - first:
+      213: 4741386646568849664
+    second: Human_Male_Barbarian_LongSword_Hero_231
+  - first:
+      213: -1160773695813261814
+    second: Human_Male_Barbarian_LongSword_Hero_0
+  - first:
+      213: -6297810175054213192
+    second: Human_Male_Barbarian_LongSword_Hero_1
+  - first:
+      213: -890937776364397002
+    second: Human_Male_Barbarian_LongSword_Hero_2
+  - first:
+      213: -5814771332884455756
+    second: Human_Male_Barbarian_LongSword_Hero_3
+  - first:
+      213: 6265209688498704214
+    second: Human_Male_Barbarian_LongSword_Hero_4
+  - first:
+      213: 8221504718617165494
+    second: Human_Male_Barbarian_LongSword_Hero_5
+  - first:
+      213: -2061068673574043629
+    second: Human_Male_Barbarian_LongSword_Hero_6
+  - first:
+      213: 949751879205397450
+    second: Human_Male_Barbarian_LongSword_Hero_7
+  - first:
+      213: 1682810337189379357
+    second: Human_Male_Barbarian_LongSword_Hero_8
+  - first:
+      213: 2690168909681204652
+    second: Human_Male_Barbarian_LongSword_Hero_9
+  - first:
+      213: -2094465983698036281
+    second: Human_Male_Barbarian_LongSword_Hero_10
+  - first:
+      213: 6731935678401343401
+    second: Human_Male_Barbarian_LongSword_Hero_11
+  - first:
+      213: -2162888509438563222
+    second: Human_Male_Barbarian_LongSword_Hero_12
+  - first:
+      213: 2008026808104447642
+    second: Human_Male_Barbarian_LongSword_Hero_13
+  - first:
+      213: 5527261310218273710
+    second: Human_Male_Barbarian_LongSword_Hero_14
+  - first:
+      213: 9038095387160916215
+    second: Human_Male_Barbarian_LongSword_Hero_15
+  - first:
+      213: -4703925708421106438
+    second: Human_Male_Barbarian_LongSword_Hero_16
+  - first:
+      213: -3292839329581260756
+    second: Human_Male_Barbarian_LongSword_Hero_17
+  - first:
+      213: 3987314129274193856
+    second: Human_Male_Barbarian_LongSword_Hero_18
+  - first:
+      213: 5917547403530545168
+    second: Human_Male_Barbarian_LongSword_Hero_19
+  - first:
+      213: -1714489337043850225
+    second: Human_Male_Barbarian_LongSword_Hero_20
+  - first:
+      213: 2805214546175416705
+    second: Human_Male_Barbarian_LongSword_Hero_21
+  - first:
+      213: -5671503943706302263
+    second: Human_Male_Barbarian_LongSword_Hero_22
+  - first:
+      213: 3762948398384719614
+    second: Human_Male_Barbarian_LongSword_Hero_23
+  - first:
+      213: -7423393382543881632
+    second: Human_Male_Barbarian_LongSword_Hero_24
+  - first:
+      213: 7380319756436372515
+    second: Human_Male_Barbarian_LongSword_Hero_25
+  - first:
+      213: -852687762376803167
+    second: Human_Male_Barbarian_LongSword_Hero_26
+  - first:
+      213: 9151820882090580901
+    second: Human_Male_Barbarian_LongSword_Hero_27
+  - first:
+      213: -4394781921568837420
+    second: Human_Male_Barbarian_LongSword_Hero_28
+  - first:
+      213: 8135262132549360434
+    second: Human_Male_Barbarian_LongSword_Hero_29
+  - first:
+      213: 2625672499946062833
+    second: Human_Male_Barbarian_LongSword_Hero_30
+  - first:
+      213: 2092141677771773077
+    second: Human_Male_Barbarian_LongSword_Hero_31
+  - first:
+      213: -6584172347745074048
+    second: Human_Male_Barbarian_LongSword_Hero_32
+  - first:
+      213: -6582191284089475645
+    second: Human_Male_Barbarian_LongSword_Hero_33
+  - first:
+      213: -3850051294104991265
+    second: Human_Male_Barbarian_LongSword_Hero_34
+  - first:
+      213: 531476370714252434
+    second: Human_Male_Barbarian_LongSword_Hero_35
+  - first:
+      213: -4938774136017795034
+    second: Human_Male_Barbarian_LongSword_Hero_36
+  - first:
+      213: -3698906937011428165
+    second: Human_Male_Barbarian_LongSword_Hero_37
+  - first:
+      213: 2015694051435356708
+    second: Human_Male_Barbarian_LongSword_Hero_38
+  - first:
+      213: -7382824061438194708
+    second: Human_Male_Barbarian_LongSword_Hero_39
+  - first:
+      213: 3014504307468233051
+    second: Human_Male_Barbarian_LongSword_Hero_40
+  - first:
+      213: 4581571746356260388
+    second: Human_Male_Barbarian_LongSword_Hero_41
+  - first:
+      213: 3405378775724108522
+    second: Human_Male_Barbarian_LongSword_Hero_42
+  - first:
+      213: 6754571710516586478
+    second: Human_Male_Barbarian_LongSword_Hero_43
+  - first:
+      213: 8480373757532038130
+    second: Human_Male_Barbarian_LongSword_Hero_44
+  - first:
+      213: -4942751453442454935
+    second: Human_Male_Barbarian_LongSword_Hero_45
+  - first:
+      213: 1196537277755299301
+    second: Human_Male_Barbarian_LongSword_Hero_46
+  - first:
+      213: -4473626639622021040
+    second: Human_Male_Barbarian_LongSword_Hero_47
+  - first:
+      213: 626258962263808213
+    second: Human_Male_Barbarian_LongSword_Hero_48
+  - first:
+      213: 8705157339771921499
+    second: Human_Male_Barbarian_LongSword_Hero_49
+  - first:
+      213: -5043571620529079867
+    second: Human_Male_Barbarian_LongSword_Hero_50
+  - first:
+      213: 1123436021786260536
+    second: Human_Male_Barbarian_LongSword_Hero_51
+  - first:
+      213: 8831574468688252967
+    second: Human_Male_Barbarian_LongSword_Hero_52
+  - first:
+      213: -4493032101107566096
+    second: Human_Male_Barbarian_LongSword_Hero_53
+  - first:
+      213: -4707986131884723198
+    second: Human_Male_Barbarian_LongSword_Hero_54
+  - first:
+      213: -5820113883053232830
+    second: Human_Male_Barbarian_LongSword_Hero_55
+  - first:
+      213: -334561632591884383
+    second: Human_Male_Barbarian_LongSword_Hero_56
+  - first:
+      213: 4345614134731446099
+    second: Human_Male_Barbarian_LongSword_Hero_57
+  - first:
+      213: 4734106193926624277
+    second: Human_Male_Barbarian_LongSword_Hero_58
+  - first:
+      213: 5498204063540877310
+    second: Human_Male_Barbarian_LongSword_Hero_59
+  - first:
+      213: 1236276425248143379
+    second: Human_Male_Barbarian_LongSword_Hero_60
+  - first:
+      213: -2797744360042452847
+    second: Human_Male_Barbarian_LongSword_Hero_61
+  - first:
+      213: 1883614803103297705
+    second: Human_Male_Barbarian_LongSword_Hero_62
+  - first:
+      213: 2240874361671016754
+    second: Human_Male_Barbarian_LongSword_Hero_63
+  - first:
+      213: -6322633638732379547
+    second: Human_Male_Barbarian_LongSword_Hero_64
+  - first:
+      213: 1043912329734808319
+    second: Human_Male_Barbarian_LongSword_Hero_65
+  - first:
+      213: 4375206354469430056
+    second: Human_Male_Barbarian_LongSword_Hero_66
+  - first:
+      213: -5230299009888530418
+    second: Human_Male_Barbarian_LongSword_Hero_67
+  - first:
+      213: 1878187266490751863
+    second: Human_Male_Barbarian_LongSword_Hero_68
+  - first:
+      213: -4246401685810685856
+    second: Human_Male_Barbarian_LongSword_Hero_69
+  - first:
+      213: 7782262073584944795
+    second: Human_Male_Barbarian_LongSword_Hero_70
+  - first:
+      213: 7354193145487374544
+    second: Human_Male_Barbarian_LongSword_Hero_71
+  - first:
+      213: 1428691514886526438
+    second: Human_Male_Barbarian_LongSword_Hero_72
+  - first:
+      213: -3024273397775346719
+    second: Human_Male_Barbarian_LongSword_Hero_73
+  - first:
+      213: -5682324075892782502
+    second: Human_Male_Barbarian_LongSword_Hero_74
+  - first:
+      213: -2094264091516531979
+    second: Human_Male_Barbarian_LongSword_Hero_75
+  - first:
+      213: 6979342769794139468
+    second: Human_Male_Barbarian_LongSword_Hero_76
+  - first:
+      213: 7526590225770155435
+    second: Human_Male_Barbarian_LongSword_Hero_77
+  - first:
+      213: -4056599745247082943
+    second: Human_Male_Barbarian_LongSword_Hero_78
+  - first:
+      213: -6123591159664487139
+    second: Human_Male_Barbarian_LongSword_Hero_79
+  - first:
+      213: -2145148611675862851
+    second: Human_Male_Barbarian_LongSword_Hero_80
+  - first:
+      213: -3144621411083456937
+    second: Human_Male_Barbarian_LongSword_Hero_81
+  - first:
+      213: 2714548426171559232
+    second: Human_Male_Barbarian_LongSword_Hero_82
+  - first:
+      213: -7413786624140290283
+    second: Human_Male_Barbarian_LongSword_Hero_83
+  - first:
+      213: 5989114672005105109
+    second: Human_Male_Barbarian_LongSword_Hero_84
+  - first:
+      213: -3336738913017501128
+    second: Human_Male_Barbarian_LongSword_Hero_85
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06ee64497a14efe0800000000000000
+      internalID: -1160773695813261814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf8d05530fa998a0800000000000000
+      internalID: -6297810175054213192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ed2d210d0c2a3f0800000000000000
+      internalID: -890937776364397002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be1c4dd748cd4fa0800000000000000
+      internalID: -5814771332884455756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f0d46640f72f650800000000000000
+      internalID: 6265209688498704214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bebf507bf6a81270800000000000000
+      internalID: 8221504718617165494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3100fed16fc9563e0800000000000000
+      internalID: -2061068673574043629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac32cc85d423e2d00800000000000000
+      internalID: 949751879205397450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d3784f51b8a5710800000000000000
+      internalID: 1682810337189379357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad1957ce56655520800000000000000
+      internalID: 2690168909681204652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c91a87e846fee2e0800000000000000
+      internalID: -2094465983698036281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afe3e905d3ac6d50800000000000000
+      internalID: 6731935678401343401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ce3223c50ebf1e0800000000000000
+      internalID: -2162888509438563222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ee6843eb1fddb10800000000000000
+      internalID: 2008026808104447642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3025080e6c4bc40800000000000000
+      internalID: 5527261310218273710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0b2d56ed3cd6d70800000000000000
+      internalID: 9038095387160916215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af47bbb9d7c48beb0800000000000000
+      internalID: -4703925708421106438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20afd1731c7d42d0800000000000000
+      internalID: -3292839329581260756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7c84b2319c55730800000000000000
+      internalID: 3987314129274193856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01829f0d20a5f1250800000000000000
+      internalID: 5917547403530545168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c6e4e1809e438e0800000000000000
+      internalID: -1714489337043850225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1895b8f54cf1ee620800000000000000
+      internalID: 2805214546175416705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8a82d4635ca41b0800000000000000
+      internalID: -5671503943706302263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6a8d1a1ada83430800000000000000
+      internalID: 3762948398384719614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a8c75ac0fcaf890800000000000000
+      internalID: -7423393382543881632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cff2347b92c6660800000000000000
+      internalID: 7380319756436372515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac35337ff4aa24f0800000000000000
+      internalID: -852687762376803167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abd2059a9cc10f70800000000000000
+      internalID: 9151820882090580901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0b49b70299203c0800000000000000
+      internalID: -4394781921568837420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b9a4d9ec146e070800000000000000
+      internalID: 8135262132549360434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f30ccf2a33407420800000000000000
+      internalID: 2625672499946062833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594506375c7c80d10800000000000000
+      internalID: 2092141677771773077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08484b8522250a4a0800000000000000
+      internalID: -6584172347745074048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdac2ca6eb57a4a0800000000000000
+      internalID: -6582191284089475645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9c6d71fbed19ac0800000000000000
+      internalID: -3850051294104991265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294dfea71fe206700800000000000000
+      internalID: 531476370714252434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628c5cc0713f57bb0800000000000000
+      internalID: -4938774136017795034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4a43a0db7daacc0800000000000000
+      internalID: -3698906937011428165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4222ca76f0f29fb10800000000000000
+      internalID: 2015694051435356708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb05cac1a0fa8990800000000000000
+      internalID: -7382824061438194708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59678432bba5d920800000000000000
+      internalID: 3014504307468233051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ee786aa33059f30800000000000000
+      internalID: 4581571746356260388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeaa0bc34f5524f20800000000000000
+      internalID: 3405378775724108522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee76e37fe2f0dbd50800000000000000
+      internalID: 6754571710516586478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3ed34600750b570800000000000000
+      internalID: 8480373757532038130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a448cadb1d76bb0800000000000000
+      internalID: -4942751453442454935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e51e198054fa9010800000000000000
+      internalID: 1196537277755299301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050ea97064c7ae1c0800000000000000
+      internalID: -4473626639622021040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d89327453be0b800800000000000000
+      internalID: 626258962263808213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b546df68a7eeec870800000000000000
+      internalID: 8705157339771921499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c97f174552a10ab0800000000000000
+      internalID: -5043571620529079867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834b27e0c1f379f00800000000000000
+      internalID: 1123436021786260536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7209295003e009a70800000000000000
+      internalID: 8831574468688252967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f97e01fb1b85a1c0800000000000000
+      internalID: -4493032101107566096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204bb899e8fd9aeb0800000000000000
+      internalID: -4707986131884723198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dea48724dca3fa0800000000000000
+      internalID: -5820113883053232830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afc2edb7f56b5bf0800000000000000
+      internalID: -334561632591884383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357959f0809be4c30800000000000000
+      internalID: 4345614134731446099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51419f1408ce2b140800000000000000
+      internalID: 4734106193926624277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef796fd077b8d4c40800000000000000
+      internalID: 5498204063540877310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318fa13dbd2282110800000000000000
+      internalID: 1236276425248143379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198215fd35a6c29d0800000000000000
+      internalID: -2797744360042452847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0b3a00fa1f32a10800000000000000
+      internalID: 1883614803103297705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2316ea9fb5f291f10800000000000000
+      internalID: 2240874361671016754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56acb6e443e7148a0800000000000000
+      internalID: -6322633638732379547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff26e76abb8bc7e00800000000000000
+      internalID: 1043912329734808319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823ae21affad7bc30800000000000000
+      internalID: 4375206354469430056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00548603ce3a67b0800000000000000
+      internalID: -5230299009888530418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bd7d82e59a01a10800000000000000
+      internalID: 1878187266490751863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06852a74a20c115c0800000000000000
+      internalID: -4246401685810685856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96860daf16200c60800000000000000
+      internalID: 7782262073584944795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8336e93b75f0660800000000000000
+      internalID: 7354193145487374544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e51d6efc5bb3d310800000000000000
+      internalID: 1428691514886526438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3dfe53e5f9706d0800000000000000
+      internalID: -3024273397775346719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ac2c5fb545421b0800000000000000
+      internalID: -5682324075892782502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa0d4797edafe2e0800000000000000
+      internalID: -2094264091516531979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45454f554b9bd060800000000000000
+      internalID: 6979342769794139468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad05f8cee1d37860800000000000000
+      internalID: 7526590225770155435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1468b94460014b7c0800000000000000
+      internalID: -4056599745247082943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15d972d842a40ba0800000000000000
+      internalID: -6123591159664487139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db843a204b6ea32e0800000000000000
+      internalID: -2145148611675862851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e684fcc7f0c54d0800000000000000
+      internalID: -3144621411083456937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d2d8b49630ca520800000000000000
+      internalID: 2714548426171559232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51753936850fc1990800000000000000
+      internalID: -7413786624140290283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5c1ffff0c9d1350800000000000000
+      internalID: 5989114672005105109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a6e5d23a581b1d0800000000000000
+      internalID: -3336738913017501128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7778a0e4c433e30800000000000000
+      internalID: 4482009952231585716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b87b5f320cff4a0800000000000000
+      internalID: -6557311271749317799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d704fa713b1256770800000000000000
+      internalID: 8603319716241424509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5d55f5618687590800000000000000
+      internalID: -7676271119554980371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58768781fc3862c60800000000000000
+      internalID: 7793061130703234949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8714ae6472d58f270800000000000000
+      internalID: 8284473937822892408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784ad10adca1f47c0800000000000000
+      internalID: -4085016866544835449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bce1d8711366d20800000000000000
+      internalID: 3271356156552858402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4d05ed1b5def400800000000000000
+      internalID: 359959980151985363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74b3f56ab4e4c690800000000000000
+      internalID: -7582684383359552390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd3f94e19d31b880800000000000000
+      internalID: -8597022516858372616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7122f85833b338a0800000000000000
+      internalID: -6326515996933611137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a92c7e96f6b6080800000000000000
+      internalID: -9193131713696195940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3dc1dc63da8db20800000000000000
+      internalID: 3159465589481460642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a5c421e0f6e3910800000000000000
+      internalID: 1819013405731478127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f79ef19f3bbcfab0800000000000000
+      internalID: -4972894006817155085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f19893e032138480800000000000000
+      internalID: -8898248437567811085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799cc2c4ab5257140800000000000000
+      internalID: 4716717666812610967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c130af75ad5103b0800000000000000
+      internalID: -5548050300551548480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690a4dcae3bf2e0e0800000000000000
+      internalID: -2241953417870925674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc647d47726d3da0800000000000000
+      internalID: -5963502067028562730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbf68cf78675f2f0800000000000000
+      internalID: -939714620807513133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec2756b2263695f0800000000000000
+      internalID: -750352765194654488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d838798884ea7d0800000000000000
+      internalID: -2905304958112658164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29814a86726cb0dd0800000000000000
+      internalID: -2518701694022051694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e4c1c56a0bb4fd0800000000000000
+      internalID: -2356595751441904082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55dcf3cdaa4fe130800000000000000
+      internalID: 3598176737470240094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9a1845887a16d60800000000000000
+      internalID: 7881765026850253223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7cd7386d2c5d580800000000000000
+      internalID: -8802915670040918051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f539cabec7217ef0800000000000000
+      internalID: -112264746857056777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43400c7bd5c4e900800000000000000
+      internalID: 712912187500282699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c670a02332e93460800000000000000
+      internalID: 7222052186683897536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a6a3ce9d6ff41f0800000000000000
+      internalID: -1058355971577189729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208511097c4763810800000000000000
+      internalID: 1744710306117015554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8bc2eeb75810b70800000000000000
+      internalID: 8863512308965226695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b93e1d79d6880af0800000000000000
+      internalID: -429945495748724296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a8d11f8c3455a80800000000000000
+      internalID: -8478796193137325539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d649bb7455d3c9df0800000000000000
+      internalID: -172195249261931411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63fda4a177d43020800000000000000
+      internalID: 2320716591096787823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d9d3e73e3d7eb50800000000000000
+      internalID: 6622494751100607788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309ed0198d2ff6d70800000000000000
+      internalID: 9038709989116340483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50248735124029980800000000000000
+      internalID: -8533753802732846587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4ca0f562064dec0800000000000000
+      internalID: -3543101288914172730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc65740caa0a3f80800000000000000
+      internalID: -8126170843711181577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d4c87fb6cc3a630800000000000000
+      internalID: 3937215263338679595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5156cc7a6518a3840800000000000000
+      internalID: 5204614528562390293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f874c7ca03774a30800000000000000
+      internalID: 4199451667684686070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4abcdd343498da0800000000000000
+      internalID: -5942144274575678287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a754f98b354f5d40800000000000000
+      internalID: 5575250985727842211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6200ec07924c870800000000000000
+      internalID: 8702125944455833255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12e8ce37cf98b1b0800000000000000
+      internalID: -5640582855180885478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98725c4d4ad0e3cd0800000000000000
+      internalID: -2576606935213856887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109802c93018d15f0800000000000000
+      internalID: -784328907588335359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec914fecf4a37d710800000000000000
+      internalID: 1717905897314064846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59355209c7f0d88b0800000000000000
+      internalID: -5148441771345882219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4337062e1d0f9830800000000000000
+      internalID: 4079994210559144780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c29f2d0a56ebf00800000000000000
+      internalID: 1134455897552661626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927baae99982bee90800000000000000
+      internalID: -6995452955932838103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afddef1e5d989180800000000000000
+      internalID: -9108357218768658523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9d6d83d037794b0800000000000000
+      internalID: -5433747924773840427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7485a7c11cff4f00800000000000000
+      internalID: 1103377587023217789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca4d0fab05b99140800000000000000
+      internalID: 4727008345688197833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1644373691de92d10800000000000000
+      internalID: 2101471394443510881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343d98afdc699d150800000000000000
+      internalID: 5897910998434173763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce9e8dc892a1bd20800000000000000
+      internalID: 3292591579751947983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a4dccf10d488f60800000000000000
+      internalID: 8036758205974268551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df646185ac676ff0800000000000000
+      internalID: -42946213340483629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260edb4786338d860800000000000000
+      internalID: 7554844898642223202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea369822f5e4a9fa0800000000000000
+      internalID: -5793231800150432850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e88ee6029b64d370800000000000000
+      internalID: 8346414284350064865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7fd1900d8261340800000000000000
+      internalID: 4834096124000073727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d369ff1c30b4be8d0800000000000000
+      internalID: -2816074662478375363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d8d53d07a4a8010800000000000000
+      internalID: 1191846899835833628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9eff7e49db1addb0800000000000000
+      internalID: -4766466635479384418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4938eb445c7621b50800000000000000
+      internalID: 6562421703991788436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249d4fdd1cb1d2fc0800000000000000
+      internalID: -3518125214440040126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1bd4760b6ab82d0800000000000000
+      internalID: -3275341027404303888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c42197394ca08700800000000000000
+      internalID: 540621385749308610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29777fb66ae36d4f0800000000000000
+      internalID: -804386598942181486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443912fdc347912f0800000000000000
+      internalID: -1001641637322845372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1ef8d3cde968f20800000000000000
+      internalID: 3424599235424674264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c30054e67dbea30800000000000000
+      internalID: 4245723942330842113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead8458c1676c6370800000000000000
+      internalID: 8317136281516936622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a604bd766b6984050800000000000000
+      internalID: 5785039431528038506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2ce20749e1d5390800000000000000
+      internalID: -7828066954413948189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d49a2169044fc710800000000000000
+      internalID: 1715664790127023319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8143306931c6b160800000000000000
+      internalID: 7041027519611617676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b2345bef81ddc20800000000000000
+      internalID: 3232767589763722112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989b76bad06c31640800000000000000
+      internalID: 5049597369225034121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9de2efbfc0d472b0800000000000000
+      internalID: -5587611646963815013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c322959e285938690800000000000000
+      internalID: -7601067356578045380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91ce3d46e92bfc50800000000000000
+      internalID: 6699994939758920094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_178
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c946988e5d6db590800000000000000
+      internalID: -7656843538674071103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_179
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de632ef9df9f8370800000000000000
+      internalID: 8327049994651791064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_180
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edf041980da0eec0800000000000000
+      internalID: -3539639054804910622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_181
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702edace119c6a780800000000000000
+      internalID: -8672022953632865785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_182
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2227fd868a6dada0800000000000000
+      internalID: -5931968008037129682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_183
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88c06d1ff9186d20800000000000000
+      internalID: 3271893712784902282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d738fee08310660800000000000000
+      internalID: 7350217703644429591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_185
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f51c4a4f8e7abe30800000000000000
+      internalID: 4520064329911637496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_186
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d505f6601fcf59df0800000000000000
+      internalID: -173954898458619811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_187
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b092f6fa3fb74620800000000000000
+      internalID: 2758383556759818425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_188
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ac30461e9e27c80800000000000000
+      internalID: -8326335606799742427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_189
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d5f25c2ff326f30800000000000000
+      internalID: 4567283284029955441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_190
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006fe8119cd7d0040800000000000000
+      internalID: 4615483495661106688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_191
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a98bcda2983b3110800000000000000
+      internalID: 1241648324902881704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_192
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e255adbe791012e50800000000000000
+      internalID: 6782704265805321518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_193
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c80a2df28202c30800000000000000
+      internalID: 4332507027392728107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e7d82b647e00860800000000000000
+      internalID: 7494244070773849704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_195
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c4ba928af404010800000000000000
+      internalID: 1171023486788521019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_196
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f76e3e89b891790800000000000000
+      internalID: -7558857010789843058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_197
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2b2197f01c64940800000000000000
+      internalID: 5280119885338423969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_198
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee254ee3471aa850800000000000000
+      internalID: 6388944601906228973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_199
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae38d481c60d6120800000000000000
+      internalID: 2408588803940302496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_200
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0be39e3068d6b730800000000000000
+      internalID: 4014634025725717260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_201
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a249a564848748fc0800000000000000
+      internalID: -3493535159119342550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_202
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a0b6bb2cd568970800000000000000
+      internalID: 8756789616417901200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe97a52b06cf3c20800000000000000
+      internalID: 3188484812380282611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_204
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59ee45401c452bf0800000000000000
+      internalID: -349789763285358246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_205
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe17f6f6aa54df3e0800000000000000
+      internalID: -2018380459675782673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_206
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058af1bb9ef530420800000000000000
+      internalID: 2595023267766970448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_207
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa7c201eb5436390800000000000000
+      internalID: -7826335044822336855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_208
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4b57c351e1bbb20800000000000000
+      internalID: 3151145440833287350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_209
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de534a1bc9b89ae0800000000000000
+      internalID: -1542278590404272423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_210
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762aaf3862c24c7f0800000000000000
+      internalID: -593300706971442585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_211
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588142bb6f7571e20800000000000000
+      internalID: 3321219967422306437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_212
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b897205b8b8d950800000000000000
+      internalID: 6474127551915199362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_213
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc14800a04c8456f0800000000000000
+      internalID: -696777833144892979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_214
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35f51c24bdc59de0800000000000000
+      internalID: -1326928341473299137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_215
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2077703c24df60cc0800000000000000
+      internalID: -3745027576930273534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_216
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443b12c946b3306b0800000000000000
+      internalID: -5331352230574312636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_217
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c754e55c66ea790800000000000000
+      internalID: -7516957730158576639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_218
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b1a4f80b5223750800000000000000
+      internalID: 6283125870383733656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_219
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e0127a2b53f2430800000000000000
+      internalID: 3760283255302065690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_220
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633b5ca3de5ce6700800000000000000
+      internalID: 535583028387623734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_221
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdf69ca9e0189810800000000000000
+      internalID: 1772185049179291135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_222
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9001289a052019d0800000000000000
+      internalID: -2805701840419618659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_223
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf57bcef5591e2f60800000000000000
+      internalID: 8011368644276352507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_224
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9f66c4aec840070800000000000000
+      internalID: 8071731370086824422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_225
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7015e390985cfe030800000000000000
+      internalID: 3526254225610658055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_226
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e021ab501d74bf0800000000000000
+      internalID: -340073424316395900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_227
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a52c82c17dc51ed0800000000000000
+      internalID: -2443821334299662943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_228
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4469ff9fc6a7430800000000000000
+      internalID: 3781454658121647285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_229
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01179ea460e0adc0800000000000000
+      internalID: -3629654576630132466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_230
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e26387a1f962b40800000000000000
+      internalID: 5415190537994382981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Barbarian_LongSword_Hero_231
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001548bb80accc140800000000000000
+      internalID: 4741386646568849664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

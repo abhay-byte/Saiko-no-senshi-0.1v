@@ -1,0 +1,4922 @@
+fileFormatVersion: 2
+guid: 6b9329f107e6ac449a36763eae79c110
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 226852310779167190
+    second: Human_Male_Warrior_Dagger_Hero_0
+  - first:
+      213: 6419884999062847980
+    second: Human_Male_Warrior_Dagger_Hero_1
+  - first:
+      213: -2352328845539282040
+    second: Human_Male_Warrior_Dagger_Hero_2
+  - first:
+      213: 7881981705614468719
+    second: Human_Male_Warrior_Dagger_Hero_3
+  - first:
+      213: 4723594598828861703
+    second: Human_Male_Warrior_Dagger_Hero_4
+  - first:
+      213: -5969371324804206528
+    second: Human_Male_Warrior_Dagger_Hero_5
+  - first:
+      213: -980422485782727134
+    second: Human_Male_Warrior_Dagger_Hero_6
+  - first:
+      213: -4344881889724705450
+    second: Human_Male_Warrior_Dagger_Hero_7
+  - first:
+      213: 1268754710518432818
+    second: Human_Male_Warrior_Dagger_Hero_8
+  - first:
+      213: -6891966550386807972
+    second: Human_Male_Warrior_Dagger_Hero_9
+  - first:
+      213: -2870987360281308652
+    second: Human_Male_Warrior_Dagger_Hero_10
+  - first:
+      213: 3302408325858954067
+    second: Human_Male_Warrior_Dagger_Hero_11
+  - first:
+      213: 1328571744852020003
+    second: Human_Male_Warrior_Dagger_Hero_12
+  - first:
+      213: -6048240538973970281
+    second: Human_Male_Warrior_Dagger_Hero_13
+  - first:
+      213: -725215091004285393
+    second: Human_Male_Warrior_Dagger_Hero_14
+  - first:
+      213: -1408001958437977257
+    second: Human_Male_Warrior_Dagger_Hero_15
+  - first:
+      213: 8006863836026246299
+    second: Human_Male_Warrior_Dagger_Hero_16
+  - first:
+      213: -8523648717713417607
+    second: Human_Male_Warrior_Dagger_Hero_17
+  - first:
+      213: 2210018961694615099
+    second: Human_Male_Warrior_Dagger_Hero_18
+  - first:
+      213: 4009281322977356708
+    second: Human_Male_Warrior_Dagger_Hero_19
+  - first:
+      213: 5417700483490550696
+    second: Human_Male_Warrior_Dagger_Hero_20
+  - first:
+      213: -3004777929730916843
+    second: Human_Male_Warrior_Dagger_Hero_21
+  - first:
+      213: -5348696780663224969
+    second: Human_Male_Warrior_Dagger_Hero_22
+  - first:
+      213: 5535801513674231699
+    second: Human_Male_Warrior_Dagger_Hero_23
+  - first:
+      213: 7077088481283805141
+    second: Human_Male_Warrior_Dagger_Hero_24
+  - first:
+      213: 3685919035825448702
+    second: Human_Male_Warrior_Dagger_Hero_25
+  - first:
+      213: -3087739079131977868
+    second: Human_Male_Warrior_Dagger_Hero_26
+  - first:
+      213: 1598255177711075568
+    second: Human_Male_Warrior_Dagger_Hero_27
+  - first:
+      213: -1555661648367283423
+    second: Human_Male_Warrior_Dagger_Hero_28
+  - first:
+      213: 6347685250836855565
+    second: Human_Male_Warrior_Dagger_Hero_29
+  - first:
+      213: -7780938643119836218
+    second: Human_Male_Warrior_Dagger_Hero_30
+  - first:
+      213: 6151889375276498163
+    second: Human_Male_Warrior_Dagger_Hero_31
+  - first:
+      213: 331289149254966664
+    second: Human_Male_Warrior_Dagger_Hero_32
+  - first:
+      213: 4365767754894786259
+    second: Human_Male_Warrior_Dagger_Hero_33
+  - first:
+      213: 7997323350719226461
+    second: Human_Male_Warrior_Dagger_Hero_34
+  - first:
+      213: -5816199540390516807
+    second: Human_Male_Warrior_Dagger_Hero_35
+  - first:
+      213: -958072112196440265
+    second: Human_Male_Warrior_Dagger_Hero_36
+  - first:
+      213: -7588321765383504947
+    second: Human_Male_Warrior_Dagger_Hero_37
+  - first:
+      213: 3161653369132913704
+    second: Human_Male_Warrior_Dagger_Hero_38
+  - first:
+      213: 2047561007700626960
+    second: Human_Male_Warrior_Dagger_Hero_39
+  - first:
+      213: -6140261898530822831
+    second: Human_Male_Warrior_Dagger_Hero_40
+  - first:
+      213: -3493307971206718669
+    second: Human_Male_Warrior_Dagger_Hero_41
+  - first:
+      213: -4826744865847188575
+    second: Human_Male_Warrior_Dagger_Hero_42
+  - first:
+      213: -1887886345860230031
+    second: Human_Male_Warrior_Dagger_Hero_43
+  - first:
+      213: -5585237494571979669
+    second: Human_Male_Warrior_Dagger_Hero_44
+  - first:
+      213: 2162474292538800766
+    second: Human_Male_Warrior_Dagger_Hero_45
+  - first:
+      213: 8829646977992766829
+    second: Human_Male_Warrior_Dagger_Hero_46
+  - first:
+      213: -7555619088388248431
+    second: Human_Male_Warrior_Dagger_Hero_47
+  - first:
+      213: 6382564732029205018
+    second: Human_Male_Warrior_Dagger_Hero_48
+  - first:
+      213: 6191905468023169365
+    second: Human_Male_Warrior_Dagger_Hero_49
+  - first:
+      213: 7162237310213751343
+    second: Human_Male_Warrior_Dagger_Hero_50
+  - first:
+      213: -7616323340711643368
+    second: Human_Male_Warrior_Dagger_Hero_51
+  - first:
+      213: 960020425505659389
+    second: Human_Male_Warrior_Dagger_Hero_52
+  - first:
+      213: 7055141761295184218
+    second: Human_Male_Warrior_Dagger_Hero_53
+  - first:
+      213: 1611960658078945494
+    second: Human_Male_Warrior_Dagger_Hero_54
+  - first:
+      213: 5838512866177474595
+    second: Human_Male_Warrior_Dagger_Hero_55
+  - first:
+      213: 6892270477056612380
+    second: Human_Male_Warrior_Dagger_Hero_56
+  - first:
+      213: 4389026864301094261
+    second: Human_Male_Warrior_Dagger_Hero_57
+  - first:
+      213: 2839555002359139269
+    second: Human_Male_Warrior_Dagger_Hero_58
+  - first:
+      213: 4248568890714890380
+    second: Human_Male_Warrior_Dagger_Hero_59
+  - first:
+      213: -4094290558408250105
+    second: Human_Male_Warrior_Dagger_Hero_60
+  - first:
+      213: 2443719448642266986
+    second: Human_Male_Warrior_Dagger_Hero_61
+  - first:
+      213: 5620800097031154949
+    second: Human_Male_Warrior_Dagger_Hero_62
+  - first:
+      213: 887522760576399489
+    second: Human_Male_Warrior_Dagger_Hero_63
+  - first:
+      213: -5754452183144996924
+    second: Human_Male_Warrior_Dagger_Hero_64
+  - first:
+      213: 1261224542253247423
+    second: Human_Male_Warrior_Dagger_Hero_65
+  - first:
+      213: -4074656742168321631
+    second: Human_Male_Warrior_Dagger_Hero_66
+  - first:
+      213: -946893331651197188
+    second: Human_Male_Warrior_Dagger_Hero_67
+  - first:
+      213: 5342624663103857329
+    second: Human_Male_Warrior_Dagger_Hero_68
+  - first:
+      213: 7669779693467603988
+    second: Human_Male_Warrior_Dagger_Hero_69
+  - first:
+      213: -8072479316002975176
+    second: Human_Male_Warrior_Dagger_Hero_70
+  - first:
+      213: 2574050342852607903
+    second: Human_Male_Warrior_Dagger_Hero_71
+  - first:
+      213: -8473441007009222844
+    second: Human_Male_Warrior_Dagger_Hero_72
+  - first:
+      213: 316624866255888828
+    second: Human_Male_Warrior_Dagger_Hero_73
+  - first:
+      213: 28097862164566239
+    second: Human_Male_Warrior_Dagger_Hero_74
+  - first:
+      213: 4531866384200252887
+    second: Human_Male_Warrior_Dagger_Hero_75
+  - first:
+      213: 2669249273837134986
+    second: Human_Male_Warrior_Dagger_Hero_76
+  - first:
+      213: -69215702775977316
+    second: Human_Male_Warrior_Dagger_Hero_77
+  - first:
+      213: 5789354274502887519
+    second: Human_Male_Warrior_Dagger_Hero_78
+  - first:
+      213: 5101629445250132012
+    second: Human_Male_Warrior_Dagger_Hero_79
+  - first:
+      213: 6222538665114599000
+    second: Human_Male_Warrior_Dagger_Hero_80
+  - first:
+      213: 7184696361585686984
+    second: Human_Male_Warrior_Dagger_Hero_81
+  - first:
+      213: -7678772889639509833
+    second: Human_Male_Warrior_Dagger_Hero_82
+  - first:
+      213: -4971521113589512386
+    second: Human_Male_Warrior_Dagger_Hero_83
+  - first:
+      213: -763021886391152020
+    second: Human_Male_Warrior_Dagger_Hero_84
+  - first:
+      213: 7480366549490680348
+    second: Human_Male_Warrior_Dagger_Hero_85
+  - first:
+      213: 6613366829351704626
+    second: Human_Male_Warrior_Dagger_Hero_86
+  - first:
+      213: 362743022127409188
+    second: Human_Male_Warrior_Dagger_Hero_87
+  - first:
+      213: 4828992406890641284
+    second: Human_Male_Warrior_Dagger_Hero_88
+  - first:
+      213: -52616195732733979
+    second: Human_Male_Warrior_Dagger_Hero_89
+  - first:
+      213: 730700813225079315
+    second: Human_Male_Warrior_Dagger_Hero_90
+  - first:
+      213: 7115095630586852815
+    second: Human_Male_Warrior_Dagger_Hero_91
+  - first:
+      213: 8816338491163809137
+    second: Human_Male_Warrior_Dagger_Hero_92
+  - first:
+      213: -7716980979792450573
+    second: Human_Male_Warrior_Dagger_Hero_93
+  - first:
+      213: -319760121136902409
+    second: Human_Male_Warrior_Dagger_Hero_94
+  - first:
+      213: -1613807202954760498
+    second: Human_Male_Warrior_Dagger_Hero_95
+  - first:
+      213: -8186184495347728656
+    second: Human_Male_Warrior_Dagger_Hero_96
+  - first:
+      213: 123736662302610096
+    second: Human_Male_Warrior_Dagger_Hero_97
+  - first:
+      213: 6564550208906521975
+    second: Human_Male_Warrior_Dagger_Hero_98
+  - first:
+      213: -5351060412245481977
+    second: Human_Male_Warrior_Dagger_Hero_99
+  - first:
+      213: -277190368007799936
+    second: Human_Male_Warrior_Dagger_Hero_100
+  - first:
+      213: 5659795885665547820
+    second: Human_Male_Warrior_Dagger_Hero_101
+  - first:
+      213: -6180018037227038649
+    second: Human_Male_Warrior_Dagger_Hero_102
+  - first:
+      213: 3029857119835221978
+    second: Human_Male_Warrior_Dagger_Hero_103
+  - first:
+      213: 5381121320480218547
+    second: Human_Male_Warrior_Dagger_Hero_104
+  - first:
+      213: 6218887822430106833
+    second: Human_Male_Warrior_Dagger_Hero_105
+  - first:
+      213: -5845904328787015919
+    second: Human_Male_Warrior_Dagger_Hero_106
+  - first:
+      213: 2170998557184784554
+    second: Human_Male_Warrior_Dagger_Hero_107
+  - first:
+      213: 5836543892688005025
+    second: Human_Male_Warrior_Dagger_Hero_108
+  - first:
+      213: -66334624067993957
+    second: Human_Male_Warrior_Dagger_Hero_109
+  - first:
+      213: 2237460637839428787
+    second: Human_Male_Warrior_Dagger_Hero_110
+  - first:
+      213: -6251679200577868068
+    second: Human_Male_Warrior_Dagger_Hero_111
+  - first:
+      213: 3819353959279606950
+    second: Human_Male_Warrior_Dagger_Hero_112
+  - first:
+      213: -8056807558367008045
+    second: Human_Male_Warrior_Dagger_Hero_113
+  - first:
+      213: 874868764562830134
+    second: Human_Male_Warrior_Dagger_Hero_114
+  - first:
+      213: -8653916639247395087
+    second: Human_Male_Warrior_Dagger_Hero_115
+  - first:
+      213: 9058949336678514984
+    second: Human_Male_Warrior_Dagger_Hero_116
+  - first:
+      213: 149657991446650370
+    second: Human_Male_Warrior_Dagger_Hero_117
+  - first:
+      213: -5229100047453315394
+    second: Human_Male_Warrior_Dagger_Hero_118
+  - first:
+      213: 7258436644883041982
+    second: Human_Male_Warrior_Dagger_Hero_119
+  - first:
+      213: 1965852681764420267
+    second: Human_Male_Warrior_Dagger_Hero_120
+  - first:
+      213: -676594182184627036
+    second: Human_Male_Warrior_Dagger_Hero_121
+  - first:
+      213: 320528144605760003
+    second: Human_Male_Warrior_Dagger_Hero_122
+  - first:
+      213: -301462810362954097
+    second: Human_Male_Warrior_Dagger_Hero_123
+  - first:
+      213: 2206880284791289434
+    second: Human_Male_Warrior_Dagger_Hero_124
+  - first:
+      213: 7122359757877596446
+    second: Human_Male_Warrior_Dagger_Hero_125
+  - first:
+      213: -4153269306436901169
+    second: Human_Male_Warrior_Dagger_Hero_126
+  - first:
+      213: 4621292367291034038
+    second: Human_Male_Warrior_Dagger_Hero_127
+  - first:
+      213: 6805330758310334539
+    second: Human_Male_Warrior_Dagger_Hero_128
+  - first:
+      213: 4531432478054007100
+    second: Human_Male_Warrior_Dagger_Hero_129
+  - first:
+      213: 8252053521253008847
+    second: Human_Male_Warrior_Dagger_Hero_130
+  - first:
+      213: 7597963553368042316
+    second: Human_Male_Warrior_Dagger_Hero_131
+  - first:
+      213: 2026596852386512506
+    second: Human_Male_Warrior_Dagger_Hero_132
+  - first:
+      213: -3773028195609990084
+    second: Human_Male_Warrior_Dagger_Hero_133
+  - first:
+      213: -222606395969907956
+    second: Human_Male_Warrior_Dagger_Hero_134
+  - first:
+      213: -5199646687348633746
+    second: Human_Male_Warrior_Dagger_Hero_135
+  - first:
+      213: 2717539626806862336
+    second: Human_Male_Warrior_Dagger_Hero_136
+  - first:
+      213: -1091011861858238185
+    second: Human_Male_Warrior_Dagger_Hero_137
+  - first:
+      213: -562904315307093365
+    second: Human_Male_Warrior_Dagger_Hero_138
+  - first:
+      213: -8522563039082709374
+    second: Human_Male_Warrior_Dagger_Hero_139
+  - first:
+      213: -2324555459316287443
+    second: Human_Male_Warrior_Dagger_Hero_140
+  - first:
+      213: 2080898843837550301
+    second: Human_Male_Warrior_Dagger_Hero_141
+  - first:
+      213: -1476027752977131330
+    second: Human_Male_Warrior_Dagger_Hero_142
+  - first:
+      213: -4368220272222086257
+    second: Human_Male_Warrior_Dagger_Hero_143
+  - first:
+      213: 7694942920144667081
+    second: Human_Male_Warrior_Dagger_Hero_144
+  - first:
+      213: -8183479328051828496
+    second: Human_Male_Warrior_Dagger_Hero_145
+  - first:
+      213: 986028788668879504
+    second: Human_Male_Warrior_Dagger_Hero_146
+  - first:
+      213: 7783553441318465316
+    second: Human_Male_Warrior_Dagger_Hero_147
+  - first:
+      213: -5040049254412637451
+    second: Human_Male_Warrior_Dagger_Hero_148
+  - first:
+      213: 6374858626312469608
+    second: Human_Male_Warrior_Dagger_Hero_149
+  - first:
+      213: 1764455795871149037
+    second: Human_Male_Warrior_Dagger_Hero_150
+  - first:
+      213: 3209195816148916207
+    second: Human_Male_Warrior_Dagger_Hero_151
+  - first:
+      213: 6587498222799313498
+    second: Human_Male_Warrior_Dagger_Hero_152
+  - first:
+      213: -8443856851139051398
+    second: Human_Male_Warrior_Dagger_Hero_153
+  - first:
+      213: -4128247017736586116
+    second: Human_Male_Warrior_Dagger_Hero_154
+  - first:
+      213: 6142974059897536701
+    second: Human_Male_Warrior_Dagger_Hero_155
+  - first:
+      213: 8429846792288555224
+    second: Human_Male_Warrior_Dagger_Hero_156
+  - first:
+      213: 1842869603809694465
+    second: Human_Male_Warrior_Dagger_Hero_157
+  - first:
+      213: 4070942760467270364
+    second: Human_Male_Warrior_Dagger_Hero_158
+  - first:
+      213: -6966176960368610680
+    second: Human_Male_Warrior_Dagger_Hero_159
+  - first:
+      213: 8416307081515795131
+    second: Human_Male_Warrior_Dagger_Hero_160
+  - first:
+      213: -2354887682105224432
+    second: Human_Male_Warrior_Dagger_Hero_161
+  - first:
+      213: -4252448880775187163
+    second: Human_Male_Warrior_Dagger_Hero_162
+  - first:
+      213: 8297460892502315731
+    second: Human_Male_Warrior_Dagger_Hero_163
+  - first:
+      213: 7026280151151454370
+    second: Human_Male_Warrior_Dagger_Hero_164
+  - first:
+      213: -5682744478013763969
+    second: Human_Male_Warrior_Dagger_Hero_165
+  - first:
+      213: 2646187246396517975
+    second: Human_Male_Warrior_Dagger_Hero_166
+  - first:
+      213: 3757169053789376387
+    second: Human_Male_Warrior_Dagger_Hero_167
+  - first:
+      213: -2304276059641409732
+    second: Human_Male_Warrior_Dagger_Hero_168
+  - first:
+      213: -2978171216700946710
+    second: Human_Male_Warrior_Dagger_Hero_169
+  - first:
+      213: -7261204328623154050
+    second: Human_Male_Warrior_Dagger_Hero_170
+  - first:
+      213: 2867595183728941646
+    second: Human_Male_Warrior_Dagger_Hero_171
+  - first:
+      213: 6970031839075605347
+    second: Human_Male_Warrior_Dagger_Hero_172
+  - first:
+      213: 8036264151151537195
+    second: Human_Male_Warrior_Dagger_Hero_173
+  - first:
+      213: 8996861112840674109
+    second: Human_Male_Warrior_Dagger_Hero_174
+  - first:
+      213: 3587342758243988356
+    second: Human_Male_Warrior_Dagger_Hero_175
+  - first:
+      213: -1707281812285653918
+    second: Human_Male_Warrior_Dagger_Hero_176
+  - first:
+      213: -3416093116520418796
+    second: Human_Male_Warrior_Dagger_Hero_177
+  - first:
+      213: 808429083242361927
+    second: Human_Male_Warrior_Dagger_Hero_0
+  - first:
+      213: 2990232360343051269
+    second: Human_Male_Warrior_Dagger_Hero_1
+  - first:
+      213: 7115659354462446123
+    second: Human_Male_Warrior_Dagger_Hero_2
+  - first:
+      213: 8925217414126567212
+    second: Human_Male_Warrior_Dagger_Hero_3
+  - first:
+      213: -7328523531816595127
+    second: Human_Male_Warrior_Dagger_Hero_4
+  - first:
+      213: -8154001772266617730
+    second: Human_Male_Warrior_Dagger_Hero_5
+  - first:
+      213: -945567187601093930
+    second: Human_Male_Warrior_Dagger_Hero_6
+  - first:
+      213: 7952371612786936447
+    second: Human_Male_Warrior_Dagger_Hero_7
+  - first:
+      213: 7769212086439695552
+    second: Human_Male_Warrior_Dagger_Hero_8
+  - first:
+      213: -158254722538903087
+    second: Human_Male_Warrior_Dagger_Hero_9
+  - first:
+      213: 3113583090312139704
+    second: Human_Male_Warrior_Dagger_Hero_10
+  - first:
+      213: 8657829489058548239
+    second: Human_Male_Warrior_Dagger_Hero_11
+  - first:
+      213: -1439500821823501127
+    second: Human_Male_Warrior_Dagger_Hero_12
+  - first:
+      213: -6774696950408327520
+    second: Human_Male_Warrior_Dagger_Hero_13
+  - first:
+      213: -4726624735050551231
+    second: Human_Male_Warrior_Dagger_Hero_14
+  - first:
+      213: -46642613022541000
+    second: Human_Male_Warrior_Dagger_Hero_15
+  - first:
+      213: -4056553660026182502
+    second: Human_Male_Warrior_Dagger_Hero_16
+  - first:
+      213: 8474185882141962656
+    second: Human_Male_Warrior_Dagger_Hero_17
+  - first:
+      213: -1036096375064533258
+    second: Human_Male_Warrior_Dagger_Hero_18
+  - first:
+      213: 7725877845467900546
+    second: Human_Male_Warrior_Dagger_Hero_19
+  - first:
+      213: -6983183085329662473
+    second: Human_Male_Warrior_Dagger_Hero_20
+  - first:
+      213: -6559061409876962826
+    second: Human_Male_Warrior_Dagger_Hero_21
+  - first:
+      213: -5060032095935559479
+    second: Human_Male_Warrior_Dagger_Hero_22
+  - first:
+      213: 8034050993733541101
+    second: Human_Male_Warrior_Dagger_Hero_23
+  - first:
+      213: -7213203572593501324
+    second: Human_Male_Warrior_Dagger_Hero_24
+  - first:
+      213: -4309223300639400191
+    second: Human_Male_Warrior_Dagger_Hero_25
+  - first:
+      213: 2029839470402883995
+    second: Human_Male_Warrior_Dagger_Hero_26
+  - first:
+      213: -5349626080611138817
+    second: Human_Male_Warrior_Dagger_Hero_27
+  - first:
+      213: -3113117448610439695
+    second: Human_Male_Warrior_Dagger_Hero_28
+  - first:
+      213: 8115229427952799357
+    second: Human_Male_Warrior_Dagger_Hero_29
+  - first:
+      213: -4879478032729767446
+    second: Human_Male_Warrior_Dagger_Hero_30
+  - first:
+      213: -6872020610303644447
+    second: Human_Male_Warrior_Dagger_Hero_31
+  - first:
+      213: -3237934101691130729
+    second: Human_Male_Warrior_Dagger_Hero_32
+  - first:
+      213: 5495780835716478288
+    second: Human_Male_Warrior_Dagger_Hero_33
+  - first:
+      213: -6989884391759120239
+    second: Human_Male_Warrior_Dagger_Hero_34
+  - first:
+      213: 1821854007182097542
+    second: Human_Male_Warrior_Dagger_Hero_35
+  - first:
+      213: 6284811035271386454
+    second: Human_Male_Warrior_Dagger_Hero_36
+  - first:
+      213: 1559226950969028184
+    second: Human_Male_Warrior_Dagger_Hero_37
+  - first:
+      213: 5096590706733024746
+    second: Human_Male_Warrior_Dagger_Hero_38
+  - first:
+      213: -8880332630412350133
+    second: Human_Male_Warrior_Dagger_Hero_39
+  - first:
+      213: 5827045903639299239
+    second: Human_Male_Warrior_Dagger_Hero_40
+  - first:
+      213: -1526764025199785854
+    second: Human_Male_Warrior_Dagger_Hero_41
+  - first:
+      213: -1109733842456287597
+    second: Human_Male_Warrior_Dagger_Hero_42
+  - first:
+      213: 7766571234381865098
+    second: Human_Male_Warrior_Dagger_Hero_43
+  - first:
+      213: -5513709342580691489
+    second: Human_Male_Warrior_Dagger_Hero_44
+  - first:
+      213: -1362105831886004035
+    second: Human_Male_Warrior_Dagger_Hero_45
+  - first:
+      213: 594520305655182745
+    second: Human_Male_Warrior_Dagger_Hero_46
+  - first:
+      213: 2144518955493827117
+    second: Human_Male_Warrior_Dagger_Hero_47
+  - first:
+      213: 4731193443522928759
+    second: Human_Male_Warrior_Dagger_Hero_48
+  - first:
+      213: -5798995596506870980
+    second: Human_Male_Warrior_Dagger_Hero_49
+  - first:
+      213: 2681398030241434853
+    second: Human_Male_Warrior_Dagger_Hero_50
+  - first:
+      213: -8818950843452430029
+    second: Human_Male_Warrior_Dagger_Hero_51
+  - first:
+      213: -364075639571818388
+    second: Human_Male_Warrior_Dagger_Hero_52
+  - first:
+      213: -7821839768753396382
+    second: Human_Male_Warrior_Dagger_Hero_53
+  - first:
+      213: -4325535031267746828
+    second: Human_Male_Warrior_Dagger_Hero_54
+  - first:
+      213: -5511741500849996624
+    second: Human_Male_Warrior_Dagger_Hero_55
+  - first:
+      213: -6631573109405299142
+    second: Human_Male_Warrior_Dagger_Hero_56
+  - first:
+      213: 5040108334249652662
+    second: Human_Male_Warrior_Dagger_Hero_57
+  - first:
+      213: 8066334849885118892
+    second: Human_Male_Warrior_Dagger_Hero_58
+  - first:
+      213: 863777649930613527
+    second: Human_Male_Warrior_Dagger_Hero_59
+  - first:
+      213: -5435843005102261525
+    second: Human_Male_Warrior_Dagger_Hero_60
+  - first:
+      213: -1544148416123012314
+    second: Human_Male_Warrior_Dagger_Hero_61
+  - first:
+      213: -4035770096107550151
+    second: Human_Male_Warrior_Dagger_Hero_62
+  - first:
+      213: 2795066169760707666
+    second: Human_Male_Warrior_Dagger_Hero_63
+  - first:
+      213: 3527956791353613200
+    second: Human_Male_Warrior_Dagger_Hero_64
+  - first:
+      213: -6709789519050974587
+    second: Human_Male_Warrior_Dagger_Hero_65
+  - first:
+      213: 4230176713165593495
+    second: Human_Male_Warrior_Dagger_Hero_66
+  - first:
+      213: -8027896878207837425
+    second: Human_Male_Warrior_Dagger_Hero_67
+  - first:
+      213: 1512373391384051810
+    second: Human_Male_Warrior_Dagger_Hero_68
+  - first:
+      213: -5031716637465059372
+    second: Human_Male_Warrior_Dagger_Hero_69
+  - first:
+      213: 4066229735773963817
+    second: Human_Male_Warrior_Dagger_Hero_70
+  - first:
+      213: 8515135038642930759
+    second: Human_Male_Warrior_Dagger_Hero_71
+  - first:
+      213: -8052931847892109076
+    second: Human_Male_Warrior_Dagger_Hero_72
+  - first:
+      213: -5271889618127295639
+    second: Human_Male_Warrior_Dagger_Hero_73
+  - first:
+      213: 3781676816738235513
+    second: Human_Male_Warrior_Dagger_Hero_74
+  - first:
+      213: -7679384813147402673
+    second: Human_Male_Warrior_Dagger_Hero_75
+  - first:
+      213: 496300516008030749
+    second: Human_Male_Warrior_Dagger_Hero_76
+  - first:
+      213: 1517381508817901863
+    second: Human_Male_Warrior_Dagger_Hero_77
+  - first:
+      213: 7394802330851934449
+    second: Human_Male_Warrior_Dagger_Hero_78
+  - first:
+      213: 7086682625969433304
+    second: Human_Male_Warrior_Dagger_Hero_79
+  - first:
+      213: -445717057478220998
+    second: Human_Male_Warrior_Dagger_Hero_80
+  - first:
+      213: 2411398926129628368
+    second: Human_Male_Warrior_Dagger_Hero_81
+  - first:
+      213: 1864745755540835681
+    second: Human_Male_Warrior_Dagger_Hero_82
+  - first:
+      213: 5085091993699386440
+    second: Human_Male_Warrior_Dagger_Hero_83
+  - first:
+      213: -3864799585700703845
+    second: Human_Male_Warrior_Dagger_Hero_84
+  - first:
+      213: 6047039126185132313
+    second: Human_Male_Warrior_Dagger_Hero_85
+  - first:
+      213: -8178424183366282443
+    second: Human_Male_Warrior_Dagger_Hero_86
+  - first:
+      213: 1771319769992707577
+    second: Human_Male_Warrior_Dagger_Hero_87
+  - first:
+      213: -5225857112503121282
+    second: Human_Male_Warrior_Dagger_Hero_88
+  - first:
+      213: -6604268935100270351
+    second: Human_Male_Warrior_Dagger_Hero_89
+  - first:
+      213: 8024769558556521437
+    second: Human_Male_Warrior_Dagger_Hero_90
+  - first:
+      213: -1743665095613390067
+    second: Human_Male_Warrior_Dagger_Hero_91
+  - first:
+      213: -2722259190714191738
+    second: Human_Male_Warrior_Dagger_Hero_92
+  - first:
+      213: 1726358365569756575
+    second: Human_Male_Warrior_Dagger_Hero_93
+  - first:
+      213: -4800957242839235003
+    second: Human_Male_Warrior_Dagger_Hero_94
+  - first:
+      213: -8285501985816633933
+    second: Human_Male_Warrior_Dagger_Hero_95
+  - first:
+      213: -1450839608623654411
+    second: Human_Male_Warrior_Dagger_Hero_96
+  - first:
+      213: 9110162256532631756
+    second: Human_Male_Warrior_Dagger_Hero_97
+  - first:
+      213: 5084015819387148844
+    second: Human_Male_Warrior_Dagger_Hero_98
+  - first:
+      213: -7563328935342215327
+    second: Human_Male_Warrior_Dagger_Hero_99
+  - first:
+      213: 8660975663437307744
+    second: Human_Male_Warrior_Dagger_Hero_100
+  - first:
+      213: -3341752597592782656
+    second: Human_Male_Warrior_Dagger_Hero_101
+  - first:
+      213: -1972193984310841650
+    second: Human_Male_Warrior_Dagger_Hero_102
+  - first:
+      213: -7354702930872719499
+    second: Human_Male_Warrior_Dagger_Hero_103
+  - first:
+      213: -806444910858507933
+    second: Human_Male_Warrior_Dagger_Hero_104
+  - first:
+      213: -119408393648669079
+    second: Human_Male_Warrior_Dagger_Hero_105
+  - first:
+      213: 4518828944335155666
+    second: Human_Male_Warrior_Dagger_Hero_106
+  - first:
+      213: 9036168179664028980
+    second: Human_Male_Warrior_Dagger_Hero_107
+  - first:
+      213: 476210419622795351
+    second: Human_Male_Warrior_Dagger_Hero_108
+  - first:
+      213: -6498261079265289824
+    second: Human_Male_Warrior_Dagger_Hero_109
+  - first:
+      213: -3814964445983893481
+    second: Human_Male_Warrior_Dagger_Hero_110
+  - first:
+      213: 1232167624797068869
+    second: Human_Male_Warrior_Dagger_Hero_111
+  - first:
+      213: 6847488511403089981
+    second: Human_Male_Warrior_Dagger_Hero_112
+  - first:
+      213: -6139975764318492986
+    second: Human_Male_Warrior_Dagger_Hero_113
+  - first:
+      213: -501597451635020820
+    second: Human_Male_Warrior_Dagger_Hero_114
+  - first:
+      213: 1105690804584631297
+    second: Human_Male_Warrior_Dagger_Hero_115
+  - first:
+      213: 5242698125836443343
+    second: Human_Male_Warrior_Dagger_Hero_116
+  - first:
+      213: 3561937150000409111
+    second: Human_Male_Warrior_Dagger_Hero_117
+  - first:
+      213: -4440860464561528928
+    second: Human_Male_Warrior_Dagger_Hero_118
+  - first:
+      213: 2385664534235372951
+    second: Human_Male_Warrior_Dagger_Hero_119
+  - first:
+      213: -8716908586618774953
+    second: Human_Male_Warrior_Dagger_Hero_120
+  - first:
+      213: 6738265693058178891
+    second: Human_Male_Warrior_Dagger_Hero_121
+  - first:
+      213: -1408538154484695597
+    second: Human_Male_Warrior_Dagger_Hero_122
+  - first:
+      213: -7687961527178582830
+    second: Human_Male_Warrior_Dagger_Hero_123
+  - first:
+      213: 2352933746343355802
+    second: Human_Male_Warrior_Dagger_Hero_124
+  - first:
+      213: -8075777483957984661
+    second: Human_Male_Warrior_Dagger_Hero_125
+  - first:
+      213: -6842448235888246812
+    second: Human_Male_Warrior_Dagger_Hero_126
+  - first:
+      213: 515649556866893846
+    second: Human_Male_Warrior_Dagger_Hero_127
+  - first:
+      213: -7694629500916294738
+    second: Human_Male_Warrior_Dagger_Hero_128
+  - first:
+      213: 15719754673788238
+    second: Human_Male_Warrior_Dagger_Hero_129
+  - first:
+      213: -5037360626224936278
+    second: Human_Male_Warrior_Dagger_Hero_130
+  - first:
+      213: -6262404566340115441
+    second: Human_Male_Warrior_Dagger_Hero_131
+  - first:
+      213: 5683784830816228876
+    second: Human_Male_Warrior_Dagger_Hero_132
+  - first:
+      213: -1410980238909054086
+    second: Human_Male_Warrior_Dagger_Hero_133
+  - first:
+      213: -2151932247574261145
+    second: Human_Male_Warrior_Dagger_Hero_134
+  - first:
+      213: 4795049589102631048
+    second: Human_Male_Warrior_Dagger_Hero_135
+  - first:
+      213: 1736285666059615579
+    second: Human_Male_Warrior_Dagger_Hero_136
+  - first:
+      213: -650806170236619893
+    second: Human_Male_Warrior_Dagger_Hero_137
+  - first:
+      213: -5107644790937560568
+    second: Human_Male_Warrior_Dagger_Hero_138
+  - first:
+      213: -9057787613677794570
+    second: Human_Male_Warrior_Dagger_Hero_139
+  - first:
+      213: -7785179255382336422
+    second: Human_Male_Warrior_Dagger_Hero_140
+  - first:
+      213: 7474025848608460735
+    second: Human_Male_Warrior_Dagger_Hero_141
+  - first:
+      213: -7954183080592981527
+    second: Human_Male_Warrior_Dagger_Hero_142
+  - first:
+      213: 3210999388283233123
+    second: Human_Male_Warrior_Dagger_Hero_143
+  - first:
+      213: 6241134874272804464
+    second: Human_Male_Warrior_Dagger_Hero_144
+  - first:
+      213: 2392930011205552912
+    second: Human_Male_Warrior_Dagger_Hero_145
+  - first:
+      213: -556894533813390767
+    second: Human_Male_Warrior_Dagger_Hero_146
+  - first:
+      213: 2825809647412163888
+    second: Human_Male_Warrior_Dagger_Hero_147
+  - first:
+      213: -5196582148998375901
+    second: Human_Male_Warrior_Dagger_Hero_148
+  - first:
+      213: 5978458354150576795
+    second: Human_Male_Warrior_Dagger_Hero_149
+  - first:
+      213: 1678509217750206640
+    second: Human_Male_Warrior_Dagger_Hero_150
+  - first:
+      213: 1704561327440082128
+    second: Human_Male_Warrior_Dagger_Hero_151
+  - first:
+      213: 7189482776982035543
+    second: Human_Male_Warrior_Dagger_Hero_152
+  - first:
+      213: 6385314501366777291
+    second: Human_Male_Warrior_Dagger_Hero_153
+  - first:
+      213: -3789480803600424656
+    second: Human_Male_Warrior_Dagger_Hero_154
+  - first:
+      213: 304807710822975168
+    second: Human_Male_Warrior_Dagger_Hero_155
+  - first:
+      213: 3549722906055510061
+    second: Human_Male_Warrior_Dagger_Hero_156
+  - first:
+      213: 8088676776653505760
+    second: Human_Male_Warrior_Dagger_Hero_157
+  - first:
+      213: 4319291895290649316
+    second: Human_Male_Warrior_Dagger_Hero_158
+  - first:
+      213: 4288906005998508456
+    second: Human_Male_Warrior_Dagger_Hero_159
+  - first:
+      213: 1631773944351912193
+    second: Human_Male_Warrior_Dagger_Hero_160
+  - first:
+      213: 2156880100898040220
+    second: Human_Male_Warrior_Dagger_Hero_161
+  - first:
+      213: 1973172557244455304
+    second: Human_Male_Warrior_Dagger_Hero_162
+  - first:
+      213: 667469027140137512
+    second: Human_Male_Warrior_Dagger_Hero_163
+  - first:
+      213: -2641718263559169575
+    second: Human_Male_Warrior_Dagger_Hero_164
+  - first:
+      213: 2016962048546215819
+    second: Human_Male_Warrior_Dagger_Hero_165
+  - first:
+      213: -8658815466389514851
+    second: Human_Male_Warrior_Dagger_Hero_166
+  - first:
+      213: 8659537165634868189
+    second: Human_Male_Warrior_Dagger_Hero_167
+  - first:
+      213: -912242673944166645
+    second: Human_Male_Warrior_Dagger_Hero_168
+  - first:
+      213: -5383576513563427040
+    second: Human_Male_Warrior_Dagger_Hero_169
+  - first:
+      213: -4850114305989276814
+    second: Human_Male_Warrior_Dagger_Hero_170
+  - first:
+      213: 8611517242477965933
+    second: Human_Male_Warrior_Dagger_Hero_171
+  - first:
+      213: -6535711073240304436
+    second: Human_Male_Warrior_Dagger_Hero_172
+  - first:
+      213: 6467667033502893554
+    second: Human_Male_Warrior_Dagger_Hero_173
+  - first:
+      213: 6115637213607460196
+    second: Human_Male_Warrior_Dagger_Hero_174
+  - first:
+      213: 8482734664708519961
+    second: Human_Male_Warrior_Dagger_Hero_175
+  - first:
+      213: 75399683361285612
+    second: Human_Male_Warrior_Dagger_Hero_176
+  - first:
+      213: -5435203575615022327
+    second: Human_Male_Warrior_Dagger_Hero_177
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74471ccc7fd183b00800000000000000
+      internalID: 808429083242361927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c10222d707f7920800000000000000
+      internalID: 2990232360343051269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b226b658b76efb260800000000000000
+      internalID: 7115659354462446123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ff42843fdbcdb70800000000000000
+      internalID: 8925217414126567212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9411bfd0daadb4a90800000000000000
+      internalID: -7328523531816595127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e748422079a27de80800000000000000
+      internalID: -8154001772266617730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da85c717aba0e2f0800000000000000
+      internalID: -945567187601093930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ac01e29df7c5e60800000000000000
+      internalID: 7952371612786936447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4d8e4ca39c1db60800000000000000
+      internalID: 7769212086439695552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d96a071b24cdcdf0800000000000000
+      internalID: -158254722538903087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3d7bcf25ba53b20800000000000000
+      internalID: 3113583090312139704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a8c359c0ac62870800000000000000
+      internalID: 8657829489058548239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcc35d11add50ce0800000000000000
+      internalID: -1439500821823501127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae4df974017bf1a0800000000000000
+      internalID: -6774696950408327520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140bcb0a8d7a76eb0800000000000000
+      internalID: -4726624735050551231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b35636aca4a5ff0800000000000000
+      internalID: -46642613022541000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9424d150f934b7c0800000000000000
+      internalID: -4056553660026182502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1b3b1692b5a9570800000000000000
+      internalID: 8474185882141962656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6653b16db0f91f0800000000000000
+      internalID: -1036096375064533258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28aac2d87f4d73b60800000000000000
+      internalID: 7725877845467900546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdb86d7bffb61f90800000000000000
+      internalID: -6983183085329662473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f19f4c266889f4a0800000000000000
+      internalID: -6559061409876962826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c88fa13e9727c9b0800000000000000
+      internalID: -5060032095935559479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec9cd400deae7f60800000000000000
+      internalID: 8034050993733541101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b5cf2619d85eb90800000000000000
+      internalID: -7213203572593501324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f5d834d309234c0800000000000000
+      internalID: -4309223300639400191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b915e686e307b2c10800000000000000
+      internalID: 2029839470402883995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff202085c6f42c5b0800000000000000
+      internalID: -5349626080611138817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd118bac2cfbc4d0800000000000000
+      internalID: -3113117448610439695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e4ceb1b261f9070800000000000000
+      internalID: 8115229427952799357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae102d1f49c984cb0800000000000000
+      internalID: -4879478032729767446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec20b91aada1a0a0800000000000000
+      internalID: -6872020610303644447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c939ef61c8013d0800000000000000
+      internalID: -3237934101691130729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055b74c5d8fe44c40800000000000000
+      internalID: 5495780835716478288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19876200e21fefe90800000000000000
+      internalID: -6989884391759120239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cf5b22196884910800000000000000
+      internalID: 1821854007182097542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6555ec59652283750800000000000000
+      internalID: 6284811035271386454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e69b896ac73a510800000000000000
+      internalID: 1559226950969028184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae50160be3abab640800000000000000
+      internalID: 5096590706733024746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d26fcc588b2c480800000000000000
+      internalID: -8880332630412350133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4c0585063ddd050800000000000000
+      internalID: 5827045903639299239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2880f1e4538dfcae0800000000000000
+      internalID: -1526764025199785854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396e92d23fe6990f0800000000000000
+      internalID: -1109733842456287597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80291c736768cb60800000000000000
+      internalID: 7766571234381865098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdda9b8d09e5b73b0800000000000000
+      internalID: -5513709342580691489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db062ff66f3d81de0800000000000000
+      internalID: -1362105831886004035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995755e6119204800800000000000000
+      internalID: 594520305655182745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d222d4cb0acd2cd10800000000000000
+      internalID: 2144518955493827117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77067d4be5398a140800000000000000
+      internalID: 4731193443522928759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b4728ba34d58fa0800000000000000
+      internalID: -5798995596506870980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec09f54d4d363520800000000000000
+      internalID: 2681398030241434853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339e264ceeacc9580800000000000000
+      internalID: -8818950843452430029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68d2ff722b82faf0800000000000000
+      internalID: -364075639571818388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2652e651c2e337390800000000000000
+      internalID: -7821839768753396382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb17c58ecc98f3c0800000000000000
+      internalID: -4325535031267746828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcbe04be4c5283b0800000000000000
+      internalID: -5511741500849996624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e4ddf746be7f3a0800000000000000
+      internalID: -6631573109405299142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1bf6c83df02f540800000000000000
+      internalID: 5040108334249652662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1a1c60fc061ff60800000000000000
+      internalID: 8066334849885118892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71339053231ccfb00800000000000000
+      internalID: 863777649930613527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea761256910094b0800000000000000
+      internalID: -5435843005102261525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b71806235129ae0800000000000000
+      internalID: -1544148416123012314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a8d52ea701ef7c0800000000000000
+      internalID: -4035770096107550151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2547c4c5fd11ac620800000000000000
+      internalID: 2795066169760707666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b1f838202d5f030800000000000000
+      internalID: 3527956791353613200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ad35f7bf902e2a0800000000000000
+      internalID: -6709789519050974587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b5d55ee4b94ba30800000000000000
+      internalID: 4230176713165593495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b54f8a25e279090800000000000000
+      internalID: -8027896878207837425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260033926970df410800000000000000
+      internalID: 1512373391384051810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfd87d9060cb2ab0800000000000000
+      internalID: -5031716637465059372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92600ff96662e6830800000000000000
+      internalID: 4066229735773963817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7444bc8d336db2670800000000000000
+      internalID: 8515135038642930759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8f5fd862d3e3090800000000000000
+      internalID: -8052931847892109076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96be370f25c76d6b0800000000000000
+      internalID: -5271889618127295639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974330557073b7430800000000000000
+      internalID: 3781676816738235513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ec1d613385d6590800000000000000
+      internalID: -7679384813147402673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12708690b633e600800000000000000
+      internalID: 496300516008030749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72956dd5172de0510800000000000000
+      internalID: 1517381508817901863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f009a26a8d9f9660800000000000000
+      internalID: 7394802330851934449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da27dc2d44f85260800000000000000
+      internalID: 7086682625969433304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33adae92be70d9f0800000000000000
+      internalID: -445717057478220998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d407b31c82077120800000000000000
+      internalID: 2411398926129628368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dcd638268e0e910800000000000000
+      internalID: 1864745755540835681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84482aee930e19640800000000000000
+      internalID: 5085091993699386440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b919b3ed0497d5ac0800000000000000
+      internalID: -3864799585700703845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9114723fb066be350800000000000000
+      internalID: 6047039126185132313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5331dff4986608e80800000000000000
+      internalID: -8178424183366282443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdba0a22fdf49810800000000000000
+      internalID: 1771319769992707577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a8d4ad4a60a77b0800000000000000
+      internalID: -5225857112503121282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8733af46ce854a0800000000000000
+      internalID: -6604268935100270351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3312e7565bd5f60800000000000000
+      internalID: 8024769558556521437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0367b875d14dc7e0800000000000000
+      internalID: -1743665095613390067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68030fe60b7983ad0800000000000000
+      internalID: -2722259190714191738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d2fce69c145f710800000000000000
+      internalID: 1726358365569756575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5468abef2d29f5db0800000000000000
+      internalID: -4800957242839235003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd1b95a7dbf30d80800000000000000
+      internalID: -8285501985816633933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f99be510159ddbe0800000000000000
+      internalID: -1450839608623654411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc07ccafd4ccd6e70800000000000000
+      internalID: 9110162256532631756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a9903937d0e8640800000000000000
+      internalID: 5084015819387148844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f6e71d768a90790800000000000000
+      internalID: -7563328935342215327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fdb736a77f13870800000000000000
+      internalID: 8660975663437307744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c84e35c7b5bf91d0800000000000000
+      internalID: -3341752597592782656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece6df8350c51a4e0800000000000000
+      internalID: -1972193984310841650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577aec8b6a8dee990800000000000000
+      internalID: -7354702930872719499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3696b5550aeeec4f0800000000000000
+      internalID: -806444910858507933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96efe59d2b6c75ef0800000000000000
+      internalID: -119408393648669079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1b9dbabfa16be30800000000000000
+      internalID: 4518828944335155666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435009f651be66d70800000000000000
+      internalID: 9036168179664028980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758d4f38ad6db9600800000000000000
+      internalID: 476210419622795351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a955a84af981d5a0800000000000000
+      internalID: -6498261079265289824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71892668c068e0bc0800000000000000
+      internalID: -3814964445983893481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e14cb2de9891110800000000000000
+      internalID: 1232167624797068869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30efb5858a270f50800000000000000
+      internalID: 6847488511403089981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6e946c29c6acaa0800000000000000
+      internalID: -6139975764318492986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebad0b76c7f909f0800000000000000
+      internalID: -501597451635020820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ccea6bde3385f00800000000000000
+      internalID: 1105690804584631297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce561f1b2ec1c840800000000000000
+      internalID: 5242698125836443343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71aaa0a47fa8e6130800000000000000
+      internalID: 3561937150000409111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afdbb8afe4ee52c0800000000000000
+      internalID: -4440860464561528928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dd85c01459b1120800000000000000
+      internalID: 2385664534235372951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a190b13d1570780800000000000000
+      internalID: -8716908586618774953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f1fec62f0238d50800000000000000
+      internalID: 6738265693058178891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddfa51e20ed37ce0800000000000000
+      internalID: -1408538154484695597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4a6ad39bfde4590800000000000000
+      internalID: -7687961527178582830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9523d2a6cc47a020800000000000000
+      internalID: 2352933746343355802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6226976a231def80800000000000000
+      internalID: -8075777483957984661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eff1e1159dba01a0800000000000000
+      internalID: -6842448235888246812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61883a93a84f72700800000000000000
+      internalID: 515649556866893846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab94af9c3f273590800000000000000
+      internalID: -7694629500916294738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4599499809d73000800000000000000
+      internalID: 15719754673788238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaac2541333b71ab0800000000000000
+      internalID: -5037360626224936278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04638ff9387719a0800000000000000
+      internalID: -6262404566340115441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c061e8c803cd0ee40800000000000000
+      internalID: 5683784830816228876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73eabac2f03b6ce0800000000000000
+      internalID: -1410980238909054086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762d0a2b50dc222e0800000000000000
+      internalID: -2151932247574261145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88858de22307b8240800000000000000
+      internalID: 4795049589102631048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5df5123d96881810800000000000000
+      internalID: 1736285666059615579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83f96d7c3fd7f6f0800000000000000
+      internalID: -650806170236619893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ada45cf100e19b0800000000000000
+      internalID: -5107644790937560568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa4dc3d7264c4280800000000000000
+      internalID: -9057787613677794570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c123207bc75f390800000000000000
+      internalID: -7785179255382336422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf056409e219b760800000000000000
+      internalID: 7474025848608460735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e145da91a01d9190800000000000000
+      internalID: -7954183080592981527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3636e985ee2cf8c20800000000000000
+      internalID: 3210999388283233123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e2558e917fc9650800000000000000
+      internalID: 6241134874272804464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b474aba25653120800000000000000
+      internalID: 2392930011205552912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15232be3f538548f0800000000000000
+      internalID: -556894533813390767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035bfdc07ea473720800000000000000
+      internalID: 2825809647412163888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326d0d2711802e7b0800000000000000
+      internalID: -5196582148998375901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b929c97a230c7f250800000000000000
+      internalID: 5978458354150576795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8483c8d334b4710800000000000000
+      internalID: 1678509217750206640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d43fe30f71d7a710800000000000000
+      internalID: 1704561327440082128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c9dc08e7c26c360800000000000000
+      internalID: 7189482776982035543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc50e1945b13d9850800000000000000
+      internalID: 6385314501366777291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0312c32694f096bc0800000000000000
+      internalID: -3789480803600424656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c647608ff4ea3400800000000000000
+      internalID: 304807710822975168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2881820d26234130800000000000000
+      internalID: 3549722906055510061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e442673ca0c04070800000000000000
+      internalID: 8088676776653505760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ead50c181531fb30800000000000000
+      internalID: 4319291895290649316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a99492f941458b30800000000000000
+      internalID: 4288906005998508456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10175d2c1c935a610800000000000000
+      internalID: 1631773944351912193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99e22d2607ceed10800000000000000
+      internalID: 2156880100898040220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889da1b8cfd126b10800000000000000
+      internalID: 1973172557244455304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82273453b83534900800000000000000
+      internalID: 667469027140137512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9d4e75c3bb65bd0800000000000000
+      internalID: -2641718263559169575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b879a0dfb40bdfb10800000000000000
+      internalID: 2016962048546215819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95d13ea535b5d780800000000000000
+      internalID: -8658815466389514851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd395f40c2bdc2870800000000000000
+      internalID: 8659537165634868189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ffa9e0f101753f0800000000000000
+      internalID: -912242673944166645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f7aef2fa1b945b0800000000000000
+      internalID: -5383576513563427040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b08775cbee0bcb0800000000000000
+      internalID: -4850114305989276814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62fc076e41428770800000000000000
+      internalID: 8611517242477965933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4bce4186d7c45a0800000000000000
+      internalID: -6535711073240304436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5c17956e4c1c950800000000000000
+      internalID: 6467667033502893554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d7b3cc4ab1fd450800000000000000
+      internalID: 6115637213607460196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918f7ddeb3ab8b570800000000000000
+      internalID: 8482734664708519961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce52deecc9fdb0100800000000000000
+      internalID: 75399683361285612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Male_Warrior_Dagger_Hero_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b988915274294b0800000000000000
+      internalID: -5435203575615022327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

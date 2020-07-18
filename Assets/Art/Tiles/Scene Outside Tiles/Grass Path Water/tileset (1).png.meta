@@ -1,0 +1,1100 @@
+fileFormatVersion: 2
+guid: 760a06cb100fc9f4f9b0ce285f755ba8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1516915901977826372
+    second: tileset (1)_0
+  - first:
+      213: 4684173880714291739
+    second: tileset (1)_1
+  - first:
+      213: 3163627918968737933
+    second: tileset (1)_2
+  - first:
+      213: -3421039463282561323
+    second: tileset (1)_3
+  - first:
+      213: -743478035932168908
+    second: tileset (1)_4
+  - first:
+      213: 2287902541896279115
+    second: tileset (1)_5
+  - first:
+      213: 3851716767366827947
+    second: tileset (1)_6
+  - first:
+      213: -2635022267456323023
+    second: tileset (1)_7
+  - first:
+      213: 4806627550863050942
+    second: tileset (1)_8
+  - first:
+      213: 3774269313367769500
+    second: tileset (1)_9
+  - first:
+      213: -678979954572477851
+    second: tileset (1)_10
+  - first:
+      213: -2558029586946901515
+    second: tileset (1)_11
+  - first:
+      213: -791674970095746511
+    second: tileset (1)_12
+  - first:
+      213: 226768712946061381
+    second: tileset (1)_13
+  - first:
+      213: -5616544692434247988
+    second: tileset (1)_14
+  - first:
+      213: 7949141905674923999
+    second: tileset (1)_15
+  - first:
+      213: 5333825291098940558
+    second: tileset (1)_16
+  - first:
+      213: -3873992760692342812
+    second: tileset (1)_17
+  - first:
+      213: 678907393647366130
+    second: tileset (1)_18
+  - first:
+      213: -5078521369013287926
+    second: tileset (1)_19
+  - first:
+      213: 3741271818837013117
+    second: tileset (1)_20
+  - first:
+      213: 5971300737210056057
+    second: tileset (1)_21
+  - first:
+      213: 6742219009470248539
+    second: tileset (1)_22
+  - first:
+      213: -3495213056718133120
+    second: tileset (1)_23
+  - first:
+      213: -610985722890807209
+    second: tileset (1)_24
+  - first:
+      213: 7819749486555001402
+    second: tileset (1)_25
+  - first:
+      213: -8810877261455801248
+    second: tileset (1)_26
+  - first:
+      213: 5008104305646052925
+    second: tileset (1)_27
+  - first:
+      213: -331852215844041716
+    second: tileset (1)_28
+  - first:
+      213: -5933993481278410993
+    second: tileset (1)_29
+  - first:
+      213: -5042269871905123109
+    second: tileset (1)_30
+  - first:
+      213: 2047133080532840794
+    second: tileset (1)_31
+  - first:
+      213: 3318328770887870588
+    second: tileset (1)_32
+  - first:
+      213: -3411606669693812148
+    second: tileset (1)_33
+  - first:
+      213: 1998716686748255916
+    second: tileset (1)_34
+  - first:
+      213: -2564806766913169364
+    second: tileset (1)_35
+  - first:
+      213: -1798541692200025633
+    second: tileset (1)_36
+  - first:
+      213: 9178539495176721871
+    second: tileset (1)_37
+  - first:
+      213: -746863765007919056
+    second: tileset (1)_38
+  - first:
+      213: 1843462607342606926
+    second: tileset (1)_39
+  - first:
+      213: -2092415326347085544
+    second: tileset (1)_40
+  - first:
+      213: 4525427637868968224
+    second: tileset (1)_41
+  - first:
+      213: 5864022955804488323
+    second: tileset (1)_42
+  - first:
+      213: 5667009394659983334
+    second: tileset (1)_43
+  - first:
+      213: 579432025018726789
+    second: tileset (1)_44
+  - first:
+      213: -3822201680673407998
+    second: tileset (1)_45
+  - first:
+      213: -3126327270340810256
+    second: tileset (1)_46
+  - first:
+      213: -5235344459459125241
+    second: tileset (1)_47
+  - first:
+      213: 7804551603564042424
+    second: tileset (1)_48
+  - first:
+      213: 5414104100688867177
+    second: tileset (1)_49
+  - first:
+      213: -8948823877433472618
+    second: tileset (1)_50
+  - first:
+      213: 5285416609203681664
+    second: tileset (1)_51
+  - first:
+      213: 3304042075163098786
+    second: tileset (1)_52
+  - first:
+      213: -7510332853492841660
+    second: tileset (1)_53
+  - first:
+      213: 1357648699158770966
+    second: tileset (1)_54
+  - first:
+      213: 4234362901513537328
+    second: tileset (1)_55
+  - first:
+      213: 4228624646289671186
+    second: tileset (1)_56
+  - first:
+      213: 348979858421009373
+    second: tileset (1)_57
+  - first:
+      213: 3170545482622819774
+    second: tileset (1)_58
+  - first:
+      213: 282844111124408412
+    second: tileset (1)_59
+  - first:
+      213: 1819361855288798809
+    second: tileset (1)_60
+  - first:
+      213: 5285075594146659351
+    second: tileset (1)_61
+  - first:
+      213: -7331083291043491187
+    second: tileset (1)_62
+  - first:
+      213: 4158581415153618985
+    second: tileset (1)_63
+  - first:
+      213: 4484265856369113562
+    second: tileset (1)_64
+  - first:
+      213: -7528749377104083241
+    second: tileset (1)_65
+  - first:
+      213: 568444378927301485
+    second: tileset (1)_66
+  - first:
+      213: 2549850021328016543
+    second: tileset (1)_67
+  - first:
+      213: 5324892137735096388
+    second: tileset (1)_68
+  - first:
+      213: -2641473406374772474
+    second: tileset (1)_69
+  - first:
+      213: -6989748711527938206
+    second: tileset (1)_70
+  - first:
+      213: -8176873419768644895
+    second: tileset (1)_71
+  - first:
+      213: 6342424390537917890
+    second: tileset (1)_72
+  - first:
+      213: 3638397028863110269
+    second: tileset (1)_73
+  - first:
+      213: 3594635227636582088
+    second: tileset (1)_74
+  - first:
+      213: -2848162547658174374
+    second: tileset (1)_75
+  - first:
+      213: -8665560534824172899
+    second: tileset (1)_76
+  - first:
+      213: 9146976585107898912
+    second: tileset (1)_77
+  - first:
+      213: 5415647056035885742
+    second: tileset (1)_78
+  - first:
+      213: -1102629035931509168
+    second: tileset (1)_79
+  - first:
+      213: 4393182001953709624
+    second: tileset (1)_80
+  - first:
+      213: -137389707240524040
+    second: tileset (1)_81
+  - first:
+      213: 6804448547736819347
+    second: tileset (1)_82
+  - first:
+      213: -5939592106339776767
+    second: tileset (1)_83
+  - first:
+      213: -4530667970739252308
+    second: tileset (1)_84
+  - first:
+      213: 3873363925623503195
+    second: tileset (1)_85
+  - first:
+      213: -3763375799014352093
+    second: tileset (1)_86
+  - first:
+      213: 4407546848941827209
+    second: tileset (1)_87
+  - first:
+      213: -591596809480937820
+    second: tileset (1)_88
+  - first:
+      213: 4222728247751547848
+    second: tileset (1)_89
+  - first:
+      213: 4185245031598028208
+    second: tileset (1)_90
+  - first:
+      213: 6298113153608989407
+    second: tileset (1)_91
+  - first:
+      213: 1983052237003885323
+    second: tileset (1)_92
+  - first:
+      213: -6771576078541397239
+    second: tileset (1)_93
+  - first:
+      213: 4751312227678556571
+    second: tileset (1)_94
+  - first:
+      213: 6075024495507675202
+    second: tileset (1)_95
+  - first:
+      213: 764001361878213214
+    second: tileset (1)_96
+  - first:
+      213: 1200523527720937038
+    second: tileset (1)_97
+  - first:
+      213: 8513481792441063014
+    second: tileset (1)_98
+  - first:
+      213: 5871358343869158735
+    second: tileset (1)_99
+  - first:
+      213: 5078894585527225
+    second: tileset (1)_100
+  - first:
+      213: -6744226704917865005
+    second: tileset (1)_101
+  - first:
+      213: 3210795240524981842
+    second: tileset (1)_102
+  - first:
+      213: 5586353143144217326
+    second: tileset (1)_103
+  - first:
+      213: 8603163666853792734
+    second: tileset (1)_104
+  - first:
+      213: -5036670780856947762
+    second: tileset (1)_105
+  - first:
+      213: 9055022102659242319
+    second: tileset (1)_106
+  - first:
+      213: -5993826768235270755
+    second: tileset (1)_107
+  - first:
+      213: 9208397937167823944
+    second: tileset (1)_108
+  - first:
+      213: 4052553636128100595
+    second: tileset (1)_109
+  - first:
+      213: -2300621004023016400
+    second: tileset (1)_110
+  - first:
+      213: 4516800362985078275
+    second: tileset (1)_111
+  - first:
+      213: -3264631891822891459
+    second: tileset (1)_112
+  - first:
+      213: -9104566965082792418
+    second: tileset (1)_113
+  - first:
+      213: 1712188272254609805
+    second: tileset (1)_114
+  - first:
+      213: -1771350646257341395
+    second: tileset (1)_115
+  - first:
+      213: -5536530556094846957
+    second: tileset (1)_116
+  - first:
+      213: -5592024981390702862
+    second: tileset (1)_117
+  - first:
+      213: 5582287926108171494
+    second: tileset (1)_118
+  - first:
+      213: 6894087251246786330
+    second: tileset (1)_119
+  - first:
+      213: -5775571203315564159
+    second: tileset (1)_120
+  - first:
+      213: -1635069296132576245
+    second: tileset (1)_121
+  - first:
+      213: -8007037286078195774
+    second: tileset (1)_122
+  - first:
+      213: -3175259100522837039
+    second: tileset (1)_123
+  - first:
+      213: -6946125758125634772
+    second: tileset (1)_124
+  - first:
+      213: -3813538945226707701
+    second: tileset (1)_125
+  - first:
+      213: -2022214799717254343
+    second: tileset (1)_126
+  - first:
+      213: -8681768948122392143
+    second: tileset (1)_127
+  - first:
+      213: 5090831664439015370
+    second: tileset (1)_128
+  - first:
+      213: 7402344026359440390
+    second: tileset (1)_129
+  - first:
+      213: 9142629437264183416
+    second: tileset (1)_130
+  - first:
+      213: -6310542702292462561
+    second: tileset (1)_131
+  - first:
+      213: 1030945395246668712
+    second: tileset (1)_132
+  - first:
+      213: -5651266336771121437
+    second: tileset (1)_133
+  - first:
+      213: 4267827387501426055
+    second: tileset (1)_134
+  - first:
+      213: 6655252499406815308
+    second: tileset (1)_135
+  - first:
+      213: -2196782079270538282
+    second: tileset (1)_136
+  - first:
+      213: -9082654452095806643
+    second: tileset (1)_137
+  - first:
+      213: 9053699461103857183
+    second: tileset (1)_138
+  - first:
+      213: -4637049228204468510
+    second: tileset (1)_139
+  - first:
+      213: 4061703250001351468
+    second: tileset (1)_140
+  - first:
+      213: 342183474352573117
+    second: tileset (1)_141
+  - first:
+      213: 5848842467453981010
+    second: tileset (1)_142
+  - first:
+      213: -1635200124628357711
+    second: tileset (1)_143
+  - first:
+      213: 5881176756009422067
+    second: tileset (1)_144
+  - first:
+      213: 5886301256481087212
+    second: tileset (1)_145
+  - first:
+      213: 2385256290669333989
+    second: tileset (1)_146
+  - first:
+      213: -9016738861665492952
+    second: tileset (1)_147
+  - first:
+      213: -6637694881543236424
+    second: tileset (1)_148
+  - first:
+      213: 264629754078688102
+    second: tileset (1)_149
+  - first:
+      213: -8129171847646792088
+    second: tileset (1)_150
+  - first:
+      213: 392155279072729612
+    second: tileset (1)_151
+  - first:
+      213: -8076333664940384668
+    second: tileset (1)_152
+  - first:
+      213: 3681727426787688764
+    second: tileset (1)_153
+  - first:
+      213: 1738859494357809
+    second: tileset (1)_154
+  - first:
+      213: -4341701454908660170
+    second: tileset (1)_155
+  - first:
+      213: -5843476865137487297
+    second: tileset (1)_156
+  - first:
+      213: 5273123068380970365
+    second: tileset (1)_157
+  - first:
+      213: 4731735626254510077
+    second: tileset (1)_158
+  - first:
+      213: -4725027462128797020
+    second: tileset (1)_159
+  - first:
+      213: -4022997475532467782
+    second: tileset (1)_160
+  - first:
+      213: 5215503134899417431
+    second: tileset (1)_161
+  - first:
+      213: -8939677547184778518
+    second: tileset (1)_162
+  - first:
+      213: 6384046781011372780
+    second: tileset (1)_163
+  - first:
+      213: 8360498514935063457
+    second: tileset (1)_164
+  - first:
+      213: 4034192798381915572
+    second: tileset (1)_165
+  - first:
+      213: 8100121118561835233
+    second: tileset (1)_166
+  - first:
+      213: 7917685923081170792
+    second: tileset (1)_167
+  - first:
+      213: -1800802933903828230
+    second: tileset (1)_168
+  - first:
+      213: 7779169162825665374
+    second: tileset (1)_169
+  - first:
+      213: 4918149687330430844
+    second: tileset (1)_170
+  - first:
+      213: 434161708876710896
+    second: tileset (1)_171
+  - first:
+      213: 4280348318137146124
+    second: tileset (1)_172
+  - first:
+      213: 85480532428539470
+    second: tileset (1)_173
+  - first:
+      213: 1218255979756559141
+    second: tileset (1)_174
+  - first:
+      213: -7305464790362360363
+    second: tileset (1)_175
+  - first:
+      213: 1680390116298415157
+    second: tileset (1)_176
+  - first:
+      213: 8615364192201464315
+    second: tileset (1)_177
+  - first:
+      213: 5831212387499536351
+    second: tileset (1)_178
+  - first:
+      213: 2069187924704176806
+    second: tileset (1)_179
+  - first:
+      213: 3067045672282293649
+    second: tileset (1)_180
+  - first:
+      213: 7005212089592239963
+    second: tileset (1)_181
+  - first:
+      213: 7156363823522096898
+    second: tileset (1)_182
+  - first:
+      213: 2034257822880637752
+    second: tileset (1)_183
+  - first:
+      213: 1966001250759432516
+    second: tileset (1)_184
+  - first:
+      213: -9218586215769167434
+    second: tileset (1)_185
+  - first:
+      213: 6427173570955678234
+    second: tileset (1)_186
+  - first:
+      213: 2663531069625598140
+    second: tileset (1)_187
+  - first:
+      213: 7761458924654191466
+    second: tileset (1)_188
+  - first:
+      213: -547948966451147698
+    second: tileset (1)_189
+  - first:
+      213: -3932009466197983351
+    second: tileset (1)_190
+  - first:
+      213: -1479923253006487314
+    second: tileset (1)_191
+  - first:
+      213: 6534658071260556614
+    second: tileset (1)_192
+  - first:
+      213: 5226107284082743594
+    second: tileset (1)_193
+  - first:
+      213: 2463091241342540722
+    second: tileset (1)_194
+  - first:
+      213: -3653097852951702360
+    second: tileset (1)_195
+  - first:
+      213: -9189088462272228514
+    second: tileset (1)_196
+  - first:
+      213: 4393476041720438604
+    second: tileset (1)_197
+  - first:
+      213: 5648691352555456371
+    second: tileset (1)_198
+  - first:
+      213: 7918131090947323622
+    second: tileset (1)_199
+  - first:
+      213: 1371192231724531296
+    second: tileset (1)_200
+  - first:
+      213: -3926070111969364326
+    second: tileset (1)_201
+  - first:
+      213: 8305039367638822650
+    second: tileset (1)_202
+  - first:
+      213: 1754490779127477776
+    second: tileset (1)_203
+  - first:
+      213: 5016190569850748315
+    second: tileset (1)_204
+  - first:
+      213: 3354653858511210971
+    second: tileset (1)_205
+  - first:
+      213: 1738209781150325003
+    second: tileset (1)_206
+  - first:
+      213: 45381096932988539
+    second: tileset (1)_207
+  - first:
+      213: -2887840930023529856
+    second: tileset (1)_208
+  - first:
+      213: -1709529156273429732
+    second: tileset (1)_209
+  - first:
+      213: 3382481547794290476
+    second: tileset (1)_210
+  - first:
+      213: -1802599378913472430
+    second: tileset (1)_211
+  - first:
+      213: -135803434763174786
+    second: tileset (1)_212
+  - first:
+      213: 625818603372945080
+    second: tileset (1)_213
+  - first:
+      213: -5819042227809540497
+    second: tileset (1)_214
+  - first:
+      213: -5976657489524422412
+    second: tileset (1)_215
+  - first:
+      213: -259192239483701444
+    second: tileset (1)_216
+  - first:
+      213: 7130197610774731557
+    second: tileset (1)_217
+  - first:
+      213: 8820575730290014820
+    second: tileset (1)_218
+  - first:
+      213: 3597981804733866771
+    second: tileset (1)_219
+  - first:
+      213: -1817255129595657658
+    second: tileset (1)_220
+  - first:
+      213: 6598344568138973737
+    second: tileset (1)_221
+  - first:
+      213: 1128111475952283314
+    second: tileset (1)_222
+  - first:
+      213: -2218080640841371593
+    second: tileset (1)_223
+  - first:
+      213: 7771788917739100293
+    second: tileset (1)_224
+  - first:
+      213: -1498695112505666041
+    second: tileset (1)_225
+  - first:
+      213: 7292126218075848868
+    second: tileset (1)_226
+  - first:
+      213: 855415314674314574
+    second: tileset (1)_227
+  - first:
+      213: -4385164577243080624
+    second: tileset (1)_228
+  - first:
+      213: -1303927198367908097
+    second: tileset (1)_229
+  - first:
+      213: 2406592189202070940
+    second: tileset (1)_230
+  - first:
+      213: 2751355913230072013
+    second: tileset (1)_231
+  - first:
+      213: 3802037076974032019
+    second: tileset (1)_232
+  - first:
+      213: 7038298448990424122
+    second: tileset (1)_233
+  - first:
+      213: 6261565827366599695
+    second: tileset (1)_234
+  - first:
+      213: 6609452217353412719
+    second: tileset (1)_235
+  - first:
+      213: -6319863536373166235
+    second: tileset (1)_236
+  - first:
+      213: 3318105958437848480
+    second: tileset (1)_237
+  - first:
+      213: 2810765974848280582
+    second: tileset (1)_238
+  - first:
+      213: 319382277234521376
+    second: tileset (1)_239
+  - first:
+      213: 4277421982932580383
+    second: tileset (1)_240
+  - first:
+      213: -995192813551235052
+    second: tileset (1)_241
+  - first:
+      213: 7450536688044913768
+    second: tileset (1)_242
+  - first:
+      213: 486313854371765444
+    second: tileset (1)_243
+  - first:
+      213: 1448596708215468965
+    second: tileset (1)_244
+  - first:
+      213: -4561342543182348606
+    second: tileset (1)_245
+  - first:
+      213: -4022493528830100542
+    second: tileset (1)_246
+  - first:
+      213: 5364217511376204403
+    second: tileset (1)_247
+  - first:
+      213: -4558778299562951243
+    second: tileset (1)_248
+  - first:
+      213: 8484587876383302398
+    second: tileset (1)_249
+  - first:
+      213: -2745419419966031604
+    second: tileset (1)_250
+  - first:
+      213: 3868938864653862615
+    second: tileset (1)_251
+  - first:
+      213: 197405447616916975
+    second: tileset (1)_252
+  - first:
+      213: 8888287251391262604
+    second: tileset (1)_253
+  - first:
+      213: 7493582655917732320
+    second: tileset (1)_254
+  - first:
+      213: -3279084131102787349
+    second: tileset (1)_255
+  - first:
+      213: -3636330710864955969
+    second: tileset (1)_256
+  - first:
+      213: 6450547603083753350
+    second: tileset (1)_257
+  - first:
+      213: 6899270913059011802
+    second: tileset (1)_258
+  - first:
+      213: 2544979841842483010
+    second: tileset (1)_259
+  - first:
+      213: 4073098642674708679
+    second: tileset (1)_260
+  - first:
+      213: 7541875221446372409
+    second: tileset (1)_261
+  - first:
+      213: 8366194489608038861
+    second: tileset (1)_262
+  - first:
+      213: -552626909201842313
+    second: tileset (1)_263
+  - first:
+      213: -7071389904117571467
+    second: tileset (1)_264
+  - first:
+      213: 7017555531549817680
+    second: tileset (1)_265
+  - first:
+      213: 8129371601271328759
+    second: tileset (1)_266
+  - first:
+      213: 8030932584224694491
+    second: tileset (1)_267
+  - first:
+      213: -8462841345744811526
+    second: tileset (1)_268
+  - first:
+      213: 1078857919427852414
+    second: tileset (1)_269
+  - first:
+      213: -1086781878832644815
+    second: tileset (1)_270
+  - first:
+      213: -6450958609544881435
+    second: tileset (1)_271
+  - first:
+      213: -616933885123662431
+    second: tileset (1)_272
+  - first:
+      213: 3375905125684549789
+    second: tileset (1)_273
+  - first:
+      213: -1345687778351095354
+    second: tileset (1)_274
+  - first:
+      213: 5363523917901097571
+    second: tileset (1)_275
+  - first:
+      213: -4086773176175167051
+    second: tileset (1)_276
+  - first:
+      213: -3852533263866264886
+    second: tileset (1)_277
+  - first:
+      213: 3095626425640710384
+    second: tileset (1)_278
+  - first:
+      213: -945327957511355283
+    second: tileset (1)_279
+  - first:
+      213: 7358205798792045621
+    second: tileset (1)_280
+  - first:
+      213: -2304807117666013973
+    second: tileset (1)_281
+  - first:
+      213: -6382697180158016448
+    second: tileset (1)_282
+  - first:
+      213: 6744816243660355285
+    second: tileset (1)_283
+  - first:
+      213: -6364343852302762586
+    second: tileset (1)_284
+  - first:
+      213: 7024274036408314354
+    second: tileset (1)_285
+  - first:
+      213: 1380412727114733794
+    second: tileset (1)_286
+  - first:
+      213: -5362080569806251348
+    second: tileset (1)_287
+  - first:
+      213: 5423937576086781900
+    second: tileset (1)_288
+  - first:
+      213: 499994127797715226
+    second: tileset (1)_289
+  - first:
+      213: 930613743222883057
+    second: tileset (1)_290
+  - first:
+      213: 1402070287157113687
+    second: tileset (1)_291
+  - first:
+      213: -4268729612093966479
+    second: tileset (1)_292
+  - first:
+      213: -373140193206210186
+    second: tileset (1)_293
+  - first:
+      213: -3572024464770676711
+    second: tileset (1)_294
+  - first:
+      213: -6200403313871573244
+    second: tileset (1)_295
+  - first:
+      213: 5281003661880905728
+    second: tileset (1)_296
+  - first:
+      213: -2934808422061923761
+    second: tileset (1)_297
+  - first:
+      213: 2084000594821237680
+    second: tileset (1)_298
+  - first:
+      213: -1330657126147657948
+    second: tileset (1)_299
+  - first:
+      213: 3193911375310297856
+    second: tileset (1)_300
+  - first:
+      213: 6499134046565055583
+    second: tileset (1)_301
+  - first:
+      213: -2258369491998926601
+    second: tileset (1)_302
+  - first:
+      213: -964054515871642517
+    second: tileset (1)_303
+  - first:
+      213: -1515130195064736478
+    second: tileset (1)_304
+  - first:
+      213: 3661741802742137407
+    second: tileset (1)_305
+  - first:
+      213: 8370376363984334495
+    second: tileset (1)_306
+  - first:
+      213: -9221147603943737486
+    second: tileset (1)_307
+  - first:
+      213: -4842462453576853848
+    second: tileset (1)_308
+  - first:
+      213: 2436086408390079559
+    second: tileset (1)_309
+  - first:
+      213: -2754803927529481475
+    second: tileset (1)_310
+  - first:
+      213: -874089758238207736
+    second: tileset (1)_311
+  - first:
+      213: 4936228417006932579
+    second: tileset (1)_312
+  - first:
+      213: -8819195925444742750
+    second: tileset (1)_313
+  - first:
+      213: 6065482185218690991
+    second: tileset (1)_314
+  - first:
+      213: 1864487641134053734
+    second: tileset (1)_315
+  - first:
+      213: -5018750333234246477
+    second: tileset (1)_316
+  - first:
+      213: 1999684849708440641
+    second: tileset (1)_317
+  - first:
+      213: 228493967862866836
+    second: tileset (1)_318
+  - first:
+      213: 3732470457729267925
+    second: tileset (1)_319
+  - first:
+      213: 5941723649668303564
+    second: tileset (1)_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset (1)_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 32
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca4404cd2e357250800000000000000
+      internalID: 5941723649668303564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

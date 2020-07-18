@@ -1,0 +1,2519 @@
+fileFormatVersion: 2
+guid: 70ff9332755124948bfe9266e11a7f98
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3280751020740400271
+    second: magecity_0
+  - first:
+      213: 712098745279922090
+    second: magecity_1
+  - first:
+      213: -3421880717047633942
+    second: magecity_2
+  - first:
+      213: 8743738675560594818
+    second: magecity_3
+  - first:
+      213: 8914629902809588918
+    second: magecity_4
+  - first:
+      213: 8963886517163348597
+    second: magecity_5
+  - first:
+      213: -4499826970587564706
+    second: magecity_6
+  - first:
+      213: -2470767218446975184
+    second: magecity_7
+  - first:
+      213: -1441982511910441798
+    second: magecity_8
+  - first:
+      213: 7412455173543516134
+    second: magecity_9
+  - first:
+      213: -3891963416483603687
+    second: magecity_10
+  - first:
+      213: -8166825548119407610
+    second: magecity_11
+  - first:
+      213: 6897192308898692534
+    second: magecity_12
+  - first:
+      213: 7511782555380810464
+    second: magecity_13
+  - first:
+      213: 6095234598358546915
+    second: magecity_14
+  - first:
+      213: -6808230721255140164
+    second: magecity_15
+  - first:
+      213: 8429697821622141252
+    second: magecity_16
+  - first:
+      213: 5584747881176635195
+    second: magecity_17
+  - first:
+      213: 6009112941736530513
+    second: magecity_18
+  - first:
+      213: 3699806582052515183
+    second: magecity_19
+  - first:
+      213: 3988121072499364570
+    second: magecity_20
+  - first:
+      213: 166047862644792918
+    second: magecity_21
+  - first:
+      213: 1005738936508312987
+    second: magecity_22
+  - first:
+      213: 5746885810601310655
+    second: magecity_23
+  - first:
+      213: -6796265668101496064
+    second: magecity_24
+  - first:
+      213: -7787234628203180524
+    second: magecity_25
+  - first:
+      213: -1311983904745119640
+    second: magecity_26
+  - first:
+      213: -6916533568314075544
+    second: magecity_27
+  - first:
+      213: -667119215249030809
+    second: magecity_28
+  - first:
+      213: 5720727731970331451
+    second: magecity_29
+  - first:
+      213: 2626534091885077700
+    second: magecity_30
+  - first:
+      213: 4786238764139868039
+    second: magecity_31
+  - first:
+      213: 4920208579441688541
+    second: magecity_32
+  - first:
+      213: 536548758391616119
+    second: magecity_33
+  - first:
+      213: 174914472708192454
+    second: magecity_34
+  - first:
+      213: -7587912579283165609
+    second: magecity_35
+  - first:
+      213: -7596935903993151415
+    second: magecity_36
+  - first:
+      213: -4380389604519659561
+    second: magecity_37
+  - first:
+      213: 2719434138640851917
+    second: magecity_38
+  - first:
+      213: 4065935433630371713
+    second: magecity_39
+  - first:
+      213: -2687111711797654814
+    second: magecity_40
+  - first:
+      213: 6764692132473573959
+    second: magecity_41
+  - first:
+      213: -8685766758554451489
+    second: magecity_42
+  - first:
+      213: 2084126368794772163
+    second: magecity_43
+  - first:
+      213: -2973192009548651451
+    second: magecity_44
+  - first:
+      213: 3250839469427930265
+    second: magecity_45
+  - first:
+      213: -3105011257402233012
+    second: magecity_46
+  - first:
+      213: 3138746194670893500
+    second: magecity_47
+  - first:
+      213: 7129470653108109674
+    second: magecity_48
+  - first:
+      213: 9199691923075156053
+    second: magecity_49
+  - first:
+      213: -7173478824146653558
+    second: magecity_50
+  - first:
+      213: -3383753311086265647
+    second: magecity_51
+  - first:
+      213: -1956271083660249380
+    second: magecity_52
+  - first:
+      213: 8467794392220346826
+    second: magecity_53
+  - first:
+      213: 8843768881296429528
+    second: magecity_54
+  - first:
+      213: -7840369834787063674
+    second: magecity_55
+  - first:
+      213: -5750005424260892713
+    second: magecity_56
+  - first:
+      213: 8464892735984480326
+    second: magecity_57
+  - first:
+      213: 5075463628466697712
+    second: magecity_58
+  - first:
+      213: -8885176252037385234
+    second: magecity_59
+  - first:
+      213: -3767483044790344060
+    second: magecity_60
+  - first:
+      213: -2302785258084062113
+    second: magecity_61
+  - first:
+      213: 844397954744300598
+    second: magecity_62
+  - first:
+      213: 6429256283344234847
+    second: magecity_63
+  - first:
+      213: -5075190335234887481
+    second: magecity_64
+  - first:
+      213: -451803085625509624
+    second: magecity_65
+  - first:
+      213: -422877959831409457
+    second: magecity_66
+  - first:
+      213: -2742940884968505914
+    second: magecity_67
+  - first:
+      213: 8098015581083665697
+    second: magecity_68
+  - first:
+      213: -1864629094007653060
+    second: magecity_69
+  - first:
+      213: -736027216988564732
+    second: magecity_70
+  - first:
+      213: 3061998133118044606
+    second: magecity_71
+  - first:
+      213: 2369760463222551858
+    second: magecity_72
+  - first:
+      213: -5431218784682362356
+    second: magecity_73
+  - first:
+      213: -2498630755239182920
+    second: magecity_74
+  - first:
+      213: 1435287733090938182
+    second: magecity_75
+  - first:
+      213: -6621946811351238401
+    second: magecity_76
+  - first:
+      213: 3559160581952883633
+    second: magecity_77
+  - first:
+      213: -4451499427418813252
+    second: magecity_78
+  - first:
+      213: 2680002406584721374
+    second: magecity_79
+  - first:
+      213: 6636554548212298678
+    second: magecity_80
+  - first:
+      213: 4462478468152480623
+    second: magecity_81
+  - first:
+      213: -2113199009733111173
+    second: magecity_82
+  - first:
+      213: -5922070138760768255
+    second: magecity_83
+  - first:
+      213: 343941578402892168
+    second: magecity_84
+  - first:
+      213: 6264984800495561783
+    second: magecity_85
+  - first:
+      213: 5391519507284136928
+    second: magecity_86
+  - first:
+      213: 5839408235859050602
+    second: magecity_87
+  - first:
+      213: 4342558467456509013
+    second: magecity_88
+  - first:
+      213: 3799577714020404154
+    second: magecity_89
+  - first:
+      213: 8871538601985909860
+    second: magecity_90
+  - first:
+      213: 8870861834198224211
+    second: magecity_91
+  - first:
+      213: -58822935286100619
+    second: magecity_92
+  - first:
+      213: -7505181191901397159
+    second: magecity_93
+  - first:
+      213: -4132104369573503021
+    second: magecity_94
+  - first:
+      213: -2526502682199090823
+    second: magecity_95
+  - first:
+      213: 8353310048881314937
+    second: magecity_96
+  - first:
+      213: -6406805983316274792
+    second: magecity_97
+  - first:
+      213: 6208371037371306826
+    second: magecity_98
+  - first:
+      213: 6878697763466256514
+    second: magecity_99
+  - first:
+      213: -3859400904479532886
+    second: magecity_100
+  - first:
+      213: 5927973285051606121
+    second: magecity_101
+  - first:
+      213: 4166377321738042491
+    second: magecity_102
+  - first:
+      213: -4651782541336438329
+    second: magecity_103
+  - first:
+      213: -6825095580109352257
+    second: magecity_104
+  - first:
+      213: 7422530239934086287
+    second: magecity_105
+  - first:
+      213: 6151090269313976631
+    second: magecity_106
+  - first:
+      213: -7031476337291612788
+    second: magecity_107
+  - first:
+      213: 7768876762155979576
+    second: magecity_108
+  - first:
+      213: 648911753774488595
+    second: magecity_109
+  - first:
+      213: 8751103587374719114
+    second: magecity_110
+  - first:
+      213: 4653505521583742356
+    second: magecity_111
+  - first:
+      213: -7067537644549392886
+    second: magecity_112
+  - first:
+      213: -1743775458475695056
+    second: magecity_113
+  - first:
+      213: 1469965636220385903
+    second: magecity_114
+  - first:
+      213: -6250391125758508344
+    second: magecity_115
+  - first:
+      213: 1499287303766398318
+    second: magecity_116
+  - first:
+      213: 7341225809190528712
+    second: magecity_117
+  - first:
+      213: -1370340230674386074
+    second: magecity_118
+  - first:
+      213: 6770810002107102838
+    second: magecity_119
+  - first:
+      213: -2938118094633362374
+    second: magecity_120
+  - first:
+      213: -7417748607149085500
+    second: magecity_121
+  - first:
+      213: 6016097517403430086
+    second: magecity_122
+  - first:
+      213: -6062536349320540992
+    second: magecity_123
+  - first:
+      213: -471646009981805683
+    second: magecity_124
+  - first:
+      213: -5792951027840296622
+    second: magecity_125
+  - first:
+      213: 4506823150341763882
+    second: magecity_126
+  - first:
+      213: 6536407006506970564
+    second: magecity_127
+  - first:
+      213: 5105528236991497110
+    second: magecity_128
+  - first:
+      213: -1395393515190922251
+    second: magecity_129
+  - first:
+      213: 5092203576894888242
+    second: magecity_130
+  - first:
+      213: 3131296200267465724
+    second: magecity_131
+  - first:
+      213: -7930471469726083073
+    second: magecity_132
+  - first:
+      213: -6171334844869897821
+    second: magecity_133
+  - first:
+      213: -8106932007838091926
+    second: magecity_134
+  - first:
+      213: 2285631536406983782
+    second: magecity_135
+  - first:
+      213: 2089809863514725160
+    second: magecity_136
+  - first:
+      213: 4992153191962235300
+    second: magecity_137
+  - first:
+      213: 720457757615496043
+    second: magecity_138
+  - first:
+      213: 4124926646188977260
+    second: magecity_139
+  - first:
+      213: 4941760445758907778
+    second: magecity_140
+  - first:
+      213: -6939866766184594531
+    second: magecity_141
+  - first:
+      213: 6176043620181170681
+    second: magecity_142
+  - first:
+      213: 8615198990550809319
+    second: magecity_143
+  - first:
+      213: 5477366896203815093
+    second: magecity_144
+  - first:
+      213: 8265300376772734424
+    second: magecity_145
+  - first:
+      213: 2924450855726831850
+    second: magecity_146
+  - first:
+      213: -4403121481836775959
+    second: magecity_147
+  - first:
+      213: 6937950272441309550
+    second: magecity_148
+  - first:
+      213: -6278174434976342106
+    second: magecity_149
+  - first:
+      213: 5896040288001105688
+    second: magecity_150
+  - first:
+      213: 728841714439421763
+    second: magecity_151
+  - first:
+      213: -3503023402557677528
+    second: magecity_152
+  - first:
+      213: 2940230043924282363
+    second: magecity_153
+  - first:
+      213: 9172239936265924320
+    second: magecity_154
+  - first:
+      213: -1376685913145605248
+    second: magecity_155
+  - first:
+      213: 6743898696264159564
+    second: magecity_156
+  - first:
+      213: -6413094695641737336
+    second: magecity_157
+  - first:
+      213: -3737396491368675313
+    second: magecity_158
+  - first:
+      213: 1759157995768474627
+    second: magecity_159
+  - first:
+      213: 8831038138542158511
+    second: magecity_160
+  - first:
+      213: -7920756606204427994
+    second: magecity_161
+  - first:
+      213: -1634525604990212052
+    second: magecity_162
+  - first:
+      213: 6447623104931597169
+    second: magecity_163
+  - first:
+      213: 5308373251805392003
+    second: magecity_164
+  - first:
+      213: -3872311590713417421
+    second: magecity_165
+  - first:
+      213: -6422094953059219309
+    second: magecity_166
+  - first:
+      213: 2087918657265108831
+    second: magecity_167
+  - first:
+      213: 7670065701226100423
+    second: magecity_168
+  - first:
+      213: -1504528053381846778
+    second: magecity_169
+  - first:
+      213: -6811075525487817726
+    second: magecity_170
+  - first:
+      213: 1082526120250985779
+    second: magecity_171
+  - first:
+      213: 3610022233582372702
+    second: magecity_172
+  - first:
+      213: -52569762044955585
+    second: magecity_173
+  - first:
+      213: 263250864849857506
+    second: magecity_174
+  - first:
+      213: 2583514502247036221
+    second: magecity_175
+  - first:
+      213: 4755958044344811961
+    second: magecity_176
+  - first:
+      213: 4102859477957739523
+    second: magecity_177
+  - first:
+      213: 3169622576924439974
+    second: magecity_178
+  - first:
+      213: -343013479392435935
+    second: magecity_179
+  - first:
+      213: -1997483405984607315
+    second: magecity_180
+  - first:
+      213: -7400815995576284947
+    second: magecity_181
+  - first:
+      213: -8575060811655606557
+    second: magecity_182
+  - first:
+      213: -8309785984024987530
+    second: magecity_183
+  - first:
+      213: -9082518781183759372
+    second: magecity_184
+  - first:
+      213: 2732062367422489937
+    second: magecity_185
+  - first:
+      213: 8077778626915607022
+    second: magecity_186
+  - first:
+      213: -1173515605302149540
+    second: magecity_187
+  - first:
+      213: 4841050604254714842
+    second: magecity_188
+  - first:
+      213: 5983230515448099603
+    second: magecity_189
+  - first:
+      213: 1423066663002989809
+    second: magecity_190
+  - first:
+      213: 43601502660436239
+    second: magecity_191
+  - first:
+      213: 7897836024867155026
+    second: magecity_192
+  - first:
+      213: -6251211766300607530
+    second: magecity_193
+  - first:
+      213: 516495062615112133
+    second: magecity_194
+  - first:
+      213: 1001391079819214637
+    second: magecity_195
+  - first:
+      213: -8656310769643174172
+    second: magecity_196
+  - first:
+      213: 535083317844222980
+    second: magecity_197
+  - first:
+      213: 9037821644344094428
+    second: magecity_198
+  - first:
+      213: 6700706829256386082
+    second: magecity_199
+  - first:
+      213: 7921844517466413837
+    second: magecity_200
+  - first:
+      213: -7360816841573816744
+    second: magecity_201
+  - first:
+      213: 6447514379915569901
+    second: magecity_202
+  - first:
+      213: -7481074683546559163
+    second: magecity_203
+  - first:
+      213: -2585848969332556573
+    second: magecity_204
+  - first:
+      213: -400048377621828142
+    second: magecity_205
+  - first:
+      213: 8780002220621261416
+    second: magecity_206
+  - first:
+      213: 8083704070869444357
+    second: magecity_207
+  - first:
+      213: 2166918573203225908
+    second: magecity_208
+  - first:
+      213: 7402623398646349871
+    second: magecity_209
+  - first:
+      213: -33306330891811354
+    second: magecity_210
+  - first:
+      213: 4098686944034254180
+    second: magecity_211
+  - first:
+      213: 5294107984370793680
+    second: magecity_212
+  - first:
+      213: 7729724931780900706
+    second: magecity_213
+  - first:
+      213: -321155404123703928
+    second: magecity_214
+  - first:
+      213: 1163678119393161562
+    second: magecity_215
+  - first:
+      213: 848946230242540461
+    second: magecity_216
+  - first:
+      213: 4751634421278045503
+    second: magecity_217
+  - first:
+      213: -8627792038297553843
+    second: magecity_218
+  - first:
+      213: 7376029746410863911
+    second: magecity_219
+  - first:
+      213: 4411013620351421378
+    second: magecity_220
+  - first:
+      213: 7041559008425609467
+    second: magecity_221
+  - first:
+      213: -2545552662842266457
+    second: magecity_222
+  - first:
+      213: -4413697359556444544
+    second: magecity_223
+  - first:
+      213: -1510146381984238052
+    second: magecity_224
+  - first:
+      213: -4283069274886514164
+    second: magecity_225
+  - first:
+      213: -6980377946192026151
+    second: magecity_226
+  - first:
+      213: -261524541515418619
+    second: magecity_227
+  - first:
+      213: -4175508802831160931
+    second: magecity_228
+  - first:
+      213: -7295967269800620686
+    second: magecity_229
+  - first:
+      213: 3166714206505715146
+    second: magecity_230
+  - first:
+      213: 3243823548284219614
+    second: magecity_231
+  - first:
+      213: -6988999852969805312
+    second: magecity_232
+  - first:
+      213: -4496019723151112367
+    second: magecity_233
+  - first:
+      213: -5226231354215277963
+    second: magecity_234
+  - first:
+      213: -8427324087307383858
+    second: magecity_235
+  - first:
+      213: 8727662925919325779
+    second: magecity_236
+  - first:
+      213: 8052852161988224971
+    second: magecity_237
+  - first:
+      213: 3512176480483106469
+    second: magecity_238
+  - first:
+      213: -7243828875835388084
+    second: magecity_239
+  - first:
+      213: -7197358754379963266
+    second: magecity_240
+  - first:
+      213: -3204047757063335394
+    second: magecity_241
+  - first:
+      213: -6736887080456350259
+    second: magecity_242
+  - first:
+      213: 6880313398917571488
+    second: magecity_243
+  - first:
+      213: 8477019256337733
+    second: magecity_244
+  - first:
+      213: -8767728729667723335
+    second: magecity_245
+  - first:
+      213: 3875206530033325958
+    second: magecity_246
+  - first:
+      213: -520373986588726473
+    second: magecity_247
+  - first:
+      213: -3701227482657392627
+    second: magecity_248
+  - first:
+      213: -3626055877555402598
+    second: magecity_249
+  - first:
+      213: -2096809726859147529
+    second: magecity_250
+  - first:
+      213: 392631399067654546
+    second: magecity_251
+  - first:
+      213: -9176793511730192227
+    second: magecity_252
+  - first:
+      213: 3618827371084253575
+    second: magecity_253
+  - first:
+      213: -5362871869867885940
+    second: magecity_254
+  - first:
+      213: 8493321561442875994
+    second: magecity_255
+  - first:
+      213: 3759059191297979225
+    second: magecity_256
+  - first:
+      213: -6732035349254090156
+    second: magecity_257
+  - first:
+      213: -5851715871663997132
+    second: magecity_258
+  - first:
+      213: -3549683177549161519
+    second: magecity_259
+  - first:
+      213: 1548482284747721489
+    second: magecity_260
+  - first:
+      213: -1002528381042349464
+    second: magecity_261
+  - first:
+      213: -3220039994346242311
+    second: magecity_262
+  - first:
+      213: -3483853566038101179
+    second: magecity_263
+  - first:
+      213: 5340401345951016218
+    second: magecity_264
+  - first:
+      213: -6118798305551122666
+    second: magecity_265
+  - first:
+      213: 9201617530312693920
+    second: magecity_266
+  - first:
+      213: 2967795631584008913
+    second: magecity_267
+  - first:
+      213: 6714456190331333466
+    second: magecity_268
+  - first:
+      213: -8675971528850353589
+    second: magecity_269
+  - first:
+      213: 690151074882338038
+    second: magecity_270
+  - first:
+      213: -1499668511809674114
+    second: magecity_271
+  - first:
+      213: -2914418684860160140
+    second: magecity_272
+  - first:
+      213: -2325684576429514222
+    second: magecity_273
+  - first:
+      213: 2940224684999342603
+    second: magecity_274
+  - first:
+      213: -5009049271360012433
+    second: magecity_275
+  - first:
+      213: 8996210055276846586
+    second: magecity_276
+  - first:
+      213: 3201506545561619374
+    second: magecity_277
+  - first:
+      213: -2931924537262803499
+    second: magecity_278
+  - first:
+      213: -3033597030323142960
+    second: magecity_279
+  - first:
+      213: 8531657139986532055
+    second: magecity_280
+  - first:
+      213: -4120710689771363646
+    second: magecity_281
+  - first:
+      213: -158257335150403910
+    second: magecity_282
+  - first:
+      213: 3550580769435221840
+    second: magecity_283
+  - first:
+      213: -1611772280411821331
+    second: magecity_284
+  - first:
+      213: 74820497162520172
+    second: magecity_285
+  - first:
+      213: 4517536572386252643
+    second: magecity_286
+  - first:
+      213: -7583368494765655404
+    second: magecity_287
+  - first:
+      213: 6791716669340281132
+    second: magecity_288
+  - first:
+      213: -2779707691160353879
+    second: magecity_289
+  - first:
+      213: -2324902754777208474
+    second: magecity_290
+  - first:
+      213: -3862145953181843056
+    second: magecity_291
+  - first:
+      213: 2121390080026311241
+    second: magecity_292
+  - first:
+      213: -2767709183191501891
+    second: magecity_293
+  - first:
+      213: -4480226605794773353
+    second: magecity_294
+  - first:
+      213: 6812849390513859537
+    second: magecity_295
+  - first:
+      213: -6203657189818462912
+    second: magecity_296
+  - first:
+      213: -2244306000998825887
+    second: magecity_297
+  - first:
+      213: 5665334963093150829
+    second: magecity_298
+  - first:
+      213: 3092526385651393207
+    second: magecity_299
+  - first:
+      213: 4701654768183215298
+    second: magecity_300
+  - first:
+      213: 753989050315229888
+    second: magecity_301
+  - first:
+      213: 7086835599102508622
+    second: magecity_302
+  - first:
+      213: -2502746965017397377
+    second: magecity_303
+  - first:
+      213: -2049961433886057809
+    second: magecity_304
+  - first:
+      213: 720547901027204631
+    second: magecity_305
+  - first:
+      213: -3375310072278514572
+    second: magecity_306
+  - first:
+      213: -4197430667232112661
+    second: magecity_307
+  - first:
+      213: -4127265048197713345
+    second: magecity_308
+  - first:
+      213: 219492851147141612
+    second: magecity_309
+  - first:
+      213: -223471683237765455
+    second: magecity_310
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magecity_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1418
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ba44c245e6872d0800000000000000
+      internalID: -3280751020740400271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1418
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf39653902e1e900800000000000000
+      internalID: 712098745279922090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abca04d9b8c0dfbe0800000000000000
+      internalID: -1441982511910441798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7519c15b45ed660800000000000000
+      internalID: 7412455173543516134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1250210144ee16070800000000000000
+      internalID: 8098015581083665697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_69
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3db0ddd7b18f16e0800000000000000
+      internalID: -1864629094007653060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4039062552b19c5f0800000000000000
+      internalID: -736027216988564732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_71
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9096334176e7a20800000000000000
+      internalID: 3061998133118044606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1130
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2353525f59413e020800000000000000
+      internalID: 2369760463222551858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1098
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8f0eba57e1a14a0800000000000000
+      internalID: -6621946811351238401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1098
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbcfd921bda46130800000000000000
+      internalID: 3559160581952883633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_78
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1098
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcc8d61bd81932c0800000000000000
+      internalID: -4451499427418813252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_79
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1098
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf9ca15df7413520800000000000000
+      internalID: 2680002406584721374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1098
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b372ba1337c91c50800000000000000
+      internalID: 6636554548212298678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1066
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72962562b86ca2e0800000000000000
+      internalID: -2113199009733111173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1066
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1055734d59490dda0800000000000000
+      internalID: -5922070138760768255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1066
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88901341b0de5c400800000000000000
+      internalID: 343941578402892168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_182
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 586
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee05e9df934ff880800000000000000
+      internalID: -8575060811655606557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_183
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 586
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678bba6bca5bdac80800000000000000
+      internalID: -8309785984024987530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_184
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 586
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb6abd2a4964f180800000000000000
+      internalID: -9082518781183759372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_185
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 586
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1552e628f3c3ae520800000000000000
+      internalID: 2732062367422489937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_186
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 586
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee12c8ffcd80a1070800000000000000
+      internalID: 8077778626915607022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_187
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 554
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e769746c5d6bfe0800000000000000
+      internalID: -1173515605302149540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_188
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 554
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbda4620edde2340800000000000000
+      internalID: 4841050604254714842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_189
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 554
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313bf8a0474b80350800000000000000
+      internalID: 5983230515448099603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_190
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 554
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f46efb179fbfb310800000000000000
+      internalID: 1423066663002989809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_191
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 554
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01afbde557ea9000800000000000000
+      internalID: 43601502660436239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_193
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 522
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbf8e5d40c3f39a0800000000000000
+      internalID: -6251211766300607530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_194
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 522
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9ba6fd585fa2700800000000000000
+      internalID: 516495062615112133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_195
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 522
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f7ed9a1e7a5ed00800000000000000
+      internalID: 1001391079819214637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_196
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 522
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6c706d73b9ed780800000000000000
+      internalID: -8656310769643174172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_197
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 522
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404a75d417ffc6700800000000000000
+      internalID: 535083317844222980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_198
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 490
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde677ea6eacc6d70800000000000000
+      internalID: 9037821644344094428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_199
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 490
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2266cddfb51bdfc50800000000000000
+      internalID: 6700706829256386082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_200
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 490
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b167ded9b00fd60800000000000000
+      internalID: 7921844517466413837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_201
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 490
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856a745f41029d990800000000000000
+      internalID: -7360816841573816744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_202
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 490
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea271b0b2c2a7950800000000000000
+      internalID: 6447514379915569901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_226
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5e047dd37b02f90800000000000000
+      internalID: -6980377946192026151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_227
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5043deaa0d0ee5cf0800000000000000
+      internalID: -261524541515418619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_228
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d996bbadddc9d06c0800000000000000
+      internalID: -4175508802831160931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_229
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d48ae7c648fba90800000000000000
+      internalID: -7295967269800620686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_230
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5c4f7facd62fb20800000000000000
+      internalID: 3166714206505715146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_234
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a5df9e542b877b0800000000000000
+      internalID: -5226231354215277963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_235
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 330
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb43f874612c0b80800000000000000
+      internalID: -8427324087307383858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_236
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 330
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e84c2a033ee1970800000000000000
+      internalID: 8727662925919325779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_237
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 330
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc76b00206a71cf60800000000000000
+      internalID: 8052852161988224971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_238
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 330
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae5da396e1cdb030800000000000000
+      internalID: 3512176480483106469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_239
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 330
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f4d125400c87b90800000000000000
+      internalID: -7243828875835388084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_244
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5453789ddcd1e1000800000000000000
+      internalID: 8477019256337733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_245
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf1b2d7c25c25680800000000000000
+      internalID: -8767728729667723335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_246
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68719edaecf77c530800000000000000
+      internalID: 3875206530033325958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_247
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b6603cd9247c8f0800000000000000
+      internalID: -520373986588726473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_252
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90663cfbea75a080800000000000000
+      internalID: -9176793511730192227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_253
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78900f41258a83230800000000000000
+      internalID: 3618827371084253575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_254
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8af694b2704395b0800000000000000
+      internalID: -5362871869867885940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_255
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5af7f8e5f65ed570800000000000000
+      internalID: 8493321561442875994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_290
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6696d2c23494cbfd0800000000000000
+      internalID: -2324902754777208474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_291
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09142e5d7b6e66ac0800000000000000
+      internalID: -3862145953181843056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_292
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a7106c901b07d10800000000000000
+      internalID: 2121390080026311241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_293
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3b84e692f1799d0800000000000000
+      internalID: -2767709183191501891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_294
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7963958a3a903d1c0800000000000000
+      internalID: -4480226605794773353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_298
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c94c8f1205f9e40800000000000000
+      internalID: 5665334963093150829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_299
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b22643ec5cdaea20800000000000000
+      internalID: 3092526385651393207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_300
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4051ae912af3140800000000000000
+      internalID: 4701654768183215298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_301
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cac294eb05b67a00800000000000000
+      internalID: 753989050315229888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_302
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ef8120e6f795260800000000000000
+      internalID: 7086835599102508622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_303
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77737b35e4744dd0800000000000000
+      internalID: -2502746965017397377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_306
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4748a075f5d7821d0800000000000000
+      internalID: -3375310072278514572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_307
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 42
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef8c4e0c0bbfb5c0800000000000000
+      internalID: -4197430667232112661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magecity_308
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 42
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f323a4c4e4209b6c0800000000000000
+      internalID: -4127265048197713345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

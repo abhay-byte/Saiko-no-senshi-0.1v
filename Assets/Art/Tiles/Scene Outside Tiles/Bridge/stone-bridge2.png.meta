@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: e3a529d901db8724fa273443f2ef636d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4712968240508479573
+    second: stone-bridge2_0
+  - first:
+      213: -7400684117232097061
+    second: stone-bridge2_1
+  - first:
+      213: 5373476317925665202
+    second: stone-bridge2_2
+  - first:
+      213: -5268527027991596714
+    second: stone-bridge2_3
+  - first:
+      213: -7125085275510826000
+    second: stone-bridge2_4
+  - first:
+      213: -579209935087659338
+    second: stone-bridge2_5
+  - first:
+      213: -3632687678832635892
+    second: stone-bridge2_6
+  - first:
+      213: 7598681244601540606
+    second: stone-bridge2_7
+  - first:
+      213: 8107748004435836507
+    second: stone-bridge2_8
+  - first:
+      213: -5301625606720704344
+    second: stone-bridge2_9
+  - first:
+      213: -665080967032851654
+    second: stone-bridge2_10
+  - first:
+      213: -5842500490438823207
+    second: stone-bridge2_11
+  - first:
+      213: -170387389081788100
+    second: stone-bridge2_12
+  - first:
+      213: -9150578804865595477
+    second: stone-bridge2_13
+  - first:
+      213: -4250598601476780880
+    second: stone-bridge2_14
+  - first:
+      213: -7276323134928127923
+    second: stone-bridge2_15
+  - first:
+      213: 412174432109418711
+    second: stone-bridge2_16
+  - first:
+      213: 4461682294372223601
+    second: stone-bridge2_17
+  - first:
+      213: -1806526613680207689
+    second: stone-bridge2_18
+  - first:
+      213: -251438388661779685
+    second: stone-bridge2_19
+  - first:
+      213: -5825711279558485363
+    second: stone-bridge2_20
+  - first:
+      213: 4561808441133693569
+    second: stone-bridge2_21
+  - first:
+      213: 8611842479834112990
+    second: stone-bridge2_22
+  - first:
+      213: -171095303459358163
+    second: stone-bridge2_23
+  - first:
+      213: 1625418207625056128
+    second: stone-bridge2_24
+  - first:
+      213: -5676492555361161103
+    second: stone-bridge2_25
+  - first:
+      213: 5294588736076042663
+    second: stone-bridge2_26
+  - first:
+      213: 8080915420900359941
+    second: stone-bridge2_27
+  - first:
+      213: 4503653581117260540
+    second: stone-bridge2_28
+  - first:
+      213: -5894021673231974373
+    second: stone-bridge2_29
+  - first:
+      213: 215112101227403199
+    second: stone-bridge2_30
+  - first:
+      213: 4771760637135337231
+    second: stone-bridge2_31
+  - first:
+      213: 1018108569166223691
+    second: stone-bridge2_32
+  - first:
+      213: 1691070235768520018
+    second: stone-bridge2_33
+  - first:
+      213: 2377589141547595518
+    second: stone-bridge2_34
+  - first:
+      213: -4933234465205448278
+    second: stone-bridge2_35
+  - first:
+      213: -7771780795044789222
+    second: stone-bridge2_36
+  - first:
+      213: 5788457176983517633
+    second: stone-bridge2_37
+  - first:
+      213: 6252477525303475641
+    second: stone-bridge2_38
+  - first:
+      213: 1756239438193889793
+    second: stone-bridge2_39
+  - first:
+      213: -7296587541684909114
+    second: stone-bridge2_40
+  - first:
+      213: 6035160852720963414
+    second: stone-bridge2_41
+  - first:
+      213: -4327217620905207771
+    second: stone-bridge2_42
+  - first:
+      213: -7239611059192201760
+    second: stone-bridge2_43
+  - first:
+      213: 7238024803321085407
+    second: stone-bridge2_44
+  - first:
+      213: -1764861128855731702
+    second: stone-bridge2_45
+  - first:
+      213: 1301181534461655802
+    second: stone-bridge2_46
+  - first:
+      213: 5170744278968989648
+    second: stone-bridge2_47
+  - first:
+      213: 1144275044010614668
+    second: stone-bridge2_48
+  - first:
+      213: 7797086209252604624
+    second: stone-bridge2_49
+  - first:
+      213: -4751044428804940663
+    second: stone-bridge2_50
+  - first:
+      213: -4148497037177868740
+    second: stone-bridge2_51
+  - first:
+      213: 1584024232664653350
+    second: stone-bridge2_52
+  - first:
+      213: 2714669108400321608
+    second: stone-bridge2_53
+  - first:
+      213: -4297059840218201669
+    second: stone-bridge2_54
+  - first:
+      213: 3326774752970490270
+    second: stone-bridge2_55
+  - first:
+      213: 1052540912311461243
+    second: stone-bridge2_56
+  - first:
+      213: 4628422146837524951
+    second: stone-bridge2_57
+  - first:
+      213: -6837412623217144749
+    second: stone-bridge2_58
+  - first:
+      213: 5810495026131686797
+    second: stone-bridge2_59
+  - first:
+      213: 410119039881781136
+    second: stone-bridge2_60
+  - first:
+      213: 3133378213415062689
+    second: stone-bridge2_61
+  - first:
+      213: 7936345201777067407
+    second: stone-bridge2_62
+  - first:
+      213: 2671463470367722803
+    second: stone-bridge2_63
+  - first:
+      213: -5642240965919339622
+    second: stone-bridge2_64
+  - first:
+      213: -2938676905614332705
+    second: stone-bridge2_65
+  - first:
+      213: 4862323372489347840
+    second: stone-bridge2_66
+  - first:
+      213: -3598386723592174874
+    second: stone-bridge2_67
+  - first:
+      213: -4846247069869610425
+    second: stone-bridge2_0
+  - first:
+      213: -2263338831909528823
+    second: stone-bridge2_1
+  - first:
+      213: -5391197221952429832
+    second: stone-bridge2_2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stone-bridge2_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 256
+        width: 272
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ae4aa67fbaebcb0800000000000000
+      internalID: -4846247069869610425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone-bridge2_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 211
+        width: 296
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b5fa5f2510790e0800000000000000
+      internalID: -2263338831909528823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone-bridge2_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0e37fb0be9e25b0800000000000000
+      internalID: -5391197221952429832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone-bridge2_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 161
+        width: 256
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6513407f49e62e6b0800000000000000
+      internalID: -5268527027991596714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone-bridge2_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 128
+        width: 55
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb9fc631bc9e1d90800000000000000
+      internalID: -7125085275510826000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

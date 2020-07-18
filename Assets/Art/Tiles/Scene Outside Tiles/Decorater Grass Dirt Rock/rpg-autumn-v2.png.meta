@@ -1,0 +1,2672 @@
+fileFormatVersion: 2
+guid: f0c42760a02a0474a8c21e19ae03c6ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5066390463866437408
+    second: rpg-autumn-v2_0
+  - first:
+      213: -3607801826258424150
+    second: rpg-autumn-v2_1
+  - first:
+      213: -9147045972403529744
+    second: rpg-autumn-v2_2
+  - first:
+      213: -544753255456963882
+    second: rpg-autumn-v2_3
+  - first:
+      213: 2228954704352653977
+    second: rpg-autumn-v2_4
+  - first:
+      213: 6995017000952096227
+    second: rpg-autumn-v2_5
+  - first:
+      213: -3713380640353314266
+    second: rpg-autumn-v2_6
+  - first:
+      213: 5181454206840418130
+    second: rpg-autumn-v2_7
+  - first:
+      213: 3500401829707081077
+    second: rpg-autumn-v2_8
+  - first:
+      213: -8682607691499374949
+    second: rpg-autumn-v2_9
+  - first:
+      213: 1545528649065073585
+    second: rpg-autumn-v2_10
+  - first:
+      213: -6321498892233062603
+    second: rpg-autumn-v2_11
+  - first:
+      213: 929591485350082514
+    second: rpg-autumn-v2_12
+  - first:
+      213: -3097918017103141770
+    second: rpg-autumn-v2_13
+  - first:
+      213: -1750586174865405720
+    second: rpg-autumn-v2_14
+  - first:
+      213: -8834821133231693555
+    second: rpg-autumn-v2_15
+  - first:
+      213: 4700313883273618645
+    second: rpg-autumn-v2_16
+  - first:
+      213: 6595363745396338989
+    second: rpg-autumn-v2_17
+  - first:
+      213: 4808797289573511996
+    second: rpg-autumn-v2_18
+  - first:
+      213: 7127734654972687295
+    second: rpg-autumn-v2_19
+  - first:
+      213: -6201724905058000003
+    second: rpg-autumn-v2_20
+  - first:
+      213: -5679463894682830
+    second: rpg-autumn-v2_21
+  - first:
+      213: 3960862819558597786
+    second: rpg-autumn-v2_22
+  - first:
+      213: 9155929411862413306
+    second: rpg-autumn-v2_23
+  - first:
+      213: 5553068075382803258
+    second: rpg-autumn-v2_24
+  - first:
+      213: 8027790971670681718
+    second: rpg-autumn-v2_25
+  - first:
+      213: -7773480900179076036
+    second: rpg-autumn-v2_26
+  - first:
+      213: -2445589214354820740
+    second: rpg-autumn-v2_27
+  - first:
+      213: -8714514457917492237
+    second: rpg-autumn-v2_28
+  - first:
+      213: 7366664168617793524
+    second: rpg-autumn-v2_29
+  - first:
+      213: 2348894857023160718
+    second: rpg-autumn-v2_30
+  - first:
+      213: 4422025231722241631
+    second: rpg-autumn-v2_31
+  - first:
+      213: 6721182563895683396
+    second: rpg-autumn-v2_32
+  - first:
+      213: 5601255856872748277
+    second: rpg-autumn-v2_33
+  - first:
+      213: -7431637979187515190
+    second: rpg-autumn-v2_34
+  - first:
+      213: -2422064802696277848
+    second: rpg-autumn-v2_35
+  - first:
+      213: -6463522529945000781
+    second: rpg-autumn-v2_36
+  - first:
+      213: -7252538746648905531
+    second: rpg-autumn-v2_37
+  - first:
+      213: 5172791155626428662
+    second: rpg-autumn-v2_38
+  - first:
+      213: 2017192284696850465
+    second: rpg-autumn-v2_39
+  - first:
+      213: -5637250214314659563
+    second: rpg-autumn-v2_40
+  - first:
+      213: -3468551857616960200
+    second: rpg-autumn-v2_41
+  - first:
+      213: -600706455276822807
+    second: rpg-autumn-v2_42
+  - first:
+      213: 8891134608488970455
+    second: rpg-autumn-v2_43
+  - first:
+      213: -7129577430607166372
+    second: rpg-autumn-v2_44
+  - first:
+      213: -5009608690544672568
+    second: rpg-autumn-v2_45
+  - first:
+      213: -7885043992949866079
+    second: rpg-autumn-v2_46
+  - first:
+      213: -9189539373515402325
+    second: rpg-autumn-v2_47
+  - first:
+      213: -4865975596377028330
+    second: rpg-autumn-v2_48
+  - first:
+      213: -4589142240539362168
+    second: rpg-autumn-v2_49
+  - first:
+      213: 1028902431658996431
+    second: rpg-autumn-v2_50
+  - first:
+      213: -6914868901292621973
+    second: rpg-autumn-v2_51
+  - first:
+      213: 5464753150397965938
+    second: rpg-autumn-v2_52
+  - first:
+      213: -302796770520740647
+    second: rpg-autumn-v2_53
+  - first:
+      213: -7178297913876553580
+    second: rpg-autumn-v2_54
+  - first:
+      213: -1551779934064297539
+    second: rpg-autumn-v2_55
+  - first:
+      213: -8664845343771076737
+    second: rpg-autumn-v2_56
+  - first:
+      213: -4153186288600936809
+    second: rpg-autumn-v2_57
+  - first:
+      213: -6526696650856907023
+    second: rpg-autumn-v2_58
+  - first:
+      213: -3398360731333145060
+    second: rpg-autumn-v2_59
+  - first:
+      213: 8200593577679940088
+    second: rpg-autumn-v2_60
+  - first:
+      213: -2498661067460203932
+    second: rpg-autumn-v2_61
+  - first:
+      213: -655703174241375393
+    second: rpg-autumn-v2_62
+  - first:
+      213: -5597685677893769102
+    second: rpg-autumn-v2_63
+  - first:
+      213: 6529469970511406044
+    second: rpg-autumn-v2_64
+  - first:
+      213: 3318151139058768133
+    second: rpg-autumn-v2_65
+  - first:
+      213: 8758061559687611184
+    second: rpg-autumn-v2_66
+  - first:
+      213: 2533272781111658556
+    second: rpg-autumn-v2_67
+  - first:
+      213: -1553883369740273818
+    second: rpg-autumn-v2_68
+  - first:
+      213: -4774253240165347929
+    second: rpg-autumn-v2_69
+  - first:
+      213: -33401792855448591
+    second: rpg-autumn-v2_70
+  - first:
+      213: -3711073089811438523
+    second: rpg-autumn-v2_71
+  - first:
+      213: -5631147047425857098
+    second: rpg-autumn-v2_72
+  - first:
+      213: -6288655864575612996
+    second: rpg-autumn-v2_73
+  - first:
+      213: -1258203862714181054
+    second: rpg-autumn-v2_74
+  - first:
+      213: -2662627171854193080
+    second: rpg-autumn-v2_75
+  - first:
+      213: 6925090137488706237
+    second: rpg-autumn-v2_76
+  - first:
+      213: -5118208343368670787
+    second: rpg-autumn-v2_77
+  - first:
+      213: 8090639266914635112
+    second: rpg-autumn-v2_78
+  - first:
+      213: -4007266977435200683
+    second: rpg-autumn-v2_79
+  - first:
+      213: -3123276461441177549
+    second: rpg-autumn-v2_80
+  - first:
+      213: -3807916521921166491
+    second: rpg-autumn-v2_81
+  - first:
+      213: 8633815695403434864
+    second: rpg-autumn-v2_82
+  - first:
+      213: 2027908235205982208
+    second: rpg-autumn-v2_83
+  - first:
+      213: 9067357202795539449
+    second: rpg-autumn-v2_84
+  - first:
+      213: -4969388787726350467
+    second: rpg-autumn-v2_85
+  - first:
+      213: -1215650725652842414
+    second: rpg-autumn-v2_86
+  - first:
+      213: -3782169323445411481
+    second: rpg-autumn-v2_87
+  - first:
+      213: -7821675306565356441
+    second: rpg-autumn-v2_88
+  - first:
+      213: -1535521432356477565
+    second: rpg-autumn-v2_89
+  - first:
+      213: -2560370779010682151
+    second: rpg-autumn-v2_90
+  - first:
+      213: 6253609554097741426
+    second: rpg-autumn-v2_91
+  - first:
+      213: 7620560497682746544
+    second: rpg-autumn-v2_92
+  - first:
+      213: 2594354912611225433
+    second: rpg-autumn-v2_93
+  - first:
+      213: 8929283162464423080
+    second: rpg-autumn-v2_94
+  - first:
+      213: -4727312649398254033
+    second: rpg-autumn-v2_95
+  - first:
+      213: 5907616642843597345
+    second: rpg-autumn-v2_96
+  - first:
+      213: 9110898424931350871
+    second: rpg-autumn-v2_97
+  - first:
+      213: -6416716738065889027
+    second: rpg-autumn-v2_98
+  - first:
+      213: 174822731568935525
+    second: rpg-autumn-v2_99
+  - first:
+      213: -2704259370509948537
+    second: rpg-autumn-v2_100
+  - first:
+      213: 8759802918680463738
+    second: rpg-autumn-v2_101
+  - first:
+      213: -3329003379525984549
+    second: rpg-autumn-v2_102
+  - first:
+      213: -6810881294580579190
+    second: rpg-autumn-v2_103
+  - first:
+      213: -4261828532829356766
+    second: rpg-autumn-v2_104
+  - first:
+      213: 668083292393581473
+    second: rpg-autumn-v2_105
+  - first:
+      213: -8606990801691522047
+    second: rpg-autumn-v2_106
+  - first:
+      213: -4661224562750504032
+    second: rpg-autumn-v2_107
+  - first:
+      213: 2826744465549530728
+    second: rpg-autumn-v2_108
+  - first:
+      213: -2150618022767742629
+    second: rpg-autumn-v2_109
+  - first:
+      213: -1507289634103508397
+    second: rpg-autumn-v2_110
+  - first:
+      213: 9139871937813285580
+    second: rpg-autumn-v2_111
+  - first:
+      213: 648383368445687591
+    second: rpg-autumn-v2_112
+  - first:
+      213: 18130433382665225
+    second: rpg-autumn-v2_113
+  - first:
+      213: 130469397135336391
+    second: rpg-autumn-v2_114
+  - first:
+      213: 3640550043890025100
+    second: rpg-autumn-v2_115
+  - first:
+      213: 4555974132811341396
+    second: rpg-autumn-v2_116
+  - first:
+      213: 5257479595833459796
+    second: rpg-autumn-v2_117
+  - first:
+      213: -1947331727795515603
+    second: rpg-autumn-v2_118
+  - first:
+      213: -8829379606616978289
+    second: rpg-autumn-v2_119
+  - first:
+      213: 2944617066760840498
+    second: rpg-autumn-v2_120
+  - first:
+      213: 4179563407390852282
+    second: rpg-autumn-v2_121
+  - first:
+      213: -1169984108481451873
+    second: rpg-autumn-v2_122
+  - first:
+      213: 6630657612122555675
+    second: rpg-autumn-v2_123
+  - first:
+      213: -2576504679387480084
+    second: rpg-autumn-v2_124
+  - first:
+      213: 1725876311356562972
+    second: rpg-autumn-v2_125
+  - first:
+      213: -6613271230645317721
+    second: rpg-autumn-v2_126
+  - first:
+      213: 7991351425960220235
+    second: rpg-autumn-v2_127
+  - first:
+      213: 8858575552145898464
+    second: rpg-autumn-v2_128
+  - first:
+      213: 1981145518351370799
+    second: rpg-autumn-v2_129
+  - first:
+      213: 4304098259962334801
+    second: rpg-autumn-v2_130
+  - first:
+      213: 7463231484313275825
+    second: rpg-autumn-v2_131
+  - first:
+      213: -4124443054234676831
+    second: rpg-autumn-v2_132
+  - first:
+      213: -818710904485032683
+    second: rpg-autumn-v2_133
+  - first:
+      213: -7008049512227708361
+    second: rpg-autumn-v2_134
+  - first:
+      213: 8333024641090070698
+    second: rpg-autumn-v2_135
+  - first:
+      213: -5610965255280747122
+    second: rpg-autumn-v2_136
+  - first:
+      213: 2590436588129689207
+    second: rpg-autumn-v2_137
+  - first:
+      213: 7805005168985895668
+    second: rpg-autumn-v2_138
+  - first:
+      213: -6750299270669153909
+    second: rpg-autumn-v2_139
+  - first:
+      213: 2926750053919119778
+    second: rpg-autumn-v2_140
+  - first:
+      213: -5970050574514836925
+    second: rpg-autumn-v2_141
+  - first:
+      213: 6895100505186977660
+    second: rpg-autumn-v2_0
+  - first:
+      213: -7852655546475328064
+    second: rpg-autumn-v2_1
+  - first:
+      213: 3420389265754274022
+    second: rpg-autumn-v2_2
+  - first:
+      213: -4868877204516113755
+    second: rpg-autumn-v2_3
+  - first:
+      213: 8696477468378331053
+    second: rpg-autumn-v2_4
+  - first:
+      213: -1306610492873983777
+    second: rpg-autumn-v2_5
+  - first:
+      213: 236488980903374224
+    second: rpg-autumn-v2_6
+  - first:
+      213: 3161392598947891577
+    second: rpg-autumn-v2_7
+  - first:
+      213: 4522273035084092003
+    second: rpg-autumn-v2_8
+  - first:
+      213: 4426137622759333644
+    second: rpg-autumn-v2_9
+  - first:
+      213: -5107502885746479798
+    second: rpg-autumn-v2_10
+  - first:
+      213: 510183019349060305
+    second: rpg-autumn-v2_11
+  - first:
+      213: 742452329895252302
+    second: rpg-autumn-v2_12
+  - first:
+      213: 1744819982679080457
+    second: rpg-autumn-v2_13
+  - first:
+      213: -911232329758858663
+    second: rpg-autumn-v2_14
+  - first:
+      213: -9095173179699923756
+    second: rpg-autumn-v2_15
+  - first:
+      213: 4872683919495101703
+    second: rpg-autumn-v2_16
+  - first:
+      213: -2274685730165895825
+    second: rpg-autumn-v2_17
+  - first:
+      213: -6029815364270166567
+    second: rpg-autumn-v2_18
+  - first:
+      213: 1540252517754974507
+    second: rpg-autumn-v2_19
+  - first:
+      213: 5341037991829222543
+    second: rpg-autumn-v2_20
+  - first:
+      213: -5000821190569112590
+    second: rpg-autumn-v2_21
+  - first:
+      213: -5356737755471756790
+    second: rpg-autumn-v2_22
+  - first:
+      213: 6468100040703156282
+    second: rpg-autumn-v2_23
+  - first:
+      213: -8121354100214956795
+    second: rpg-autumn-v2_24
+  - first:
+      213: 1799907678456978093
+    second: rpg-autumn-v2_25
+  - first:
+      213: 8358862102422897517
+    second: rpg-autumn-v2_26
+  - first:
+      213: -328580139147997127
+    second: rpg-autumn-v2_27
+  - first:
+      213: 1476168668837345037
+    second: rpg-autumn-v2_28
+  - first:
+      213: -886536681201514089
+    second: rpg-autumn-v2_29
+  - first:
+      213: 3571545118070535787
+    second: rpg-autumn-v2_30
+  - first:
+      213: 2704155569738950514
+    second: rpg-autumn-v2_31
+  - first:
+      213: -6301223870129358131
+    second: rpg-autumn-v2_32
+  - first:
+      213: -8957200731026947905
+    second: rpg-autumn-v2_33
+  - first:
+      213: -77177971312802114
+    second: rpg-autumn-v2_34
+  - first:
+      213: -8350695313399343905
+    second: rpg-autumn-v2_35
+  - first:
+      213: 8234999325772108794
+    second: rpg-autumn-v2_36
+  - first:
+      213: -6389939869094569441
+    second: rpg-autumn-v2_37
+  - first:
+      213: -1342042319409814623
+    second: rpg-autumn-v2_38
+  - first:
+      213: 4285680016195439051
+    second: rpg-autumn-v2_39
+  - first:
+      213: 6066606194103886618
+    second: rpg-autumn-v2_40
+  - first:
+      213: 8640570799974404444
+    second: rpg-autumn-v2_41
+  - first:
+      213: -2596129883404343825
+    second: rpg-autumn-v2_42
+  - first:
+      213: -2069063132717728517
+    second: rpg-autumn-v2_43
+  - first:
+      213: -2625584827515183556
+    second: rpg-autumn-v2_44
+  - first:
+      213: 5027127800893286979
+    second: rpg-autumn-v2_45
+  - first:
+      213: -7662844133611726025
+    second: rpg-autumn-v2_46
+  - first:
+      213: -6848272174649188602
+    second: rpg-autumn-v2_47
+  - first:
+      213: -1169412514348767568
+    second: rpg-autumn-v2_48
+  - first:
+      213: -2429489907134375401
+    second: rpg-autumn-v2_49
+  - first:
+      213: 8763542047825759422
+    second: rpg-autumn-v2_50
+  - first:
+      213: 4261501871225863827
+    second: rpg-autumn-v2_51
+  - first:
+      213: 7403445778463487676
+    second: rpg-autumn-v2_52
+  - first:
+      213: 725121704688493857
+    second: rpg-autumn-v2_53
+  - first:
+      213: -5897594830105350264
+    second: rpg-autumn-v2_54
+  - first:
+      213: -6368147614747268898
+    second: rpg-autumn-v2_55
+  - first:
+      213: -1466033683323422353
+    second: rpg-autumn-v2_56
+  - first:
+      213: 2289351991979848389
+    second: rpg-autumn-v2_58
+  - first:
+      213: 5782533743879468090
+    second: rpg-autumn-v2_60
+  - first:
+      213: -5985992495219335682
+    second: rpg-autumn-v2_62
+  - first:
+      213: -7949982354546076353
+    second: rpg-autumn-v2_63
+  - first:
+      213: -2817285449305089481
+    second: rpg-autumn-v2_64
+  - first:
+      213: -3569185881810755932
+    second: rpg-autumn-v2_65
+  - first:
+      213: 2853500628382296841
+    second: rpg-autumn-v2_66
+  - first:
+      213: 4097050833373548573
+    second: rpg-autumn-v2_67
+  - first:
+      213: -417052722598515649
+    second: rpg-autumn-v2_70
+  - first:
+      213: -3635280873506024811
+    second: rpg-autumn-v2_71
+  - first:
+      213: -4173362057046299269
+    second: rpg-autumn-v2_72
+  - first:
+      213: 1089893231857450317
+    second: rpg-autumn-v2_73
+  - first:
+      213: 377872490342236077
+    second: rpg-autumn-v2_74
+  - first:
+      213: 2155927321883161888
+    second: rpg-autumn-v2_75
+  - first:
+      213: 1358885675100676621
+    second: rpg-autumn-v2_76
+  - first:
+      213: 1930658048521389985
+    second: rpg-autumn-v2_77
+  - first:
+      213: -8172675111614842517
+    second: rpg-autumn-v2_78
+  - first:
+      213: 9133976695529784885
+    second: rpg-autumn-v2_82
+  - first:
+      213: -2037503816482634311
+    second: rpg-autumn-v2_83
+  - first:
+      213: 1201348217877346587
+    second: rpg-autumn-v2_84
+  - first:
+      213: -4086896810383230747
+    second: rpg-autumn-v2_85
+  - first:
+      213: -1240293888063246574
+    second: rpg-autumn-v2_86
+  - first:
+      213: 1935297839792085795
+    second: rpg-autumn-v2_87
+  - first:
+      213: -5371225006545452493
+    second: rpg-autumn-v2_88
+  - first:
+      213: 8909213584606794318
+    second: rpg-autumn-v2_89
+  - first:
+      213: -8119783609480237860
+    second: rpg-autumn-v2_94
+  - first:
+      213: -8682743085351299492
+    second: rpg-autumn-v2_95
+  - first:
+      213: -4080829756045382178
+    second: rpg-autumn-v2_96
+  - first:
+      213: -1905846661407590544
+    second: rpg-autumn-v2_97
+  - first:
+      213: -7705609151570927111
+    second: rpg-autumn-v2_98
+  - first:
+      213: -2794116184433587428
+    second: rpg-autumn-v2_99
+  - first:
+      213: -2386228367888799728
+    second: rpg-autumn-v2_100
+  - first:
+      213: -7369367429829405481
+    second: rpg-autumn-v2_101
+  - first:
+      213: -5609855719071243992
+    second: rpg-autumn-v2_106
+  - first:
+      213: -982201540559239761
+    second: rpg-autumn-v2_107
+  - first:
+      213: 6288953113530779629
+    second: rpg-autumn-v2_108
+  - first:
+      213: 3580092376558431435
+    second: rpg-autumn-v2_109
+  - first:
+      213: 4732638717472277072
+    second: rpg-autumn-v2_114
+  - first:
+      213: -1060366335865768261
+    second: rpg-autumn-v2_115
+  - first:
+      213: 77369082322636713
+    second: rpg-autumn-v2_116
+  - first:
+      213: -8882147327267308480
+    second: rpg-autumn-v2_117
+  - first:
+      213: 200003394064189150
+    second: rpg-autumn-v2_118
+  - first:
+      213: 176204772983088047
+    second: rpg-autumn-v2_119
+  - first:
+      213: 695105568029024402
+    second: rpg-autumn-v2_120
+  - first:
+      213: -6731483285127095430
+    second: rpg-autumn-v2_121
+  - first:
+      213: 7943511964545109052
+    second: rpg-autumn-v2_122
+  - first:
+      213: -6999829632250294511
+    second: rpg-autumn-v2_123
+  - first:
+      213: 7963210999483835334
+    second: rpg-autumn-v2_124
+  - first:
+      213: -5310533796552289784
+    second: rpg-autumn-v2_125
+  - first:
+      213: -7417017894927268611
+    second: rpg-autumn-v2_126
+  - first:
+      213: -1467306436680270035
+    second: rpg-autumn-v2_127
+  - first:
+      213: 8163695046739611139
+    second: rpg-autumn-v2_128
+  - first:
+      213: -4040327659820072694
+    second: rpg-autumn-v2_129
+  - first:
+      213: -7522291227407680037
+    second: rpg-autumn-v2_130
+  - first:
+      213: 8462448269908777385
+    second: rpg-autumn-v2_131
+  - first:
+      213: 3514250236358638149
+    second: rpg-autumn-v2_132
+  - first:
+      213: 2253115211096768465
+    second: rpg-autumn-v2_133
+  - first:
+      213: -3423530923358180278
+    second: rpg-autumn-v2_134
+  - first:
+      213: 4628290628755324655
+    second: rpg-autumn-v2_135
+  - first:
+      213: -991814973130638967
+    second: rpg-autumn-v2_136
+  - first:
+      213: 2383518209825208597
+    second: rpg-autumn-v2_137
+  - first:
+      213: -5725382186706334383
+    second: rpg-autumn-v2_138
+  - first:
+      213: -6166211748094834087
+    second: rpg-autumn-v2_139
+  - first:
+      213: -2568379433032860582
+    second: rpg-autumn-v2_140
+  - first:
+      213: 7590639481559836390
+    second: rpg-autumn-v2_141
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rpg-autumn-v2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77494ea06150bf50800000000000000
+      internalID: 6895100505186977660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd46d8b263c50390800000000000000
+      internalID: -7852655546475328064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8b7da4ae9a77f20800000000000000
+      internalID: 3420389265754274022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2f1d99af54e6cb0800000000000000
+      internalID: -4868877204516113755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362d3898d5752ce30800000000000000
+      internalID: 4522273035084092003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fdf8b97bccc6d30800000000000000
+      internalID: 4426137622759333644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d6cc5af218e19b0800000000000000
+      internalID: -5107502885746479798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daacb6c0c8841700800000000000000
+      internalID: 510183019349060305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dcfc55161be60e0800000000000000
+      internalID: -2274685730165895825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddeb7f9fdac15ca0800000000000000
+      internalID: -6029815364270166567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21bf291183106510800000000000000
+      internalID: 1540252517754974507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84b8da61cd2f1a40800000000000000
+      internalID: 5341037991829222543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a302dc1b7be43c950800000000000000
+      internalID: 6468100040703156282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d768189772b4f80800000000000000
+      internalID: -8121354100214956795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa1dea4f7e8af810800000000000000
+      internalID: 1799907678456978093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6344658bc4a00470800000000000000
+      internalID: 8358862102422897517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930d5d5ba16a07bf0800000000000000
+      internalID: -328580139147997127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d077c9e45976c7410800000000000000
+      internalID: 1476168668837345037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb005457461a1b380800000000000000
+      internalID: -8957200731026947905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb64a634b0fcdeef0800000000000000
+      internalID: -77177971312802114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd410593bde5c1c80800000000000000
+      internalID: -8350695313399343905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af35a328148984270800000000000000
+      internalID: 8234999325772108794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41511ad578bd4a00800000000000000
+      internalID: 742452329895252302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ef690a788d63810800000000000000
+      internalID: 1744819982679080457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54840ad917ae0d90800000000000000
+      internalID: -7129577430607166372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c00060207b4a7ab0800000000000000
+      internalID: -5009608690544672568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a145e1e342b29290800000000000000
+      internalID: -7885043992949866079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba31628c0a2387080800000000000000
+      internalID: -9189539373515402325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b2f35ef6976e6f0800000000000000
+      internalID: -655703174241375393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278a9d4a8860152b0800000000000000
+      internalID: -5597685677893769102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3a9e3f7565d9a50800000000000000
+      internalID: 6529469970511406044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_65
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509d7a271e07c0e20800000000000000
+      internalID: 3318151139058768133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f36df11f35598ff0800000000000000
+      internalID: -33401792855448591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_71
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544274adfae9f7cc0800000000000000
+      internalID: -3711073089811438523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_72
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9213078952ad1b0800000000000000
+      internalID: -5631147047425857098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_73
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb72b455fc43ab8a0800000000000000
+      internalID: -6288655864575612996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073c6bc81a971d770800000000000000
+      internalID: 8633815695403434864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008ba8cabc3942c10800000000000000
+      internalID: 2027908235205982208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_84
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb2534c559b5dd70800000000000000
+      internalID: 9067357202795539449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_85
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7703ccf93f290bb0800000000000000
+      internalID: -4969388787726350467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25834861b14212fe0800000000000000
+      internalID: -1215650725652842414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_87
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76128a30a09038bc0800000000000000
+      internalID: -3782169323445411481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_88
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7643abbefb3d37390800000000000000
+      internalID: -7821675306565356441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_89
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385a46f846bb0bae0800000000000000
+      internalID: -1535521432356477565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac81951abf2beb70800000000000000
+      internalID: 8929283162464423080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_95
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2608661136356eb0800000000000000
+      internalID: -4727312649398254033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_96
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ad0e969021cf150800000000000000
+      internalID: 5907616642843597345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_97
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759f2ba88d9607e70800000000000000
+      internalID: 9110898424931350871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8874bbf1e33f6a0800000000000000
+      internalID: -6416716738065889027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_99
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56274dd19581d6200800000000000000
+      internalID: 174822731568935525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789ab382e6a887ad0800000000000000
+      internalID: -2704259370509948537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_101
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a790166d752119970800000000000000
+      internalID: 8759802918680463738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c4f18b773dd8880800000000000000
+      internalID: -8606990801691522047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_107
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a34ee6d4f0005fb0800000000000000
+      internalID: -4661224562750504032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_108
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86691eb5d1d9a3720800000000000000
+      internalID: 2826744465549530728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_109
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5130618d487722e0800000000000000
+      internalID: -2150618022767742629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3af46b9358fc100800000000000000
+      internalID: 130469397135336391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_115
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c820919f9f4d58230800000000000000
+      internalID: 3640550043890025100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_116
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e9610d5521a3f30800000000000000
+      internalID: 4555974132811341396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_117
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454848b46d156f840800000000000000
+      internalID: 5257479595833459796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f86e86c10b9f4e0800000000000000
+      internalID: -1947331727795515603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_119
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c4480270eb77580800000000000000
+      internalID: -8829379606616978289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_120
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23525d7fe916dd820800000000000000
+      internalID: 2944617066760840498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_121
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4c0c556cac00a30800000000000000
+      internalID: 4179563407390852282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f986c15f6a163cfe0800000000000000
+      internalID: -1169984108481451873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_123
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b150ecda7f3d40c50800000000000000
+      internalID: 6630657612122555675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_124
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef3afe15aa6e3cd0800000000000000
+      internalID: -2576504679387480084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_125
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e5ba07c5b83f710800000000000000
+      internalID: 1725876311356562972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af4316bad0f834a0800000000000000
+      internalID: -6613271230645317721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_127
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b469bab28cbf6ee60800000000000000
+      internalID: 7991351425960220235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_128
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebbd99a78bffea70800000000000000
+      internalID: 8858575552145898464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_129
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ac0b53a517e7b10800000000000000
+      internalID: 1981145518351370799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e8e67309a3bbb30800000000000000
+      internalID: 4304098259962334801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_131
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd010b3e79b29760800000000000000
+      internalID: 7463231484313275825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_132
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1d308f4e803c6c0800000000000000
+      internalID: -4124443054234676831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_133
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d4e6425ca53a4f0800000000000000
+      internalID: -818710904485032683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732615f49186ebe90800000000000000
+      internalID: -7008049512227708361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_135
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa820c4c2c9d4a370800000000000000
+      internalID: 8333024641090070698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_136
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d9ee714d8d122b0800000000000000
+      internalID: -5610965255280747122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_137
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e15a82a5413f320800000000000000
+      internalID: 2590436588129689207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_138
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2fd7739d2f05c60800000000000000
+      internalID: 7805005168985895668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_139
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89cf24f39e1252a0800000000000000
+      internalID: -6750299270669153909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_140
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9543edaa7ed9820800000000000000
+      internalID: 2926750053919119778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg-autumn-v2_141
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a2de612ae162da0800000000000000
+      internalID: -5970050574514836925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

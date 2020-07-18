@@ -1,0 +1,4922 @@
+fileFormatVersion: 2
+guid: 160dfb8383993df46a7e92afe19c143d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8196199757687052999
+    second: Human_Female_Warrior_Dagger_Hero_0
+  - first:
+      213: -9135489307710311249
+    second: Human_Female_Warrior_Dagger_Hero_1
+  - first:
+      213: -9032281902857067266
+    second: Human_Female_Warrior_Dagger_Hero_2
+  - first:
+      213: -6157788982036247927
+    second: Human_Female_Warrior_Dagger_Hero_3
+  - first:
+      213: 3126705109045734535
+    second: Human_Female_Warrior_Dagger_Hero_4
+  - first:
+      213: -5481476430402985454
+    second: Human_Female_Warrior_Dagger_Hero_5
+  - first:
+      213: -1877059462542781044
+    second: Human_Female_Warrior_Dagger_Hero_6
+  - first:
+      213: -6999310483584549726
+    second: Human_Female_Warrior_Dagger_Hero_7
+  - first:
+      213: 4244351837899074733
+    second: Human_Female_Warrior_Dagger_Hero_8
+  - first:
+      213: 6687298017699777106
+    second: Human_Female_Warrior_Dagger_Hero_9
+  - first:
+      213: 5670170773323741472
+    second: Human_Female_Warrior_Dagger_Hero_10
+  - first:
+      213: 294614831693316291
+    second: Human_Female_Warrior_Dagger_Hero_11
+  - first:
+      213: 225616312663377256
+    second: Human_Female_Warrior_Dagger_Hero_12
+  - first:
+      213: -3854654638605989216
+    second: Human_Female_Warrior_Dagger_Hero_13
+  - first:
+      213: -7954665157550662107
+    second: Human_Female_Warrior_Dagger_Hero_14
+  - first:
+      213: -3800415692070474162
+    second: Human_Female_Warrior_Dagger_Hero_15
+  - first:
+      213: -438217618460040950
+    second: Human_Female_Warrior_Dagger_Hero_16
+  - first:
+      213: -3606558294345641182
+    second: Human_Female_Warrior_Dagger_Hero_17
+  - first:
+      213: -22639983905105509
+    second: Human_Female_Warrior_Dagger_Hero_18
+  - first:
+      213: -1227955639632719720
+    second: Human_Female_Warrior_Dagger_Hero_19
+  - first:
+      213: 8818522407099637467
+    second: Human_Female_Warrior_Dagger_Hero_20
+  - first:
+      213: 6721288549845918367
+    second: Human_Female_Warrior_Dagger_Hero_21
+  - first:
+      213: 2096073865864389574
+    second: Human_Female_Warrior_Dagger_Hero_22
+  - first:
+      213: 7297762873838227160
+    second: Human_Female_Warrior_Dagger_Hero_23
+  - first:
+      213: -3610694066210581081
+    second: Human_Female_Warrior_Dagger_Hero_24
+  - first:
+      213: -820377868019811214
+    second: Human_Female_Warrior_Dagger_Hero_25
+  - first:
+      213: 4952572529145061614
+    second: Human_Female_Warrior_Dagger_Hero_26
+  - first:
+      213: -7036664927263999593
+    second: Human_Female_Warrior_Dagger_Hero_27
+  - first:
+      213: 6984614218433227887
+    second: Human_Female_Warrior_Dagger_Hero_28
+  - first:
+      213: -4203638945751192105
+    second: Human_Female_Warrior_Dagger_Hero_29
+  - first:
+      213: 7111792173803932556
+    second: Human_Female_Warrior_Dagger_Hero_30
+  - first:
+      213: 4449604565220516947
+    second: Human_Female_Warrior_Dagger_Hero_31
+  - first:
+      213: -8970281223763271770
+    second: Human_Female_Warrior_Dagger_Hero_32
+  - first:
+      213: 4093265144026977448
+    second: Human_Female_Warrior_Dagger_Hero_33
+  - first:
+      213: -418526365911386497
+    second: Human_Female_Warrior_Dagger_Hero_34
+  - first:
+      213: -8025291739503337273
+    second: Human_Female_Warrior_Dagger_Hero_35
+  - first:
+      213: -7446006903042477664
+    second: Human_Female_Warrior_Dagger_Hero_36
+  - first:
+      213: -6244273058027911861
+    second: Human_Female_Warrior_Dagger_Hero_37
+  - first:
+      213: 1785672775702122389
+    second: Human_Female_Warrior_Dagger_Hero_38
+  - first:
+      213: 8273561639805169113
+    second: Human_Female_Warrior_Dagger_Hero_39
+  - first:
+      213: -6673521140862529703
+    second: Human_Female_Warrior_Dagger_Hero_40
+  - first:
+      213: -6596782027236058849
+    second: Human_Female_Warrior_Dagger_Hero_41
+  - first:
+      213: -2617046742136798299
+    second: Human_Female_Warrior_Dagger_Hero_42
+  - first:
+      213: -4584161904179057938
+    second: Human_Female_Warrior_Dagger_Hero_43
+  - first:
+      213: 8631034915697506704
+    second: Human_Female_Warrior_Dagger_Hero_44
+  - first:
+      213: 2276723352148475702
+    second: Human_Female_Warrior_Dagger_Hero_45
+  - first:
+      213: 7553874761837910704
+    second: Human_Female_Warrior_Dagger_Hero_46
+  - first:
+      213: 7357836479296812926
+    second: Human_Female_Warrior_Dagger_Hero_47
+  - first:
+      213: -3769280524776107984
+    second: Human_Female_Warrior_Dagger_Hero_48
+  - first:
+      213: 3434423098107845506
+    second: Human_Female_Warrior_Dagger_Hero_49
+  - first:
+      213: 7511589602024296375
+    second: Human_Female_Warrior_Dagger_Hero_50
+  - first:
+      213: 9072714499179729725
+    second: Human_Female_Warrior_Dagger_Hero_51
+  - first:
+      213: 8962491147163143826
+    second: Human_Female_Warrior_Dagger_Hero_52
+  - first:
+      213: 3095886172927460784
+    second: Human_Female_Warrior_Dagger_Hero_53
+  - first:
+      213: -1050432465247261432
+    second: Human_Female_Warrior_Dagger_Hero_54
+  - first:
+      213: -6022737506639276543
+    second: Human_Female_Warrior_Dagger_Hero_55
+  - first:
+      213: 7481993411100859060
+    second: Human_Female_Warrior_Dagger_Hero_56
+  - first:
+      213: 3324573299828169698
+    second: Human_Female_Warrior_Dagger_Hero_57
+  - first:
+      213: 842033306067987967
+    second: Human_Female_Warrior_Dagger_Hero_58
+  - first:
+      213: 7104187367740521374
+    second: Human_Female_Warrior_Dagger_Hero_59
+  - first:
+      213: -2277591263198097408
+    second: Human_Female_Warrior_Dagger_Hero_60
+  - first:
+      213: -8747559051801983015
+    second: Human_Female_Warrior_Dagger_Hero_61
+  - first:
+      213: -8727136526626485909
+    second: Human_Female_Warrior_Dagger_Hero_62
+  - first:
+      213: -1601409721383981819
+    second: Human_Female_Warrior_Dagger_Hero_63
+  - first:
+      213: -2526736248675706251
+    second: Human_Female_Warrior_Dagger_Hero_64
+  - first:
+      213: 6445180506060983111
+    second: Human_Female_Warrior_Dagger_Hero_65
+  - first:
+      213: -5556540897070252115
+    second: Human_Female_Warrior_Dagger_Hero_66
+  - first:
+      213: 6991985684651668196
+    second: Human_Female_Warrior_Dagger_Hero_67
+  - first:
+      213: -6213052108041654998
+    second: Human_Female_Warrior_Dagger_Hero_68
+  - first:
+      213: -433270171816873136
+    second: Human_Female_Warrior_Dagger_Hero_69
+  - first:
+      213: -4999356713345467829
+    second: Human_Female_Warrior_Dagger_Hero_70
+  - first:
+      213: 8982527151753628598
+    second: Human_Female_Warrior_Dagger_Hero_71
+  - first:
+      213: 4835785470724556662
+    second: Human_Female_Warrior_Dagger_Hero_72
+  - first:
+      213: -4631567970826537021
+    second: Human_Female_Warrior_Dagger_Hero_73
+  - first:
+      213: -9221467355615181145
+    second: Human_Female_Warrior_Dagger_Hero_74
+  - first:
+      213: 3245166705389191169
+    second: Human_Female_Warrior_Dagger_Hero_75
+  - first:
+      213: -5735132605025922530
+    second: Human_Female_Warrior_Dagger_Hero_76
+  - first:
+      213: -5473632489346793455
+    second: Human_Female_Warrior_Dagger_Hero_77
+  - first:
+      213: -7116639735102612803
+    second: Human_Female_Warrior_Dagger_Hero_78
+  - first:
+      213: -4995946755982438447
+    second: Human_Female_Warrior_Dagger_Hero_79
+  - first:
+      213: -1928908094839554806
+    second: Human_Female_Warrior_Dagger_Hero_80
+  - first:
+      213: -7856214203544888447
+    second: Human_Female_Warrior_Dagger_Hero_81
+  - first:
+      213: 1724430174764999100
+    second: Human_Female_Warrior_Dagger_Hero_82
+  - first:
+      213: 8384958765482833792
+    second: Human_Female_Warrior_Dagger_Hero_83
+  - first:
+      213: -4521312331994229878
+    second: Human_Female_Warrior_Dagger_Hero_84
+  - first:
+      213: 4295097813665219890
+    second: Human_Female_Warrior_Dagger_Hero_85
+  - first:
+      213: -8224544890722909011
+    second: Human_Female_Warrior_Dagger_Hero_86
+  - first:
+      213: -342739368943810490
+    second: Human_Female_Warrior_Dagger_Hero_87
+  - first:
+      213: 70294575904759930
+    second: Human_Female_Warrior_Dagger_Hero_88
+  - first:
+      213: -5070013573040349205
+    second: Human_Female_Warrior_Dagger_Hero_89
+  - first:
+      213: 2441488160339781529
+    second: Human_Female_Warrior_Dagger_Hero_90
+  - first:
+      213: 6358501838834864511
+    second: Human_Female_Warrior_Dagger_Hero_91
+  - first:
+      213: -1203933453414659927
+    second: Human_Female_Warrior_Dagger_Hero_92
+  - first:
+      213: -547911520532000918
+    second: Human_Female_Warrior_Dagger_Hero_93
+  - first:
+      213: -5074893129929367930
+    second: Human_Female_Warrior_Dagger_Hero_94
+  - first:
+      213: 8984522966203340404
+    second: Human_Female_Warrior_Dagger_Hero_95
+  - first:
+      213: 4288611255847092111
+    second: Human_Female_Warrior_Dagger_Hero_96
+  - first:
+      213: 243275565271819100
+    second: Human_Female_Warrior_Dagger_Hero_97
+  - first:
+      213: -7077885473801371131
+    second: Human_Female_Warrior_Dagger_Hero_98
+  - first:
+      213: -318735133720930208
+    second: Human_Female_Warrior_Dagger_Hero_99
+  - first:
+      213: 3240264898019702950
+    second: Human_Female_Warrior_Dagger_Hero_100
+  - first:
+      213: 3458314287376694751
+    second: Human_Female_Warrior_Dagger_Hero_101
+  - first:
+      213: 781091099954440871
+    second: Human_Female_Warrior_Dagger_Hero_102
+  - first:
+      213: 5568450891906504529
+    second: Human_Female_Warrior_Dagger_Hero_103
+  - first:
+      213: 405401221425244986
+    second: Human_Female_Warrior_Dagger_Hero_104
+  - first:
+      213: 4927378428564897116
+    second: Human_Female_Warrior_Dagger_Hero_105
+  - first:
+      213: -871764841624232248
+    second: Human_Female_Warrior_Dagger_Hero_106
+  - first:
+      213: -8259146930620407349
+    second: Human_Female_Warrior_Dagger_Hero_107
+  - first:
+      213: 787349866898628489
+    second: Human_Female_Warrior_Dagger_Hero_108
+  - first:
+      213: -1292339171238516648
+    second: Human_Female_Warrior_Dagger_Hero_109
+  - first:
+      213: -4736306111971372379
+    second: Human_Female_Warrior_Dagger_Hero_110
+  - first:
+      213: 5184215307023672124
+    second: Human_Female_Warrior_Dagger_Hero_111
+  - first:
+      213: -2633292090027841468
+    second: Human_Female_Warrior_Dagger_Hero_112
+  - first:
+      213: 7320880951436799211
+    second: Human_Female_Warrior_Dagger_Hero_113
+  - first:
+      213: -2691908401057232001
+    second: Human_Female_Warrior_Dagger_Hero_114
+  - first:
+      213: -8579297173283960790
+    second: Human_Female_Warrior_Dagger_Hero_115
+  - first:
+      213: -2094913033928594042
+    second: Human_Female_Warrior_Dagger_Hero_116
+  - first:
+      213: 6080317564491569671
+    second: Human_Female_Warrior_Dagger_Hero_117
+  - first:
+      213: -1406691103280416550
+    second: Human_Female_Warrior_Dagger_Hero_118
+  - first:
+      213: 3551545674555498798
+    second: Human_Female_Warrior_Dagger_Hero_119
+  - first:
+      213: -1950286097610071815
+    second: Human_Female_Warrior_Dagger_Hero_120
+  - first:
+      213: -8485248435624267549
+    second: Human_Female_Warrior_Dagger_Hero_121
+  - first:
+      213: -1163062889741511985
+    second: Human_Female_Warrior_Dagger_Hero_122
+  - first:
+      213: -1957485621461857638
+    second: Human_Female_Warrior_Dagger_Hero_123
+  - first:
+      213: -1090797048652563826
+    second: Human_Female_Warrior_Dagger_Hero_124
+  - first:
+      213: 8730246477995942068
+    second: Human_Female_Warrior_Dagger_Hero_125
+  - first:
+      213: 1648963081782863754
+    second: Human_Female_Warrior_Dagger_Hero_126
+  - first:
+      213: -7958878852437888445
+    second: Human_Female_Warrior_Dagger_Hero_127
+  - first:
+      213: 6619523993237268651
+    second: Human_Female_Warrior_Dagger_Hero_128
+  - first:
+      213: -8123822956116773664
+    second: Human_Female_Warrior_Dagger_Hero_129
+  - first:
+      213: 893479560610469048
+    second: Human_Female_Warrior_Dagger_Hero_130
+  - first:
+      213: -8751715488807685809
+    second: Human_Female_Warrior_Dagger_Hero_131
+  - first:
+      213: 2195570296556418428
+    second: Human_Female_Warrior_Dagger_Hero_132
+  - first:
+      213: -5435987188135981886
+    second: Human_Female_Warrior_Dagger_Hero_133
+  - first:
+      213: -7023468681021258380
+    second: Human_Female_Warrior_Dagger_Hero_134
+  - first:
+      213: 2854755252028320543
+    second: Human_Female_Warrior_Dagger_Hero_135
+  - first:
+      213: -6447125855660351715
+    second: Human_Female_Warrior_Dagger_Hero_136
+  - first:
+      213: -6192122346152282161
+    second: Human_Female_Warrior_Dagger_Hero_137
+  - first:
+      213: 600034189135037968
+    second: Human_Female_Warrior_Dagger_Hero_138
+  - first:
+      213: 540084095620258449
+    second: Human_Female_Warrior_Dagger_Hero_139
+  - first:
+      213: 5518383551900143380
+    second: Human_Female_Warrior_Dagger_Hero_140
+  - first:
+      213: 7180094426011300878
+    second: Human_Female_Warrior_Dagger_Hero_141
+  - first:
+      213: 5754502675333285448
+    second: Human_Female_Warrior_Dagger_Hero_142
+  - first:
+      213: -3055741073270423437
+    second: Human_Female_Warrior_Dagger_Hero_143
+  - first:
+      213: -6905658452087375821
+    second: Human_Female_Warrior_Dagger_Hero_144
+  - first:
+      213: 2752769596218192890
+    second: Human_Female_Warrior_Dagger_Hero_145
+  - first:
+      213: 7351000059710556351
+    second: Human_Female_Warrior_Dagger_Hero_146
+  - first:
+      213: -7047139459230715135
+    second: Human_Female_Warrior_Dagger_Hero_147
+  - first:
+      213: 8980400401199661387
+    second: Human_Female_Warrior_Dagger_Hero_148
+  - first:
+      213: -4236037343376871992
+    second: Human_Female_Warrior_Dagger_Hero_149
+  - first:
+      213: 8436988139032687417
+    second: Human_Female_Warrior_Dagger_Hero_150
+  - first:
+      213: -3866183762685261988
+    second: Human_Female_Warrior_Dagger_Hero_151
+  - first:
+      213: 3595120534733473564
+    second: Human_Female_Warrior_Dagger_Hero_152
+  - first:
+      213: 4343640421941740067
+    second: Human_Female_Warrior_Dagger_Hero_153
+  - first:
+      213: 7519709364311014475
+    second: Human_Female_Warrior_Dagger_Hero_154
+  - first:
+      213: -8372767002254012672
+    second: Human_Female_Warrior_Dagger_Hero_155
+  - first:
+      213: -6561187240722160749
+    second: Human_Female_Warrior_Dagger_Hero_156
+  - first:
+      213: -2984212610280235446
+    second: Human_Female_Warrior_Dagger_Hero_157
+  - first:
+      213: -5229328861958331563
+    second: Human_Female_Warrior_Dagger_Hero_158
+  - first:
+      213: 5846150051741584073
+    second: Human_Female_Warrior_Dagger_Hero_159
+  - first:
+      213: 3739548164766419164
+    second: Human_Female_Warrior_Dagger_Hero_160
+  - first:
+      213: 2243468818104735789
+    second: Human_Female_Warrior_Dagger_Hero_161
+  - first:
+      213: 7112405982148109026
+    second: Human_Female_Warrior_Dagger_Hero_162
+  - first:
+      213: -393091206995570648
+    second: Human_Female_Warrior_Dagger_Hero_163
+  - first:
+      213: -8075283952383598914
+    second: Human_Female_Warrior_Dagger_Hero_164
+  - first:
+      213: 696153101956864556
+    second: Human_Female_Warrior_Dagger_Hero_165
+  - first:
+      213: -235613875560103952
+    second: Human_Female_Warrior_Dagger_Hero_166
+  - first:
+      213: -1618222399139772668
+    second: Human_Female_Warrior_Dagger_Hero_167
+  - first:
+      213: 8824301402254995972
+    second: Human_Female_Warrior_Dagger_Hero_168
+  - first:
+      213: -7889108782498884772
+    second: Human_Female_Warrior_Dagger_Hero_169
+  - first:
+      213: -7527620184262943338
+    second: Human_Female_Warrior_Dagger_Hero_170
+  - first:
+      213: 2066380145969802630
+    second: Human_Female_Warrior_Dagger_Hero_171
+  - first:
+      213: -4688757716591202800
+    second: Human_Female_Warrior_Dagger_Hero_172
+  - first:
+      213: 3937885285220033526
+    second: Human_Female_Warrior_Dagger_Hero_173
+  - first:
+      213: 1818958011197597412
+    second: Human_Female_Warrior_Dagger_Hero_174
+  - first:
+      213: 1578443717867215018
+    second: Human_Female_Warrior_Dagger_Hero_175
+  - first:
+      213: 6386308473330328722
+    second: Human_Female_Warrior_Dagger_Hero_176
+  - first:
+      213: -4073198533597274725
+    second: Human_Female_Warrior_Dagger_Hero_177
+  - first:
+      213: 7021386159986490625
+    second: Human_Female_Warrior_Dagger_Hero_0
+  - first:
+      213: 5600542765405537672
+    second: Human_Female_Warrior_Dagger_Hero_1
+  - first:
+      213: 7227168624192854463
+    second: Human_Female_Warrior_Dagger_Hero_2
+  - first:
+      213: -6275167037639862455
+    second: Human_Female_Warrior_Dagger_Hero_3
+  - first:
+      213: 9007275542179759916
+    second: Human_Female_Warrior_Dagger_Hero_4
+  - first:
+      213: -33105054139672940
+    second: Human_Female_Warrior_Dagger_Hero_5
+  - first:
+      213: -1689083588496913785
+    second: Human_Female_Warrior_Dagger_Hero_6
+  - first:
+      213: -6693582451741541514
+    second: Human_Female_Warrior_Dagger_Hero_7
+  - first:
+      213: 8855512116913776920
+    second: Human_Female_Warrior_Dagger_Hero_8
+  - first:
+      213: 1954464450657140949
+    second: Human_Female_Warrior_Dagger_Hero_9
+  - first:
+      213: -6734002421095729745
+    second: Human_Female_Warrior_Dagger_Hero_10
+  - first:
+      213: -1777271499569557593
+    second: Human_Female_Warrior_Dagger_Hero_11
+  - first:
+      213: 1374251401107087850
+    second: Human_Female_Warrior_Dagger_Hero_12
+  - first:
+      213: -5689639688963396006
+    second: Human_Female_Warrior_Dagger_Hero_13
+  - first:
+      213: 2673094986000163983
+    second: Human_Female_Warrior_Dagger_Hero_14
+  - first:
+      213: 1201884322833601228
+    second: Human_Female_Warrior_Dagger_Hero_15
+  - first:
+      213: -8468972203302077686
+    second: Human_Female_Warrior_Dagger_Hero_16
+  - first:
+      213: -6876519858543486600
+    second: Human_Female_Warrior_Dagger_Hero_17
+  - first:
+      213: 998933616118656363
+    second: Human_Female_Warrior_Dagger_Hero_18
+  - first:
+      213: 755766235726933847
+    second: Human_Female_Warrior_Dagger_Hero_19
+  - first:
+      213: 2629800215087505729
+    second: Human_Female_Warrior_Dagger_Hero_20
+  - first:
+      213: -5442285841430681207
+    second: Human_Female_Warrior_Dagger_Hero_21
+  - first:
+      213: 167126864351069681
+    second: Human_Female_Warrior_Dagger_Hero_22
+  - first:
+      213: -6356532308623071223
+    second: Human_Female_Warrior_Dagger_Hero_23
+  - first:
+      213: 4653831285410801373
+    second: Human_Female_Warrior_Dagger_Hero_24
+  - first:
+      213: 459026169066103953
+    second: Human_Female_Warrior_Dagger_Hero_25
+  - first:
+      213: -4575138146780374823
+    second: Human_Female_Warrior_Dagger_Hero_26
+  - first:
+      213: 7300399857491426607
+    second: Human_Female_Warrior_Dagger_Hero_27
+  - first:
+      213: -8779233632988042279
+    second: Human_Female_Warrior_Dagger_Hero_28
+  - first:
+      213: -4066400175926158136
+    second: Human_Female_Warrior_Dagger_Hero_29
+  - first:
+      213: -5759298908083216888
+    second: Human_Female_Warrior_Dagger_Hero_30
+  - first:
+      213: -4728653257002946642
+    second: Human_Female_Warrior_Dagger_Hero_31
+  - first:
+      213: -1851312383124630012
+    second: Human_Female_Warrior_Dagger_Hero_32
+  - first:
+      213: -1515899899166772760
+    second: Human_Female_Warrior_Dagger_Hero_33
+  - first:
+      213: -2798153955035249601
+    second: Human_Female_Warrior_Dagger_Hero_34
+  - first:
+      213: 2168037899482807191
+    second: Human_Female_Warrior_Dagger_Hero_35
+  - first:
+      213: -1901739553910583839
+    second: Human_Female_Warrior_Dagger_Hero_36
+  - first:
+      213: 5297042779984529081
+    second: Human_Female_Warrior_Dagger_Hero_37
+  - first:
+      213: 2885111948125561311
+    second: Human_Female_Warrior_Dagger_Hero_38
+  - first:
+      213: -6988782752777051290
+    second: Human_Female_Warrior_Dagger_Hero_39
+  - first:
+      213: -5327745177066164106
+    second: Human_Female_Warrior_Dagger_Hero_40
+  - first:
+      213: 8340578136860637774
+    second: Human_Female_Warrior_Dagger_Hero_41
+  - first:
+      213: 1460056437092520068
+    second: Human_Female_Warrior_Dagger_Hero_42
+  - first:
+      213: -7531543867542274205
+    second: Human_Female_Warrior_Dagger_Hero_43
+  - first:
+      213: 6944324535282528830
+    second: Human_Female_Warrior_Dagger_Hero_44
+  - first:
+      213: 3131126118856764994
+    second: Human_Female_Warrior_Dagger_Hero_45
+  - first:
+      213: 6202646678385970297
+    second: Human_Female_Warrior_Dagger_Hero_46
+  - first:
+      213: 2659997404982557848
+    second: Human_Female_Warrior_Dagger_Hero_47
+  - first:
+      213: 5436285410581265137
+    second: Human_Female_Warrior_Dagger_Hero_48
+  - first:
+      213: -8454102557580944343
+    second: Human_Female_Warrior_Dagger_Hero_49
+  - first:
+      213: -8142797652444284265
+    second: Human_Female_Warrior_Dagger_Hero_50
+  - first:
+      213: 3574848229127587694
+    second: Human_Female_Warrior_Dagger_Hero_51
+  - first:
+      213: 3224837457025849475
+    second: Human_Female_Warrior_Dagger_Hero_52
+  - first:
+      213: 6435850138612895317
+    second: Human_Female_Warrior_Dagger_Hero_53
+  - first:
+      213: 8687052291668512517
+    second: Human_Female_Warrior_Dagger_Hero_54
+  - first:
+      213: -597389493449493838
+    second: Human_Female_Warrior_Dagger_Hero_55
+  - first:
+      213: 3117080216026603639
+    second: Human_Female_Warrior_Dagger_Hero_56
+  - first:
+      213: 8443204709040403970
+    second: Human_Female_Warrior_Dagger_Hero_57
+  - first:
+      213: -5028182214779336671
+    second: Human_Female_Warrior_Dagger_Hero_58
+  - first:
+      213: -4545416552861286829
+    second: Human_Female_Warrior_Dagger_Hero_59
+  - first:
+      213: -6879990857362326477
+    second: Human_Female_Warrior_Dagger_Hero_60
+  - first:
+      213: -187038286202577578
+    second: Human_Female_Warrior_Dagger_Hero_61
+  - first:
+      213: 2810339769200837708
+    second: Human_Female_Warrior_Dagger_Hero_62
+  - first:
+      213: 1794466602778473848
+    second: Human_Female_Warrior_Dagger_Hero_63
+  - first:
+      213: 221860205090012591
+    second: Human_Female_Warrior_Dagger_Hero_64
+  - first:
+      213: -2252873090185508812
+    second: Human_Female_Warrior_Dagger_Hero_65
+  - first:
+      213: -1487487400273825819
+    second: Human_Female_Warrior_Dagger_Hero_66
+  - first:
+      213: 6367549155406274661
+    second: Human_Female_Warrior_Dagger_Hero_67
+  - first:
+      213: 1907960147241238407
+    second: Human_Female_Warrior_Dagger_Hero_68
+  - first:
+      213: -6165383966367995927
+    second: Human_Female_Warrior_Dagger_Hero_69
+  - first:
+      213: -8950555913771799128
+    second: Human_Female_Warrior_Dagger_Hero_70
+  - first:
+      213: 7930817514360630206
+    second: Human_Female_Warrior_Dagger_Hero_71
+  - first:
+      213: -2991796995491702920
+    second: Human_Female_Warrior_Dagger_Hero_72
+  - first:
+      213: -6775713633137746225
+    second: Human_Female_Warrior_Dagger_Hero_73
+  - first:
+      213: -3633034784617330053
+    second: Human_Female_Warrior_Dagger_Hero_74
+  - first:
+      213: 5591917316455649444
+    second: Human_Female_Warrior_Dagger_Hero_75
+  - first:
+      213: -1132976882131132174
+    second: Human_Female_Warrior_Dagger_Hero_76
+  - first:
+      213: 6852799123660374002
+    second: Human_Female_Warrior_Dagger_Hero_77
+  - first:
+      213: -6715620848747297789
+    second: Human_Female_Warrior_Dagger_Hero_78
+  - first:
+      213: -8025345487675389177
+    second: Human_Female_Warrior_Dagger_Hero_79
+  - first:
+      213: 1282428662487350748
+    second: Human_Female_Warrior_Dagger_Hero_80
+  - first:
+      213: 143880684736141475
+    second: Human_Female_Warrior_Dagger_Hero_81
+  - first:
+      213: 3738092904839044968
+    second: Human_Female_Warrior_Dagger_Hero_82
+  - first:
+      213: -4427738614776324807
+    second: Human_Female_Warrior_Dagger_Hero_83
+  - first:
+      213: 2457101453939895669
+    second: Human_Female_Warrior_Dagger_Hero_84
+  - first:
+      213: 1647718923535935661
+    second: Human_Female_Warrior_Dagger_Hero_85
+  - first:
+      213: -5863007794996943337
+    second: Human_Female_Warrior_Dagger_Hero_86
+  - first:
+      213: 4963173542081258610
+    second: Human_Female_Warrior_Dagger_Hero_87
+  - first:
+      213: 3793320977916126610
+    second: Human_Female_Warrior_Dagger_Hero_88
+  - first:
+      213: 3997630439446257580
+    second: Human_Female_Warrior_Dagger_Hero_89
+  - first:
+      213: -3441283062282957044
+    second: Human_Female_Warrior_Dagger_Hero_90
+  - first:
+      213: 4362440546769578283
+    second: Human_Female_Warrior_Dagger_Hero_91
+  - first:
+      213: 6375774070955057272
+    second: Human_Female_Warrior_Dagger_Hero_92
+  - first:
+      213: -5015113283243360591
+    second: Human_Female_Warrior_Dagger_Hero_93
+  - first:
+      213: 8608350024007354246
+    second: Human_Female_Warrior_Dagger_Hero_94
+  - first:
+      213: -1314343255018620339
+    second: Human_Female_Warrior_Dagger_Hero_95
+  - first:
+      213: -8957223966269493189
+    second: Human_Female_Warrior_Dagger_Hero_96
+  - first:
+      213: -8909800778737104228
+    second: Human_Female_Warrior_Dagger_Hero_97
+  - first:
+      213: -7741008424753706646
+    second: Human_Female_Warrior_Dagger_Hero_98
+  - first:
+      213: -4972800509165937323
+    second: Human_Female_Warrior_Dagger_Hero_99
+  - first:
+      213: 8833425308914021736
+    second: Human_Female_Warrior_Dagger_Hero_100
+  - first:
+      213: -2326593993906467476
+    second: Human_Female_Warrior_Dagger_Hero_101
+  - first:
+      213: -4775058100568066419
+    second: Human_Female_Warrior_Dagger_Hero_102
+  - first:
+      213: -4916491163441729296
+    second: Human_Female_Warrior_Dagger_Hero_103
+  - first:
+      213: -7436360387725564235
+    second: Human_Female_Warrior_Dagger_Hero_104
+  - first:
+      213: 9130183736530304836
+    second: Human_Female_Warrior_Dagger_Hero_105
+  - first:
+      213: 294449688212664403
+    second: Human_Female_Warrior_Dagger_Hero_106
+  - first:
+      213: 5510430261758373219
+    second: Human_Female_Warrior_Dagger_Hero_107
+  - first:
+      213: 3199549182947714716
+    second: Human_Female_Warrior_Dagger_Hero_108
+  - first:
+      213: -5335095887303612513
+    second: Human_Female_Warrior_Dagger_Hero_109
+  - first:
+      213: -8033414529837410779
+    second: Human_Female_Warrior_Dagger_Hero_110
+  - first:
+      213: -1004955654299838379
+    second: Human_Female_Warrior_Dagger_Hero_111
+  - first:
+      213: -2176644207308290949
+    second: Human_Female_Warrior_Dagger_Hero_112
+  - first:
+      213: -8508587428005252304
+    second: Human_Female_Warrior_Dagger_Hero_113
+  - first:
+      213: -6431840565053225527
+    second: Human_Female_Warrior_Dagger_Hero_114
+  - first:
+      213: -4799353654959041424
+    second: Human_Female_Warrior_Dagger_Hero_115
+  - first:
+      213: -6383770335155944060
+    second: Human_Female_Warrior_Dagger_Hero_116
+  - first:
+      213: -7281234940590474531
+    second: Human_Female_Warrior_Dagger_Hero_117
+  - first:
+      213: 9123252106159508397
+    second: Human_Female_Warrior_Dagger_Hero_118
+  - first:
+      213: -3250041130105234961
+    second: Human_Female_Warrior_Dagger_Hero_119
+  - first:
+      213: -810832237138345901
+    second: Human_Female_Warrior_Dagger_Hero_120
+  - first:
+      213: -6961428708899775606
+    second: Human_Female_Warrior_Dagger_Hero_121
+  - first:
+      213: 7225475393372115932
+    second: Human_Female_Warrior_Dagger_Hero_122
+  - first:
+      213: 7659158384807819443
+    second: Human_Female_Warrior_Dagger_Hero_123
+  - first:
+      213: 3235514628492567464
+    second: Human_Female_Warrior_Dagger_Hero_124
+  - first:
+      213: -5579708837312852168
+    second: Human_Female_Warrior_Dagger_Hero_125
+  - first:
+      213: 6685696961662744850
+    second: Human_Female_Warrior_Dagger_Hero_126
+  - first:
+      213: -7480509674227198677
+    second: Human_Female_Warrior_Dagger_Hero_127
+  - first:
+      213: 1389594182780538218
+    second: Human_Female_Warrior_Dagger_Hero_128
+  - first:
+      213: -2422889827414192806
+    second: Human_Female_Warrior_Dagger_Hero_129
+  - first:
+      213: 608724796561512635
+    second: Human_Female_Warrior_Dagger_Hero_130
+  - first:
+      213: -290169497537130107
+    second: Human_Female_Warrior_Dagger_Hero_131
+  - first:
+      213: 2950640210477376695
+    second: Human_Female_Warrior_Dagger_Hero_132
+  - first:
+      213: -4020350914500640980
+    second: Human_Female_Warrior_Dagger_Hero_133
+  - first:
+      213: -3684343449935485332
+    second: Human_Female_Warrior_Dagger_Hero_134
+  - first:
+      213: 7929824206398180828
+    second: Human_Female_Warrior_Dagger_Hero_135
+  - first:
+      213: 1881014557608874405
+    second: Human_Female_Warrior_Dagger_Hero_136
+  - first:
+      213: -1421917964684946647
+    second: Human_Female_Warrior_Dagger_Hero_137
+  - first:
+      213: 3425235139939401709
+    second: Human_Female_Warrior_Dagger_Hero_138
+  - first:
+      213: 3692468484914324424
+    second: Human_Female_Warrior_Dagger_Hero_139
+  - first:
+      213: 6326771759650270068
+    second: Human_Female_Warrior_Dagger_Hero_140
+  - first:
+      213: -4760232384257838481
+    second: Human_Female_Warrior_Dagger_Hero_141
+  - first:
+      213: 6245103710620865848
+    second: Human_Female_Warrior_Dagger_Hero_142
+  - first:
+      213: 2458360256169903960
+    second: Human_Female_Warrior_Dagger_Hero_143
+  - first:
+      213: -1534733457861874994
+    second: Human_Female_Warrior_Dagger_Hero_144
+  - first:
+      213: -1688953382065710453
+    second: Human_Female_Warrior_Dagger_Hero_145
+  - first:
+      213: -4269096001630736257
+    second: Human_Female_Warrior_Dagger_Hero_146
+  - first:
+      213: 5416176889309717967
+    second: Human_Female_Warrior_Dagger_Hero_147
+  - first:
+      213: -4447596016123251068
+    second: Human_Female_Warrior_Dagger_Hero_148
+  - first:
+      213: -7969772553581912115
+    second: Human_Female_Warrior_Dagger_Hero_149
+  - first:
+      213: -3491551090194250022
+    second: Human_Female_Warrior_Dagger_Hero_150
+  - first:
+      213: -7060831742712212412
+    second: Human_Female_Warrior_Dagger_Hero_151
+  - first:
+      213: 6074585172070891366
+    second: Human_Female_Warrior_Dagger_Hero_152
+  - first:
+      213: 6285099580278977506
+    second: Human_Female_Warrior_Dagger_Hero_153
+  - first:
+      213: 1984227065477696843
+    second: Human_Female_Warrior_Dagger_Hero_154
+  - first:
+      213: 2582507230222929529
+    second: Human_Female_Warrior_Dagger_Hero_155
+  - first:
+      213: -8209147930337077073
+    second: Human_Female_Warrior_Dagger_Hero_156
+  - first:
+      213: 7141590235240481054
+    second: Human_Female_Warrior_Dagger_Hero_157
+  - first:
+      213: 740034039652609274
+    second: Human_Female_Warrior_Dagger_Hero_158
+  - first:
+      213: 8225140883919873437
+    second: Human_Female_Warrior_Dagger_Hero_159
+  - first:
+      213: -8889585884984777168
+    second: Human_Female_Warrior_Dagger_Hero_160
+  - first:
+      213: -6842314128416000842
+    second: Human_Female_Warrior_Dagger_Hero_161
+  - first:
+      213: -3484458127453990607
+    second: Human_Female_Warrior_Dagger_Hero_162
+  - first:
+      213: 5905005501454271093
+    second: Human_Female_Warrior_Dagger_Hero_163
+  - first:
+      213: 5596714562884615367
+    second: Human_Female_Warrior_Dagger_Hero_164
+  - first:
+      213: 4680862724858262035
+    second: Human_Female_Warrior_Dagger_Hero_165
+  - first:
+      213: -1086952757925257372
+    second: Human_Female_Warrior_Dagger_Hero_166
+  - first:
+      213: 3450099340094177360
+    second: Human_Female_Warrior_Dagger_Hero_167
+  - first:
+      213: -8290955632094894618
+    second: Human_Female_Warrior_Dagger_Hero_168
+  - first:
+      213: 6872742203439304161
+    second: Human_Female_Warrior_Dagger_Hero_169
+  - first:
+      213: -6210271351863072562
+    second: Human_Female_Warrior_Dagger_Hero_170
+  - first:
+      213: 509610664761988818
+    second: Human_Female_Warrior_Dagger_Hero_171
+  - first:
+      213: 978863400401921686
+    second: Human_Female_Warrior_Dagger_Hero_172
+  - first:
+      213: -2936197898694475641
+    second: Human_Female_Warrior_Dagger_Hero_173
+  - first:
+      213: -8834954048544333311
+    second: Human_Female_Warrior_Dagger_Hero_174
+  - first:
+      213: -155023382570338540
+    second: Human_Female_Warrior_Dagger_Hero_175
+  - first:
+      213: 5545155815244797612
+    second: Human_Female_Warrior_Dagger_Hero_176
+  - first:
+      213: -4173252838186536465
+    second: Human_Female_Warrior_Dagger_Hero_177
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10db6d8f289f07160800000000000000
+      internalID: 7021386159986490625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8858161e8ff19bd40800000000000000
+      internalID: 5600542765405537672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb91dd0929f0c4460800000000000000
+      internalID: 7227168624192854463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9475c3793d02ae8a0800000000000000
+      internalID: -6275167037639862455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2740bd0265400d70800000000000000
+      internalID: 9007275542179759916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4961cbfe0236a8ff0800000000000000
+      internalID: -33105054139672940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a03b7ec6b2f88e0800000000000000
+      internalID: -1689083588496913785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b3829693e9b13a0800000000000000
+      internalID: -6693582451741541514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81920d01a5915ea70800000000000000
+      internalID: 8855512116913776920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d04c8b0017af1b10800000000000000
+      internalID: 1954464450657140949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5f7fde9740c82a0800000000000000
+      internalID: -6734002421095729745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af0bbeccfcd557e0800000000000000
+      internalID: -1777271499569557593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae122134e52521310800000000000000
+      internalID: 1374251401107087850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e6f5f09d65a01b0800000000000000
+      internalID: -5689639688963396006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84ea632abdb81520800000000000000
+      internalID: 2673094986000163983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc29b9b7c63fda010800000000000000
+      internalID: 1201884322833601228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bb581d6aa287a80800000000000000
+      internalID: -8468972203302077686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879989c3f91b190a0800000000000000
+      internalID: -6876519858543486600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6de2fec4dcecdd00800000000000000
+      internalID: 998933616118656363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fecbd13650d7a00800000000000000
+      internalID: 755766235726933847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1416982cc5dee7420800000000000000
+      internalID: 2629800215087505729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989e2679cdd1974b0800000000000000
+      internalID: -5442285841430681207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f502166ff0c15200800000000000000
+      internalID: 167126864351069681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9086a3d2b8f09c7a0800000000000000
+      internalID: -6356532308623071223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6a283a5eab59040800000000000000
+      internalID: 4653831285410801373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1942bc56ed9ce5600800000000000000
+      internalID: 459026169066103953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d811da7818d180c0800000000000000
+      internalID: -4575138146780374823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2db610cdfa305560800000000000000
+      internalID: 7300399857491426607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbe5917685e92680800000000000000
+      internalID: -8779233632988042279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccd55fa59e3197c0800000000000000
+      internalID: -4066400175926158136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e976c382cd210b0800000000000000
+      internalID: -5759298908083216888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf685e8ae2706eb0800000000000000
+      internalID: -4728653257002946642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406139b3231de46e0800000000000000
+      internalID: -1851312383124630012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e13d13c21176fae0800000000000000
+      internalID: -1515899899166772760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34054b9dc5fa29d0800000000000000
+      internalID: -2798153955035249601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bb14a9bfa661e10800000000000000
+      internalID: 2168037899482807191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed89d993f9ab95e0800000000000000
+      internalID: -1901739553910583839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6860de750e28940800000000000000
+      internalID: 5297042779984529081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd16245e70af90820800000000000000
+      internalID: 2885111948125561311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663e8505d1bd20f90800000000000000
+      internalID: -6988782752777051290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670bb233dfb0016b0800000000000000
+      internalID: -5327745177066164106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ab7fc00afafb370800000000000000
+      internalID: 8340578136860637774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4801ce40899234410800000000000000
+      internalID: 1460056437092520068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ffedc91c49a7790800000000000000
+      internalID: -7531543867542274205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e327b8a4f523f5060800000000000000
+      internalID: 6944324535282528830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ea76d9d9ef37b20800000000000000
+      internalID: 3131126118856764994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cc37c7a4a341650800000000000000
+      internalID: 6202646678385970297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c327beb853ae420800000000000000
+      internalID: 2659997404982557848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fab55b37c0917b40800000000000000
+      internalID: 5436285410581265137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c9aa0048efcaa80800000000000000
+      internalID: -8454102557580944343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a7c207da8fefe80800000000000000
+      internalID: -8142797652444284265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67851726896c9130800000000000000
+      internalID: 3574848229127587694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388566cc49ce0cc20800000000000000
+      internalID: 3224837457025849475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e8bab3a9bb05950800000000000000
+      internalID: 6435850138612895317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f0526880c9e8870800000000000000
+      internalID: 8687052291668512517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2746abb65a5b7f0800000000000000
+      internalID: -597389493449493838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770e9a401f7124b20800000000000000
+      internalID: 3117080216026603639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2063248e2f94c2570800000000000000
+      internalID: 8443204709040403970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12804268aee483ab0800000000000000
+      internalID: -5028182214779336671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35eb5825abf6be0c0800000000000000
+      internalID: -4545416552861286829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cbbf854cc5580a0800000000000000
+      internalID: -6879990857362326477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d5f7f6ba1876df0800000000000000
+      internalID: -187038286202577578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c448e595125500720800000000000000
+      internalID: 2810339769200837708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875b9e32ed937e810800000000000000
+      internalID: 1794466602778473848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad7f2a5ea4341300800000000000000
+      internalID: 221860205090012591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438c4775cdf2cb0e0800000000000000
+      internalID: -2252873090185508812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef2fca27126b5be0800000000000000
+      internalID: -1487487400273825819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56064d958341e5850800000000000000
+      internalID: 6367549155406274661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f7ae525af6a7a10800000000000000
+      internalID: 1907960147241238407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e72fbcb2f7207aa0800000000000000
+      internalID: -6165383966367995927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad2c5981dc39c380800000000000000
+      internalID: -8950555913771799128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb69e1928cef0e60800000000000000
+      internalID: 7930817514360630206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877d2abdb700b76d0800000000000000
+      internalID: -2991796995491702920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce9d059954d7f1a0800000000000000
+      internalID: -6775713633137746225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a0f3eac1ed49dc0800000000000000
+      internalID: -3633034784617330053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0d1bc0c2b7a9d40800000000000000
+      internalID: 5591917316455649444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f028d9478bd640f0800000000000000
+      internalID: -1132976882131132174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff72eace780a1f50800000000000000
+      internalID: 6852799123660374002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304c5304b625dc2a0800000000000000
+      internalID: -6715620848747297789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b035f8cce30a090800000000000000
+      internalID: -8025345487675389177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd765de21a1cc110800000000000000
+      internalID: 1282428662487350748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8dcbf68ba2ff100800000000000000
+      internalID: 143880684736141475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fd65211bf50e330800000000000000
+      internalID: 3738092904839044968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d1af360338d82c0800000000000000
+      internalID: -4427738614776324807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dee2b01c0691220800000000000000
+      internalID: 2457101453939895669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da86c0781afddd610800000000000000
+      internalID: 1647718923535935661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7166cd7597962aea0800000000000000
+      internalID: -5863007794996943337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274ee5e5a0cb0e440800000000000000
+      internalID: 4963173542081258610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2956abfd45594a430800000000000000
+      internalID: 3793320977916126610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf9b7e44bf6a7730800000000000000
+      internalID: 3997630439446257580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f4e0d994b1e30d0800000000000000
+      internalID: -3441283062282957044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2926f760908a8c30800000000000000
+      internalID: 4362440546769578283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8702c6bbcbc4b7850800000000000000
+      internalID: 6375774070955057272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bebfe34a0db66ab0800000000000000
+      internalID: -5015113283243360591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6870f23ecb0077770800000000000000
+      internalID: 8608350024007354246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a3fa3f5c382cde0800000000000000
+      internalID: -1314343255018620339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3034e4924c81b380800000000000000
+      internalID: -8957223966269493189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a40ebd5670a5480800000000000000
+      internalID: -8909800778737104228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69cf3fe9d9629490800000000000000
+      internalID: -7741008424753706646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d5840b8401dfab0800000000000000
+      internalID: -4972800509165937323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865f3c75481a69a70800000000000000
+      internalID: 8833425308914021736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dc5a0e61746bfd0800000000000000
+      internalID: -2326593993906467476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86f9c5f4f59bbdb0800000000000000
+      internalID: -4775058100568066419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f075b5e55d15cbb0800000000000000
+      internalID: -4916491163441729296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6e4db70adbcc890800000000000000
+      internalID: -7436360387725564235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fffed0cbde4be70800000000000000
+      internalID: 9130183736530304836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350f32e6e68161400800000000000000
+      internalID: 294449688212664403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36daba7a02bf87c40800000000000000
+      internalID: 5510430261758373219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c966dfaa705176c20800000000000000
+      internalID: 3199549182947714716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97ee9a9e8ee5f5b0800000000000000
+      internalID: -5335095887303612513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52654974c04938090800000000000000
+      internalID: -8033414529837410779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558107a282ead02f0800000000000000
+      internalID: -1004955654299838379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b744af430a10bc1e0800000000000000
+      internalID: -2176644207308290949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033746d80dc6be980800000000000000
+      internalID: -8508587428005252304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c50e0c55138db6a0800000000000000
+      internalID: -6431840565053225527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07491b46745456db0800000000000000
+      internalID: -4799353654959041424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4858a5de3ba4867a0800000000000000
+      internalID: -6383770335155944060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda31ff266bd3fa90800000000000000
+      internalID: -7281234940590474531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabc8f7147d4c9e70800000000000000
+      internalID: 9123252106159508397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe91ba6cfc885e2d0800000000000000
+      internalID: -3250041130105234961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3500fe450685fb4f0800000000000000
+      internalID: -810832237138345901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b92d4f879046f90800000000000000
+      internalID: -6961428708899775606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3554b869b064460800000000000000
+      internalID: 7225475393372115932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8bce498fbca4a60800000000000000
+      internalID: 7659158384807819443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a321e0896bd6ec20800000000000000
+      internalID: 3235514628492567464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f0cd10064e092b0800000000000000
+      internalID: -5579708837312852168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219f0dbd6fd58cc50800000000000000
+      internalID: 6685696961662744850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2590d0b514ef2890800000000000000
+      internalID: -7480509674227198677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d459efb84d84310800000000000000
+      internalID: 1389594182780538218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dc11bf98a206ed0800000000000000
+      internalID: -2422889827414192806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb855013aff927800800000000000000
+      internalID: 608724796561512635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58155ae116c19fbf0800000000000000
+      internalID: -290169497537130107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4ec7563a7c2f820800000000000000
+      internalID: 2950640210477376695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fb5ccd428d438c0800000000000000
+      internalID: -4020350914500640980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66ee0c17259edcc0800000000000000
+      internalID: -3684343449935485332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd48a90a156c0e60800000000000000
+      internalID: 7929824206398180828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a19d9b26c4ba1a10800000000000000
+      internalID: 1881014557608874405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923153f0525544ce0800000000000000
+      internalID: -1421917964684946647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deff54c4631e88f20800000000000000
+      internalID: 3425235139939401709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3a4a306884e3330800000000000000
+      internalID: 3692468484914324424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b6dec05653dc750800000000000000
+      internalID: 6326771759650270068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6230080ed140fdb0800000000000000
+      internalID: -4760232384257838481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835d701acb01ba650800000000000000
+      internalID: 6245103710620865848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85702f6c0a9dd1220800000000000000
+      internalID: 2458360256169903960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca6c3b2d0883bae0800000000000000
+      internalID: -1534733457861874994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a57c3f8d1af88e0800000000000000
+      internalID: -1688953382065710453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7072ce1ecf11c4c0800000000000000
+      internalID: -4269096001630736257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc56cf74f202a2b40800000000000000
+      internalID: 5416176889309717967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486f78adcf6f642c0800000000000000
+      internalID: -4447596016123251068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf9713961ea56190800000000000000
+      internalID: -7969772553581912115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad608d158c48b8fc0800000000000000
+      internalID: -3491551090194250022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44416dc90f2e20e90800000000000000
+      internalID: -7060831742712212412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ff32b87034d4450800000000000000
+      internalID: 6074585172070891366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e33c74b4c8293750800000000000000
+      internalID: 6285099580278977506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d838fc004698b10800000000000000
+      internalID: 1984227065477696843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ec057a4a8e6d320800000000000000
+      internalID: 2582507230222929529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa810a7837f331e80800000000000000
+      internalID: -8209147930337077073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1148ee2b760c1360800000000000000
+      internalID: 7141590235240481054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afce037c901254a00800000000000000
+      internalID: 740034039652609274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9526952e02952270800000000000000
+      internalID: 8225140883919873437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036e7259cb8d1a480800000000000000
+      internalID: -8889585884984777168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4b0266d873b01a0800000000000000
+      internalID: -6842314128416000842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131d1666bc7b4afc0800000000000000
+      internalID: -3484458127453990607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572c8eea73bc2f150800000000000000
+      internalID: 5905005501454271093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc3ef50e368bad40800000000000000
+      internalID: 5596714562884615367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3123b8519d3c5f040800000000000000
+      internalID: 4680862724858262035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fdb30c93e5ae0f0800000000000000
+      internalID: -1086952757925257372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0508f16021731ef20800000000000000
+      internalID: 3450099340094177360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5a57ca7cb90fc80800000000000000
+      internalID: -8290955632094894618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edc5d4ee92e06f50800000000000000
+      internalID: 6872742203439304161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8aa61eb1fa0d9a0800000000000000
+      internalID: -6210271351863072562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d693e61330821700800000000000000
+      internalID: 509610664761988818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6966690931f959d00800000000000000
+      internalID: 978863400401921686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780411a51978047d0800000000000000
+      internalID: -2936197898694475641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102ad993a10f36580800000000000000
+      internalID: -8834954048544333311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417f30e0e0f39ddf0800000000000000
+      internalID: -155023382570338540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca69bdf95d954fc40800000000000000
+      internalID: 5545155815244797612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_Female_Warrior_Dagger_Hero_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1300e87a0a516c0800000000000000
+      internalID: -4173252838186536465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
